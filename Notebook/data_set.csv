@@ -1,0 +1,13 @@
+id,name,age,salary,joining_date,department
+1,Rahul,21,25000,2024-01-15,IT
+2,Priya,22,30000,15/02/2024,HR
+3,,23,,2024/03/10,Finance
+4,Amit,,45000,April 5 2024,IT
+5,Sneha,Twenty,50000,2024-13-01,
+5,Sneha,24,50000,,IT
+7,Vikas,25,-1000,2024-06-20,Sales
+8,,26,70000,20-07-2024,HR
+9,Pooja,,80000,2024-08-25,Finance
+10,Karan,28,,09/15/2024,IT
+11,Anjali,29,55000,,
+12,Rohit,30,62000,2024-11-11,Marketing
