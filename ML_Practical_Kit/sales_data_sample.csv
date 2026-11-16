@@ -1,0 +1,901 @@
+ORDERNUMBER,QUANTITYORDERED,PRICEEACH,ORDERLINENUMBER,SALES,ORDERDATE,STATUS,QTR_ID,MONTH_ID,YEAR_ID,PRODUCTLINE,MSRP,PRODUCTCODE,CUSTOMERNAME,PHONE,ADDRESSLINE1,ADDRESSLINE2,CITY,STATE,POSTALCODE,COUNTRY,TERRITORY,CONTACTLASTNAME,CONTACTFIRSTNAME,DEALSIZE
+10100,29,136.67,1,3963.43,08/15/2024 00:00,Shipped,3,202408,2024,Planes,155.93,S03070,Vivaan Patil,+91-7490686523,177 Market Road,,Kolkata,West Bengal,425389,India,East,Patil,Vivaan,Medium
+10101,57,131.57,7,7499.49,12/13/2022 00:00,Shipped,4,202212,2022,Motorcycles,135.75,S04913,Aanya Deshmukh,+91-7004380922,266 Market Road,,Nashik,Maharashtra,655783,India,East,Deshmukh,Aanya,Large
+10102,13,66.3,2,861.9,04/20/2023 00:00,Shipped,2,202304,2023,Trucks and Buses,74.97,S02519,Aanya Deshmukh,+91-9367559903,293 Market Road,,Nashik,Maharashtra,451470,India,East,Deshmukh,Aanya,Small
+10103,13,35.88,6,466.44,09/17/2022 00:00,Shipped,3,202209,2022,Ships,40.25,S00195,Aanya Singh,+91-9891771847,289 Market Road,,Jaipur,Rajasthan,517643,India,South,Singh,Aanya,Small
+10104,28,154.9,6,4337.2,08/03/2022 00:00,Shipped,3,202208,2022,Trains,189.79,S01194,Vivaan Mehta,+91-8626919245,218 Market Road,,Hyderabad,Telangana,553356,India,West,Mehta,Vivaan,Medium
+10105,68,160.85,4,10937.8,06/15/2022 00:00,Shipped,2,202206,2022,Trains,197.56,S03104,Vivaan Sharma,+91-8267821869,32 Market Road,,Pune,Maharashtra,654841,India,West,Sharma,Vivaan,Large
+10106,60,176.83,2,10609.8,07/28/2025 00:00,Shipped,3,202507,2025,Classic Cars,183.21,S04286,Aanya Pawar,+91-8764891754,296 Market Road,,Bengaluru,Karnataka,588833,India,South,Pawar,Aanya,Large
+10107,65,173.96,4,11307.4,04/13/2022 00:00,Shipped,2,202204,2022,Classic Cars,199.54,S03032,Sara Khan,+91-7254737885,10 Market Road,,Mumbai,Maharashtra,455043,India,East,Khan,Sara,Large
+10108,61,125.07,2,7629.27,01/25/2024 00:00,Shipped,1,202401,2024,Classic Cars,153.2,S02028,Aarav Sharma,+91-7644035572,165 Market Road,,Pune,Maharashtra,485939,India,East,Sharma,Aarav,Large
+10109,17,164.14,6,2790.38,01/13/2024 00:00,Shipped,1,202401,2024,Planes,179.01,S01606,Sara Mehta,+91-9093165709,134 Market Road,,Mumbai,Maharashtra,460008,India,East,Mehta,Sara,Medium
+10110,34,97.2,6,3304.8,03/23/2022 00:00,Shipped,1,202203,2022,Planes,111.05,S03416,Priya Sharma,+91-9095429754,203 Market Road,,Nashik,Maharashtra,577351,India,North,Sharma,Priya,Medium
+10111,41,148.1,6,6072.1,05/15/2025 00:00,Shipped,2,202505,2025,Vintage Cars,179.91,S04497,Aanya Joshi,+91-8487695804,235 Market Road,,Pune,Maharashtra,615274,India,North,Joshi,Aanya,Large
+10112,19,173.3,6,3292.7,01/02/2024 00:00,Shipped,1,202401,2024,Trucks and Buses,197.74,S01390,Aditya Patil,+91-9102948939,221 Market Road,,Kolkata,West Bengal,612787,India,West,Patil,Aditya,Medium
+10113,69,149.44,2,10311.36,07/05/2022 00:00,Shipped,3,202207,2022,Classic Cars,151.05,S02764,Ishaan Sharma,+91-9073834139,68 Market Road,,Delhi,Delhi,625114,India,North,Sharma,Ishaan,Large
+10114,46,92.36,1,4248.56,07/08/2022 00:00,Shipped,3,202207,2022,Ships,99.56,S02137,Aanya Kulkarni,+91-7196597811,226 Market Road,,Bengaluru,Karnataka,610625,India,East,Kulkarni,Aanya,Medium
+10115,61,86.66,5,5286.26,10/20/2024 00:00,Shipped,4,202410,2024,Motorcycles,110.2,S01232,Anaya Khan,+91-9080952690,227 Market Road,,Kolkata,West Bengal,670780,India,West,Khan,Anaya,Large
+10116,25,73.73,5,1843.25,06/24/2024 00:00,Shipped,2,202406,2024,Motorcycles,80.14,S02026,Aanya Joshi,+91-7658184836,8 Market Road,,Kolkata,West Bengal,672067,India,East,Joshi,Aanya,Medium
+10117,52,85.06,7,4423.12,08/26/2023 00:00,Shipped,3,202308,2023,Classic Cars,109.4,S00442,Priya Deshmukh,+91-9874139586,191 Market Road,,Kolkata,West Bengal,482433,India,North,Deshmukh,Priya,Medium
+10118,16,153.09,5,2449.44,08/15/2023 00:00,Shipped,3,202308,2023,Ships,178.11,S02651,Anaya Kulkarni,+91-7763561846,39 Market Road,,Mumbai,Maharashtra,491351,India,West,Kulkarni,Anaya,Medium
+10119,11,135.23,6,1487.53,02/21/2022 00:00,Shipped,1,202202,2022,Ships,157.61,S00536,Diya Patil,+91-7097055202,169 Market Road,,Chennai,Tamil Nadu,416827,India,North,Patil,Diya,Medium
+10120,48,67.48,3,3239.04,02/16/2022 00:00,Shipped,1,202202,2022,Vintage Cars,85.68,S02370,Anaya Sharma,+91-7094244088,69 Market Road,,Jaipur,Rajasthan,480218,India,East,Sharma,Anaya,Medium
+10121,14,136.73,1,1914.22,02/23/2024 00:00,Shipped,1,202402,2024,Motorcycles,155.07,S04486,Diya Patil,+91-7684866898,108 Market Road,,Pune,Maharashtra,552292,India,South,Patil,Diya,Medium
+10122,26,86.91,1,2259.66,06/16/2023 00:00,Shipped,2,202306,2023,Planes,94.16,S00729,Aarav Sharma,+91-8882116667,82 Market Road,,Kolkata,West Bengal,597689,India,East,Sharma,Aarav,Medium
+10123,57,113.67,4,6479.19,01/04/2023 00:00,In Process,1,202301,2023,Vintage Cars,117.85,S01252,Priya Mehta,+91-8368817429,258 Market Road,,Kolkata,West Bengal,662689,India,South,Mehta,Priya,Large
+10124,39,85.56,1,3336.84,07/08/2023 00:00,Shipped,3,202307,2023,Planes,105.68,S03605,Diya Khan,+91-9195188179,271 Market Road,,Kolkata,West Bengal,578247,India,East,Khan,Diya,Medium
+10125,32,108.24,4,3463.68,06/03/2024 00:00,Resolved,2,202406,2024,Motorcycles,126.04,S04535,Aditya Patil,+91-7696178769,239 Market Road,,Nagpur,Maharashtra,691536,India,South,Patil,Aditya,Medium
+10126,27,139.47,3,3765.69,03/05/2023 00:00,Shipped,1,202303,2023,Trucks and Buses,178.98,S04777,Diya Kulkarni,+91-8212676257,217 Market Road,,Mumbai,Maharashtra,566004,India,East,Kulkarni,Diya,Medium
+10127,50,139.67,2,6983.5,05/26/2023 00:00,Resolved,2,202305,2023,Ships,162.04,S00601,Ishaan Joshi,+91-9377616795,109 Market Road,,Chennai,Tamil Nadu,657433,India,West,Joshi,Ishaan,Large
+10128,67,142.98,5,9579.66,02/18/2023 00:00,In Process,1,202302,2023,Classic Cars,163.74,S01196,Rohan Patil,+91-9286093857,43 Market Road,,Hyderabad,Telangana,642513,India,West,Patil,Rohan,Large
+10129,54,88.66,5,4787.64,08/31/2024 00:00,Shipped,3,202408,2024,Trains,97.93,S04919,Aanya Singh,+91-7281156503,170 Market Road,,Chennai,Tamil Nadu,547036,India,South,Singh,Aanya,Medium
+10130,31,133.57,1,4140.67,03/22/2022 00:00,Shipped,1,202203,2022,Vintage Cars,142.89,S02528,Ishaan Singh,+91-8312223468,128 Market Road,,Nashik,Maharashtra,661816,India,West,Singh,Ishaan,Medium
+10131,35,65.81,4,2303.35,09/03/2025 00:00,Shipped,3,202509,2025,Trucks and Buses,84.94,S04166,Aanya Mehta,+91-7942606782,85 Market Road,,Mumbai,Maharashtra,659101,India,West,Mehta,Aanya,Medium
+10132,16,101.61,7,1625.76,03/21/2024 00:00,Shipped,1,202403,2024,Planes,105.0,S00073,Aarav Pawar,+91-7840555981,73 Market Road,,Jaipur,Rajasthan,493756,India,East,Pawar,Aarav,Medium
+10133,18,117.47,3,2114.46,12/24/2022 00:00,Shipped,4,202212,2022,Classic Cars,154.56,S00582,Priya Kulkarni,+91-8366770959,49 Market Road,,Bengaluru,Karnataka,464213,India,East,Kulkarni,Priya,Medium
+10134,26,132.97,6,3457.22,01/14/2025 00:00,On Hold,1,202501,2025,Ships,134.22,S01022,Diya Pawar,+91-7496287446,249 Market Road,,Kolkata,West Bengal,436446,India,North,Pawar,Diya,Medium
+10135,33,166.8,3,5504.4,10/05/2025 00:00,Shipped,4,202510,2025,Classic Cars,197.29,S00431,Sara Kulkarni,+91-7808855941,97 Market Road,,Jaipur,Rajasthan,676443,India,East,Kulkarni,Sara,Large
+10136,69,75.72,2,5224.68,03/27/2022 00:00,On Hold,1,202203,2022,Trucks and Buses,77.27,S04454,Sara Patil,+91-7429061957,275 Market Road,,Delhi,Delhi,532705,India,North,Patil,Sara,Large
+10137,62,156.79,6,9720.98,10/26/2022 00:00,In Process,4,202210,2022,Trucks and Buses,199.57,S04017,Ishaan Patil,+91-9453232791,201 Market Road,,Nashik,Maharashtra,570110,India,North,Patil,Ishaan,Large
+10138,16,76.67,3,1226.72,07/30/2022 00:00,In Process,3,202207,2022,Ships,82.35,S01952,Sara Pawar,+91-8628587808,50 Market Road,,Kolkata,West Bengal,482023,India,West,Pawar,Sara,Medium
+10139,29,112.79,7,3270.91,04/14/2022 00:00,Shipped,2,202204,2022,Motorcycles,135.13,S00391,Ishaan Joshi,+91-7235129413,19 Market Road,,Chennai,Tamil Nadu,516848,India,South,Joshi,Ishaan,Medium
+10140,13,154.21,5,2004.73,12/15/2024 00:00,Shipped,4,202412,2024,Planes,203.67,S00531,Sara Mehta,+91-8202528540,125 Market Road,,Hyderabad,Telangana,520803,India,East,Mehta,Sara,Medium
+10141,13,138.47,6,1800.11,10/09/2022 00:00,Resolved,4,202210,2022,Motorcycles,169.94,S01311,Aarav Patil,+91-8540380086,25 Market Road,,Jaipur,Rajasthan,574550,India,West,Patil,Aarav,Medium
+10142,32,159.43,6,5101.76,07/15/2023 00:00,Shipped,3,202307,2023,Classic Cars,169.38,S03635,Vivaan Joshi,+91-7831712023,285 Market Road,,Nashik,Maharashtra,452550,India,East,Joshi,Vivaan,Large
+10143,67,152.23,7,10199.41,04/05/2025 00:00,Shipped,2,202504,2025,Trucks and Buses,194.68,S04006,Priya Sharma,+91-9136475782,272 Market Road,,Nagpur,Maharashtra,635281,India,West,Sharma,Priya,Large
+10144,21,71.45,4,1500.45,06/12/2024 00:00,Shipped,2,202406,2024,Vintage Cars,82.49,S02697,Aanya Naik,+91-7096353928,197 Market Road,,Pune,Maharashtra,517255,India,West,Naik,Aanya,Medium
+10145,50,178.94,7,8947.0,09/16/2024 00:00,Shipped,3,202409,2024,Vintage Cars,179.77,S04537,Vivaan Patil,+91-9784670284,88 Market Road,,Nagpur,Maharashtra,472061,India,South,Patil,Vivaan,Large
+10146,33,170.55,1,5628.15,05/23/2022 00:00,On Hold,2,202205,2022,Classic Cars,199.61,S04640,Aditya Naik,+91-7966903811,260 Market Road,,Delhi,Delhi,404397,India,West,Naik,Aditya,Large
+10147,42,94.53,4,3970.26,11/19/2025 00:00,Shipped,4,202511,2025,Trucks and Buses,121.41,S03838,Diya Khan,+91-9642813528,194 Market Road,,Delhi,Delhi,430575,India,West,Khan,Diya,Medium
+10148,62,37.08,3,2298.96,05/01/2022 00:00,Shipped,2,202205,2022,Trucks and Buses,42.66,S00394,Aarav Sharma,+91-9411171380,107 Market Road,,Mumbai,Maharashtra,480787,India,South,Sharma,Aarav,Medium
+10149,59,75.52,1,4455.68,11/03/2024 00:00,Shipped,4,202411,2024,Vintage Cars,95.57,S04449,Anaya Patil,+91-7979621384,264 Market Road,,Kolkata,West Bengal,620009,India,West,Patil,Anaya,Medium
+10150,59,155.42,7,9169.78,07/23/2024 00:00,Shipped,3,202407,2024,Vintage Cars,193.8,S04541,Ishaan Khan,+91-8569857946,63 Market Road,,Delhi,Delhi,656534,India,North,Khan,Ishaan,Large
+10151,34,172.63,6,5869.42,08/26/2023 00:00,Shipped,3,202308,2023,Trains,200.24,S02799,Vivaan Patil,+91-8405327358,170 Market Road,,Delhi,Delhi,685835,India,North,Patil,Vivaan,Large
+10152,12,154.75,6,1857.0,05/09/2025 00:00,Shipped,2,202505,2025,Motorcycles,172.26,S02996,Aditya Kulkarni,+91-9961238890,207 Market Road,,Kolkata,West Bengal,489382,India,East,Kulkarni,Aditya,Medium
+10153,69,89.51,5,6176.19,07/27/2025 00:00,Shipped,3,202507,2025,Trucks and Buses,112.27,S03898,Aditya Pawar,+91-8560591812,272 Market Road,,Delhi,Delhi,591157,India,East,Pawar,Aditya,Large
+10154,69,38.48,5,2655.12,04/13/2022 00:00,Shipped,2,202204,2022,Trucks and Buses,43.45,S02962,Aarav Mehta,+91-9337082398,42 Market Road,,Kolkata,West Bengal,480497,India,East,Mehta,Aarav,Medium
+10155,61,107.64,3,6566.04,10/31/2025 00:00,Shipped,4,202510,2025,Ships,114.05,S01721,Sara Patil,+91-8110002292,87 Market Road,,Nashik,Maharashtra,442790,India,West,Patil,Sara,Large
+10156,38,86.46,5,3285.48,12/19/2022 00:00,Shipped,4,202212,2022,Classic Cars,96.17,S03485,Aditya Patil,+91-7434573277,252 Market Road,,Kolkata,West Bengal,562935,India,South,Patil,Aditya,Medium
+10157,26,48.45,7,1259.7,03/02/2025 00:00,Shipped,1,202503,2025,Ships,63.32,S03926,Aarav Mehta,+91-8679752714,150 Market Road,,Jaipur,Rajasthan,593080,India,West,Mehta,Aarav,Medium
+10158,20,45.88,2,917.6,04/14/2025 00:00,In Process,2,202504,2025,Trucks and Buses,50.43,S00708,Aarav Deshmukh,+91-8253575377,226 Market Road,,Chennai,Tamil Nadu,628322,India,West,Deshmukh,Aarav,Small
+10159,32,52.96,3,1694.72,03/24/2024 00:00,Resolved,1,202403,2024,Vintage Cars,57.32,S03399,Priya Joshi,+91-9299782537,232 Market Road,,Kolkata,West Bengal,435002,India,North,Joshi,Priya,Medium
+10160,30,60.87,1,1826.1,06/15/2025 00:00,Shipped,2,202506,2025,Trucks and Buses,63.71,S00867,Vivaan Joshi,+91-7242378748,92 Market Road,,Chennai,Tamil Nadu,624174,India,South,Joshi,Vivaan,Medium
+10161,26,143.07,7,3719.82,04/21/2025 00:00,Shipped,2,202504,2025,Vintage Cars,145.83,S02874,Priya Kulkarni,+91-7202922611,100 Market Road,,Hyderabad,Telangana,491088,India,North,Kulkarni,Priya,Medium
+10162,67,87.26,4,5846.42,02/03/2024 00:00,Shipped,1,202402,2024,Trucks and Buses,117.09,S00540,Vivaan Joshi,+91-8757854020,150 Market Road,,Chennai,Tamil Nadu,483530,India,East,Joshi,Vivaan,Large
+10163,49,95.54,5,4681.46,09/19/2022 00:00,Resolved,3,202209,2022,Planes,113.49,S04961,Aarav Sharma,+91-7127482609,9 Market Road,,Jaipur,Rajasthan,409483,India,South,Sharma,Aarav,Medium
+10164,23,119.76,2,2754.48,09/27/2023 00:00,Cancelled,3,202309,2023,Classic Cars,150.34,S03339,Diya Sharma,+91-7580941513,239 Market Road,,Hyderabad,Telangana,461346,India,South,Sharma,Diya,Medium
+10165,48,174.02,1,8352.96,08/08/2025 00:00,Shipped,3,202508,2025,Motorcycles,221.1,S02349,Rohan Sharma,+91-8227023171,35 Market Road,,Hyderabad,Telangana,546299,India,South,Sharma,Rohan,Large
+10166,52,143.47,6,7460.44,10/24/2022 00:00,Shipped,4,202210,2022,Classic Cars,161.16,S02519,Aarav Naik,+91-9539348934,280 Market Road,,Pune,Maharashtra,456765,India,South,Naik,Aarav,Large
+10167,41,126.86,7,5201.26,12/31/2025 00:00,Shipped,4,202512,2025,Vintage Cars,162.33,S03096,Ishaan Pawar,+91-8639397428,233 Market Road,,Jaipur,Rajasthan,496439,India,North,Pawar,Ishaan,Large
+10168,66,141.57,3,9343.62,09/23/2022 00:00,Shipped,3,202209,2022,Trucks and Buses,189.21,S00624,Aanya Singh,+91-9616833484,106 Market Road,,Chennai,Tamil Nadu,559081,India,North,Singh,Aanya,Large
+10169,67,137.89,6,9238.63,08/29/2024 00:00,Cancelled,3,202408,2024,Classic Cars,173.69,S02550,Aarav Joshi,+91-9279428340,22 Market Road,,Mumbai,Maharashtra,429267,India,East,Joshi,Aarav,Large
+10170,35,133.54,5,4673.9,07/25/2024 00:00,On Hold,3,202407,2024,Trucks and Buses,166.81,S03579,Vivaan Sharma,+91-8242250446,237 Market Road,,Nashik,Maharashtra,662616,India,West,Sharma,Vivaan,Medium
+10171,38,104.46,5,3969.48,10/14/2022 00:00,Cancelled,4,202210,2022,Classic Cars,120.26,S01303,Ishaan Sharma,+91-9531152418,135 Market Road,,Nashik,Maharashtra,492739,India,East,Sharma,Ishaan,Medium
+10172,23,115.03,2,2645.69,11/22/2023 00:00,Shipped,4,202311,2023,Planes,148.9,S02397,Rohan Pawar,+91-8480864988,59 Market Road,,Nagpur,Maharashtra,627846,India,West,Pawar,Rohan,Medium
+10173,57,99.22,5,5655.54,07/31/2022 00:00,Shipped,3,202207,2022,Trucks and Buses,102.31,S01652,Rohan Deshmukh,+91-7624619269,129 Market Road,,Kolkata,West Bengal,594336,India,North,Deshmukh,Rohan,Large
+10174,65,89.24,2,5800.6,06/17/2023 00:00,Resolved,2,202306,2023,Planes,112.66,S00805,Aanya Pawar,+91-9374725653,271 Market Road,,Delhi,Delhi,625474,India,West,Pawar,Aanya,Large
+10175,49,70.62,2,3460.38,11/02/2025 00:00,Shipped,4,202511,2025,Trucks and Buses,79.57,S04893,Sara Kulkarni,+91-9367205478,206 Market Road,,Delhi,Delhi,486754,India,East,Kulkarni,Sara,Medium
+10176,22,83.28,3,1832.16,03/21/2022 00:00,Shipped,1,202203,2022,Trucks and Buses,99.78,S02964,Aarav Pawar,+91-7664717348,206 Market Road,,Chennai,Tamil Nadu,451650,India,East,Pawar,Aarav,Medium
+10177,41,94.28,2,3865.48,06/27/2025 00:00,Shipped,2,202506,2025,Planes,123.75,S01961,Aditya Patil,+91-9261917194,154 Market Road,,Nagpur,Maharashtra,442936,India,North,Patil,Aditya,Medium
+10178,57,116.91,7,6663.87,09/16/2024 00:00,Shipped,3,202409,2024,Trains,141.67,S01691,Priya Pawar,+91-8523522015,46 Market Road,,Kolkata,West Bengal,468850,India,East,Pawar,Priya,Large
+10179,12,104.98,1,1259.76,12/29/2024 00:00,Shipped,4,202412,2024,Classic Cars,105.92,S03397,Aanya Kulkarni,+91-8675784727,284 Market Road,,Chennai,Tamil Nadu,563494,India,South,Kulkarni,Aanya,Medium
+10180,45,46.19,7,2078.55,02/17/2023 00:00,In Process,1,202302,2023,Motorcycles,57.87,S00541,Aditya Joshi,+91-9540133891,222 Market Road,,Nashik,Maharashtra,587349,India,West,Joshi,Aditya,Medium
+10181,49,81.0,2,3969.0,10/18/2025 00:00,Shipped,4,202510,2025,Vintage Cars,107.34,S02835,Aanya Kulkarni,+91-7480199628,155 Market Road,,Hyderabad,Telangana,626043,India,West,Kulkarni,Aanya,Medium
+10182,42,86.43,7,3630.06,01/06/2023 00:00,Shipped,1,202301,2023,Trains,105.85,S01152,Aanya Deshmukh,+91-8211395526,217 Market Road,,Delhi,Delhi,689243,India,West,Deshmukh,Aanya,Medium
+10183,48,136.04,3,6529.92,01/06/2024 00:00,Shipped,1,202401,2024,Planes,177.06,S04449,Aanya Khan,+91-7358650056,109 Market Road,,Nagpur,Maharashtra,649125,India,West,Khan,Aanya,Large
+10184,63,79.93,7,5035.59,02/23/2022 00:00,Shipped,1,202202,2022,Planes,103.02,S03921,Priya Mehta,+91-7167903319,222 Market Road,,Jaipur,Rajasthan,507126,India,East,Mehta,Priya,Large
+10185,17,31.19,4,530.23,07/20/2025 00:00,Shipped,3,202507,2025,Trucks and Buses,40.59,S03788,Diya Pawar,+91-8251774416,290 Market Road,,Nagpur,Maharashtra,541676,India,North,Pawar,Diya,Small
+10186,44,42.65,4,1876.6,10/26/2024 00:00,Shipped,4,202410,2024,Classic Cars,47.79,S00729,Aarav Singh,+91-9958847410,104 Market Road,,Mumbai,Maharashtra,686572,India,South,Singh,Aarav,Medium
+10187,57,104.55,1,5959.35,08/26/2022 00:00,Shipped,3,202208,2022,Trucks and Buses,121.9,S00404,Rohan Joshi,+91-9996707938,3 Market Road,,Delhi,Delhi,613393,India,West,Joshi,Rohan,Large
+10188,59,58.27,4,3437.93,08/25/2024 00:00,Shipped,3,202408,2024,Classic Cars,75.57,S02292,Aarav Mehta,+91-7536687075,222 Market Road,,Bengaluru,Karnataka,525062,India,East,Mehta,Aarav,Medium
+10189,38,104.19,4,3959.22,09/25/2022 00:00,Shipped,3,202209,2022,Vintage Cars,137.39,S01777,Sara Pawar,+91-8006647109,255 Market Road,,Mumbai,Maharashtra,650081,India,West,Pawar,Sara,Medium
+10190,69,116.13,7,8012.97,10/12/2023 00:00,Shipped,4,202310,2023,Planes,122.1,S03621,Aanya Sharma,+91-7595705086,248 Market Road,,Chennai,Tamil Nadu,440864,India,West,Sharma,Aanya,Large
+10191,29,170.02,2,4930.58,01/19/2024 00:00,Shipped,1,202401,2024,Vintage Cars,180.82,S03559,Vivaan Joshi,+91-8514054660,292 Market Road,,Nashik,Maharashtra,601934,India,East,Joshi,Vivaan,Medium
+10192,36,128.34,1,4620.24,09/22/2025 00:00,Shipped,3,202509,2025,Ships,143.92,S01986,Aanya Mehta,+91-8465186104,104 Market Road,,Pune,Maharashtra,684725,India,North,Mehta,Aanya,Medium
+10193,59,34.66,2,2044.94,05/01/2023 00:00,Shipped,2,202305,2023,Ships,44.0,S00807,Rohan Joshi,+91-8123414823,275 Market Road,,Bengaluru,Karnataka,558234,India,West,Joshi,Rohan,Medium
+10194,36,87.11,2,3135.96,01/19/2022 00:00,Shipped,1,202201,2022,Trains,113.79,S01621,Sara Patil,+91-8281555658,63 Market Road,,Mumbai,Maharashtra,583996,India,North,Patil,Sara,Medium
+10195,30,149.02,7,4470.6,09/24/2023 00:00,Shipped,3,202309,2023,Classic Cars,179.28,S02517,Ishaan Khan,+91-7292017179,176 Market Road,,Chennai,Tamil Nadu,417988,India,North,Khan,Ishaan,Medium
+10196,43,69.08,2,2970.44,09/15/2025 00:00,Shipped,3,202509,2025,Classic Cars,71.82,S01268,Aditya Joshi,+91-7791110339,266 Market Road,,Pune,Maharashtra,581527,India,North,Joshi,Aditya,Medium
+10197,47,168.75,7,7931.25,03/12/2025 00:00,Shipped,1,202503,2025,Classic Cars,186.69,S01589,Aanya Khan,+91-7590742371,274 Market Road,,Delhi,Delhi,487040,India,North,Khan,Aanya,Large
+10198,68,109.35,1,7435.8,03/28/2022 00:00,Shipped,1,202203,2022,Motorcycles,142.15,S01204,Vivaan Sharma,+91-9796547805,186 Market Road,,Pune,Maharashtra,698445,India,South,Sharma,Vivaan,Large
+10199,47,43.87,6,2061.89,03/20/2022 00:00,Shipped,1,202203,2022,Classic Cars,49.21,S00324,Sara Sharma,+91-8480343002,164 Market Road,,Nagpur,Maharashtra,495977,India,West,Sharma,Sara,Medium
+10200,21,66.25,3,1391.25,01/10/2025 00:00,Shipped,1,202501,2025,Vintage Cars,68.63,S03006,Vivaan Khan,+91-8638566689,138 Market Road,,Jaipur,Rajasthan,494207,India,West,Khan,Vivaan,Medium
+10201,13,165.94,1,2157.22,11/19/2024 00:00,Shipped,4,202411,2024,Trains,183.48,S04985,Ishaan Singh,+91-8316404726,260 Market Road,,Hyderabad,Telangana,518543,India,South,Singh,Ishaan,Medium
+10202,68,178.72,5,12152.96,03/25/2024 00:00,Shipped,1,202403,2024,Trucks and Buses,229.18,S04759,Diya Khan,+91-9653936337,264 Market Road,,Bengaluru,Karnataka,609186,India,South,Khan,Diya,Large
+10203,35,159.45,6,5580.75,05/09/2022 00:00,Shipped,2,202205,2022,Trains,186.99,S04646,Vivaan Singh,+91-9394581529,72 Market Road,,Mumbai,Maharashtra,685362,India,South,Singh,Vivaan,Large
+10204,22,78.1,6,1718.2,02/14/2023 00:00,Resolved,1,202302,2023,Classic Cars,82.79,S03294,Aanya Pawar,+91-9068649517,41 Market Road,,Nagpur,Maharashtra,503914,India,West,Pawar,Aanya,Medium
+10205,23,145.32,2,3342.36,05/23/2025 00:00,Shipped,2,202505,2025,Planes,161.22,S03737,Sara Naik,+91-7935363870,244 Market Road,,Nagpur,Maharashtra,462684,India,North,Naik,Sara,Medium
+10206,16,63.33,5,1013.28,07/23/2022 00:00,Shipped,3,202207,2022,Classic Cars,84.47,S00321,Aarav Patil,+91-7925261013,243 Market Road,,Bengaluru,Karnataka,629431,India,North,Patil,Aarav,Medium
+10207,21,87.68,4,1841.28,10/22/2022 00:00,Shipped,4,202210,2022,Vintage Cars,100.94,S01005,Rohan Kulkarni,+91-9820945359,30 Market Road,,Nashik,Maharashtra,562521,India,North,Kulkarni,Rohan,Medium
+10208,56,134.58,4,7536.48,10/23/2023 00:00,Shipped,4,202310,2023,Motorcycles,155.38,S03530,Aanya Khan,+91-9790205995,147 Market Road,,Jaipur,Rajasthan,536460,India,West,Khan,Aanya,Large
+10209,49,175.34,7,8591.66,12/09/2024 00:00,Resolved,4,202412,2024,Trucks and Buses,184.73,S04942,Rohan Mehta,+91-7848431070,152 Market Road,,Hyderabad,Telangana,697464,India,North,Mehta,Rohan,Large
+10210,45,95.88,3,4314.6,04/25/2025 00:00,On Hold,2,202504,2025,Planes,106.1,S04541,Sara Kulkarni,+91-8009350531,13 Market Road,,Nagpur,Maharashtra,548733,India,West,Kulkarni,Sara,Medium
+10211,10,104.38,3,1043.8,05/14/2024 00:00,In Process,2,202405,2024,Vintage Cars,134.14,S03154,Sara Singh,+91-7993895972,199 Market Road,,Mumbai,Maharashtra,585700,India,North,Singh,Sara,Medium
+10212,50,63.03,4,3151.5,12/21/2023 00:00,Shipped,4,202312,2023,Planes,80.37,S00545,Ishaan Pawar,+91-9352599524,291 Market Road,,Bengaluru,Karnataka,694543,India,East,Pawar,Ishaan,Medium
+10213,68,90.48,7,6152.64,07/18/2023 00:00,Resolved,3,202307,2023,Trucks and Buses,104.27,S04830,Aditya Kulkarni,+91-9521450131,64 Market Road,,Delhi,Delhi,462694,India,West,Kulkarni,Aditya,Large
+10214,65,39.45,7,2564.25,03/05/2022 00:00,Shipped,1,202203,2022,Classic Cars,51.79,S01590,Aditya Kulkarni,+91-8045271778,233 Market Road,,Hyderabad,Telangana,670912,India,North,Kulkarni,Aditya,Medium
+10215,33,158.79,5,5240.07,01/26/2023 00:00,Resolved,1,202301,2023,Trains,179.92,S00213,Ishaan Sharma,+91-9666947432,25 Market Road,,Bengaluru,Karnataka,688153,India,South,Sharma,Ishaan,Large
+10216,46,33.5,1,1541.0,11/10/2022 00:00,Shipped,4,202211,2022,Classic Cars,43.63,S03841,Aditya Mehta,+91-9526780824,65 Market Road,,Hyderabad,Telangana,541256,India,East,Mehta,Aditya,Medium
+10217,27,132.53,3,3578.31,03/25/2022 00:00,Resolved,1,202203,2022,Classic Cars,133.99,S00868,Aanya Khan,+91-9688511766,169 Market Road,,Kolkata,West Bengal,500922,India,West,Khan,Aanya,Medium
+10218,63,70.98,1,4471.74,12/24/2024 00:00,Shipped,4,202412,2024,Trucks and Buses,79.61,S01508,Diya Pawar,+91-7926961983,277 Market Road,,Bengaluru,Karnataka,448747,India,West,Pawar,Diya,Medium
+10219,65,101.42,1,6592.3,06/01/2023 00:00,Shipped,2,202306,2023,Classic Cars,131.77,S03386,Anaya Sharma,+91-8594668292,265 Market Road,,Chennai,Tamil Nadu,414366,India,North,Sharma,Anaya,Large
+10220,23,72.23,6,1661.29,01/15/2024 00:00,Cancelled,1,202401,2024,Ships,95.02,S04827,Aanya Patil,+91-7810676112,280 Market Road,,Nagpur,Maharashtra,695323,India,West,Patil,Aanya,Medium
+10221,39,90.01,6,3510.39,10/20/2022 00:00,Shipped,4,202210,2022,Classic Cars,113.84,S04535,Aanya Khan,+91-9486712529,296 Market Road,,Jaipur,Rajasthan,529452,India,South,Khan,Aanya,Medium
+10222,24,112.02,1,2688.48,05/13/2024 00:00,Resolved,2,202405,2024,Planes,138.28,S00819,Priya Joshi,+91-7600257829,240 Market Road,,Delhi,Delhi,600450,India,East,Joshi,Priya,Medium
+10223,46,126.13,4,5801.98,07/18/2022 00:00,Shipped,3,202207,2022,Planes,162.13,S00879,Ishaan Kulkarni,+91-7817126492,109 Market Road,,Hyderabad,Telangana,472221,India,West,Kulkarni,Ishaan,Large
+10224,27,171.04,2,4618.08,09/17/2024 00:00,Shipped,3,202409,2024,Trucks and Buses,213.4,S04045,Aditya Joshi,+91-9886352704,39 Market Road,,Jaipur,Rajasthan,497134,India,West,Joshi,Aditya,Medium
+10225,51,79.83,1,4071.33,12/14/2024 00:00,Shipped,4,202412,2024,Trains,86.93,S01586,Aarav Khan,+91-9378075171,246 Market Road,,Nagpur,Maharashtra,645741,India,North,Khan,Aarav,Medium
+10226,68,117.73,3,8005.64,03/31/2023 00:00,Shipped,1,202303,2023,Ships,136.94,S00390,Vivaan Khan,+91-7349231181,56 Market Road,,Mumbai,Maharashtra,596973,India,South,Khan,Vivaan,Large
+10227,62,165.26,1,10246.12,11/07/2022 00:00,Shipped,4,202211,2022,Vintage Cars,203.48,S02941,Sara Patil,+91-9340197775,156 Market Road,,Nashik,Maharashtra,466009,India,South,Patil,Sara,Large
+10228,20,73.53,6,1470.6,02/13/2025 00:00,Shipped,1,202502,2025,Classic Cars,88.66,S03285,Rohan Mehta,+91-8569896695,226 Market Road,,Nashik,Maharashtra,401640,India,East,Mehta,Rohan,Medium
+10229,17,159.76,7,2715.92,11/23/2022 00:00,Shipped,4,202211,2022,Planes,209.25,S04998,Sara Joshi,+91-8572012041,11 Market Road,,Pune,Maharashtra,646038,India,West,Joshi,Sara,Medium
+10230,58,173.63,3,10070.54,09/18/2022 00:00,Shipped,3,202209,2022,Motorcycles,202.43,S02432,Priya Kulkarni,+91-8629268854,274 Market Road,,Bengaluru,Karnataka,424033,India,South,Kulkarni,Priya,Large
+10231,14,157.12,2,2199.68,05/13/2023 00:00,Shipped,2,202305,2023,Classic Cars,166.91,S03998,Sara Khan,+91-7809859675,91 Market Road,,Nashik,Maharashtra,410855,India,North,Khan,Sara,Medium
+10232,34,115.48,4,3926.32,11/13/2025 00:00,In Process,4,202511,2025,Trucks and Buses,124.15,S02672,Rohan Mehta,+91-7793938631,65 Market Road,,Pune,Maharashtra,490113,India,North,Mehta,Rohan,Medium
+10233,69,138.32,7,9544.08,11/07/2023 00:00,In Process,4,202311,2023,Vintage Cars,179.28,S04617,Aditya Deshmukh,+91-8221720690,112 Market Road,,Mumbai,Maharashtra,678840,India,North,Deshmukh,Aditya,Large
+10234,36,102.16,2,3677.76,01/19/2023 00:00,Shipped,1,202301,2023,Classic Cars,102.47,S02437,Ishaan Sharma,+91-8630011260,138 Market Road,,Nashik,Maharashtra,593424,India,South,Sharma,Ishaan,Medium
+10235,10,119.59,5,1195.9,01/21/2024 00:00,Shipped,1,202401,2024,Trucks and Buses,155.97,S03375,Rohan Patil,+91-8406242197,136 Market Road,,Nagpur,Maharashtra,412663,India,West,Patil,Rohan,Medium
+10236,68,176.17,1,11979.56,05/25/2023 00:00,Shipped,2,202305,2023,Planes,179.6,S04816,Sara Singh,+91-9638248259,47 Market Road,,Jaipur,Rajasthan,675213,India,South,Singh,Sara,Large
+10237,52,67.67,3,3518.84,08/28/2024 00:00,Shipped,3,202408,2024,Ships,76.95,S04386,Anaya Naik,+91-7567122653,57 Market Road,,Chennai,Tamil Nadu,681655,India,South,Naik,Anaya,Medium
+10238,29,148.88,4,4317.52,10/04/2023 00:00,Resolved,4,202310,2023,Classic Cars,190.58,S02005,Priya Naik,+91-8416551015,143 Market Road,,Chennai,Tamil Nadu,609107,India,East,Naik,Priya,Medium
+10239,46,105.93,3,4872.78,05/09/2024 00:00,Shipped,2,202405,2024,Vintage Cars,121.04,S02535,Aanya Pawar,+91-7705792804,68 Market Road,,Hyderabad,Telangana,422115,India,East,Pawar,Aanya,Medium
+10240,46,56.53,2,2600.38,09/30/2023 00:00,Shipped,3,202309,2023,Planes,72.8,S02963,Aditya Naik,+91-7019735697,193 Market Road,,Kolkata,West Bengal,404289,India,South,Naik,Aditya,Medium
+10241,43,126.53,6,5440.79,12/05/2023 00:00,Shipped,4,202312,2023,Vintage Cars,130.97,S00621,Sara Joshi,+91-8244218904,269 Market Road,,Nagpur,Maharashtra,661862,India,North,Joshi,Sara,Large
+10242,67,148.86,5,9973.62,10/16/2023 00:00,Shipped,4,202310,2023,Ships,175.51,S01167,Ishaan Deshmukh,+91-7169816823,6 Market Road,,Pune,Maharashtra,646856,India,North,Deshmukh,Ishaan,Large
+10243,57,115.31,4,6572.67,07/30/2023 00:00,In Process,3,202307,2023,Classic Cars,138.82,S03548,Anaya Khan,+91-8116336613,11 Market Road,,Bengaluru,Karnataka,649482,India,North,Khan,Anaya,Large
+10244,25,155.61,3,3890.25,11/09/2025 00:00,Shipped,4,202511,2025,Classic Cars,204.13,S00359,Rohan Kulkarni,+91-8897910931,193 Market Road,,Pune,Maharashtra,546041,India,North,Kulkarni,Rohan,Medium
+10245,69,84.88,1,5856.72,01/24/2023 00:00,Shipped,1,202301,2023,Classic Cars,87.66,S03007,Sara Kulkarni,+91-8127494602,9 Market Road,,Nashik,Maharashtra,578386,India,South,Kulkarni,Sara,Large
+10246,67,167.07,5,11193.69,03/22/2025 00:00,Shipped,1,202503,2025,Vintage Cars,186.87,S02424,Aarav Kulkarni,+91-9033794684,192 Market Road,,Chennai,Tamil Nadu,451980,India,East,Kulkarni,Aarav,Large
+10247,12,127.25,2,1527.0,11/03/2024 00:00,Shipped,4,202411,2024,Vintage Cars,156.62,S02427,Diya Pawar,+91-7884930066,147 Market Road,,Bengaluru,Karnataka,410800,India,East,Pawar,Diya,Medium
+10248,27,150.47,3,4062.69,02/11/2024 00:00,Shipped,1,202402,2024,Ships,202.08,S04229,Sara Kulkarni,+91-8205324662,137 Market Road,,Hyderabad,Telangana,466365,India,West,Kulkarni,Sara,Medium
+10249,46,70.95,7,3263.7,04/09/2023 00:00,Shipped,2,202304,2023,Planes,92.01,S01375,Diya Kulkarni,+91-9625474755,182 Market Road,,Bengaluru,Karnataka,586405,India,South,Kulkarni,Diya,Medium
+10250,62,96.92,5,6009.04,12/08/2023 00:00,Shipped,4,202312,2023,Classic Cars,125.63,S03954,Aditya Pawar,+91-7728341160,268 Market Road,,Bengaluru,Karnataka,520646,India,East,Pawar,Aditya,Large
+10251,53,166.44,5,8821.32,05/26/2025 00:00,Shipped,2,202505,2025,Planes,196.57,S03921,Sara Sharma,+91-8502751856,39 Market Road,,Nagpur,Maharashtra,585416,India,West,Sharma,Sara,Large
+10252,44,37.63,2,1655.72,09/23/2022 00:00,Shipped,3,202209,2022,Classic Cars,45.06,S04962,Priya Pawar,+91-9147899763,41 Market Road,,Nashik,Maharashtra,532261,India,North,Pawar,Priya,Medium
+10253,28,90.6,4,2536.8,05/06/2024 00:00,In Process,2,202405,2024,Motorcycles,117.83,S04102,Aarav Patil,+91-9093234357,209 Market Road,,Nashik,Maharashtra,567215,India,West,Patil,Aarav,Medium
+10254,15,147.05,1,2205.75,01/22/2025 00:00,Shipped,1,202501,2025,Trucks and Buses,191.81,S02535,Sara Deshmukh,+91-7222034756,16 Market Road,,Chennai,Tamil Nadu,685508,India,North,Deshmukh,Sara,Medium
+10255,63,141.57,2,8918.91,07/15/2024 00:00,Shipped,3,202407,2024,Ships,181.32,S01821,Priya Sharma,+91-7796605026,129 Market Road,,Jaipur,Rajasthan,589521,India,East,Sharma,Priya,Large
+10256,41,157.74,6,6467.34,07/30/2022 00:00,Shipped,3,202207,2022,Planes,202.93,S03905,Anaya Kulkarni,+91-8228831617,149 Market Road,,Pune,Maharashtra,686301,India,West,Kulkarni,Anaya,Large
+10257,37,140.91,4,5213.67,01/14/2024 00:00,Shipped,1,202401,2024,Vintage Cars,184.29,S04638,Ishaan Pawar,+91-7652083935,118 Market Road,,Bengaluru,Karnataka,690529,India,South,Pawar,Ishaan,Large
+10258,68,172.06,5,11700.08,09/25/2022 00:00,In Process,3,202209,2022,Classic Cars,178.91,S01404,Aditya Deshmukh,+91-8617415784,160 Market Road,,Delhi,Delhi,585355,India,East,Deshmukh,Aditya,Large
+10259,19,104.74,6,1990.06,09/18/2025 00:00,In Process,3,202509,2025,Ships,115.47,S01849,Aditya Khan,+91-8858155979,34 Market Road,,Bengaluru,Karnataka,698751,India,East,Khan,Aditya,Medium
+10260,25,123.64,7,3091.0,05/29/2023 00:00,Resolved,2,202305,2023,Planes,165.88,S02485,Ishaan Deshmukh,+91-9896886390,80 Market Road,,Nashik,Maharashtra,474732,India,East,Deshmukh,Ishaan,Medium
+10261,61,157.16,1,9586.76,09/08/2023 00:00,Shipped,3,202309,2023,Planes,187.13,S00538,Aanya Mehta,+91-8805199229,2 Market Road,,Pune,Maharashtra,556201,India,East,Mehta,Aanya,Large
+10262,27,135.25,5,3651.75,06/06/2025 00:00,Shipped,2,202506,2025,Trucks and Buses,143.6,S01571,Vivaan Singh,+91-8776665137,288 Market Road,,Nashik,Maharashtra,422403,India,West,Singh,Vivaan,Medium
+10263,66,45.31,7,2990.46,09/16/2023 00:00,Resolved,3,202309,2023,Vintage Cars,53.29,S00833,Aditya Mehta,+91-9177595614,249 Market Road,,Mumbai,Maharashtra,427550,India,North,Mehta,Aditya,Medium
+10264,61,85.05,2,5188.05,10/11/2022 00:00,Shipped,4,202210,2022,Trains,104.27,S03862,Priya Deshmukh,+91-7624960437,76 Market Road,,Pune,Maharashtra,439744,India,South,Deshmukh,Priya,Large
+10265,15,112.89,7,1693.35,07/28/2025 00:00,Shipped,3,202507,2025,Motorcycles,145.61,S02473,Priya Pawar,+91-9496580753,11 Market Road,,Nagpur,Maharashtra,440204,India,West,Pawar,Priya,Medium
+10266,37,143.21,5,5298.77,08/04/2024 00:00,Shipped,3,202408,2024,Classic Cars,183.92,S03019,Aditya Sharma,+91-7526762846,81 Market Road,,Hyderabad,Telangana,523103,India,South,Sharma,Aditya,Large
+10267,55,111.54,3,6134.7,06/02/2024 00:00,Shipped,2,202406,2024,Classic Cars,113.46,S00400,Anaya Singh,+91-7659834402,286 Market Road,,Jaipur,Rajasthan,616177,India,South,Singh,Anaya,Large
+10268,39,146.63,6,5718.57,04/21/2022 00:00,Shipped,2,202204,2022,Planes,169.91,S02867,Anaya Pawar,+91-9877834549,243 Market Road,,Hyderabad,Telangana,695871,India,East,Pawar,Anaya,Large
+10269,22,155.64,7,3424.08,10/19/2023 00:00,On Hold,4,202310,2023,Vintage Cars,156.76,S03592,Aditya Khan,+91-8062507287,198 Market Road,,Mumbai,Maharashtra,694687,India,West,Khan,Aditya,Medium
+10270,12,69.77,1,837.24,11/03/2023 00:00,Shipped,4,202311,2023,Ships,91.46,S03447,Vivaan Khan,+91-7975936799,276 Market Road,,Nagpur,Maharashtra,453622,India,South,Khan,Vivaan,Small
+10271,10,122.41,5,1224.1,01/19/2023 00:00,Shipped,1,202301,2023,Ships,129.86,S03975,Aarav Naik,+91-9728553864,53 Market Road,,Nagpur,Maharashtra,530860,India,West,Naik,Aarav,Medium
+10272,20,113.57,7,2271.4,04/04/2024 00:00,On Hold,2,202404,2024,Motorcycles,138.41,S00570,Sara Joshi,+91-7014949902,161 Market Road,,Nashik,Maharashtra,529459,India,East,Joshi,Sara,Medium
+10273,25,64.1,5,1602.5,12/25/2022 00:00,Shipped,4,202212,2022,Motorcycles,76.9,S02747,Aarav Patil,+91-9636861903,238 Market Road,,Jaipur,Rajasthan,429422,India,North,Patil,Aarav,Medium
+10274,28,103.48,4,2897.44,11/20/2023 00:00,Shipped,4,202311,2023,Planes,126.14,S02411,Sara Deshmukh,+91-9121518088,6 Market Road,,Hyderabad,Telangana,411917,India,West,Deshmukh,Sara,Medium
+10275,61,112.29,1,6849.69,03/16/2025 00:00,Shipped,1,202503,2025,Motorcycles,134.43,S04466,Aarav Kulkarni,+91-7260272477,131 Market Road,,Delhi,Delhi,505949,India,South,Kulkarni,Aarav,Large
+10276,40,152.6,4,6104.0,12/10/2024 00:00,Shipped,4,202412,2024,Trucks and Buses,190.82,S03453,Vivaan Deshmukh,+91-7118155840,107 Market Road,,Delhi,Delhi,657048,India,South,Deshmukh,Vivaan,Large
+10277,18,99.15,7,1784.7,02/13/2023 00:00,Shipped,1,202302,2023,Classic Cars,120.88,S04771,Aarav Mehta,+91-8007435728,53 Market Road,,Nagpur,Maharashtra,515542,India,East,Mehta,Aarav,Medium
+10278,14,42.14,6,589.96,10/31/2022 00:00,Shipped,4,202210,2022,Trucks and Buses,43.47,S00127,Ishaan Pawar,+91-8495600913,67 Market Road,,Delhi,Delhi,515062,India,East,Pawar,Ishaan,Small
+10279,17,103.09,4,1752.53,01/09/2022 00:00,Shipped,1,202201,2022,Classic Cars,116.32,S02238,Ishaan Kulkarni,+91-9163900355,290 Market Road,,Hyderabad,Telangana,699078,India,East,Kulkarni,Ishaan,Medium
+10280,28,155.69,3,4359.32,05/20/2023 00:00,Shipped,2,202305,2023,Classic Cars,185.47,S03516,Ishaan Deshmukh,+91-7735270525,153 Market Road,,Jaipur,Rajasthan,513260,India,North,Deshmukh,Ishaan,Medium
+10281,54,115.69,6,6247.26,01/29/2022 00:00,Shipped,1,202201,2022,Ships,128.86,S00446,Ishaan Deshmukh,+91-8002894828,25 Market Road,,Delhi,Delhi,606043,India,West,Deshmukh,Ishaan,Large
+10282,12,77.83,7,933.96,07/07/2022 00:00,Shipped,3,202207,2022,Classic Cars,98.54,S03256,Priya Kulkarni,+91-9633722488,205 Market Road,,Mumbai,Maharashtra,694511,India,South,Kulkarni,Priya,Small
+10283,34,168.15,3,5717.1,11/30/2025 00:00,Shipped,4,202511,2025,Vintage Cars,186.86,S01157,Anaya Mehta,+91-8470295278,177 Market Road,,Jaipur,Rajasthan,435372,India,North,Mehta,Anaya,Large
+10284,36,53.35,6,1920.6,06/04/2025 00:00,Shipped,2,202506,2025,Classic Cars,68.82,S00372,Rohan Patil,+91-8919745119,118 Market Road,,Nagpur,Maharashtra,553269,India,East,Patil,Rohan,Medium
+10285,18,79.03,3,1422.54,03/28/2024 00:00,Shipped,1,202403,2024,Ships,83.09,S03288,Aditya Joshi,+91-7526709191,119 Market Road,,Pune,Maharashtra,501157,India,East,Joshi,Aditya,Medium
+10286,13,95.57,6,1242.41,02/05/2025 00:00,Resolved,1,202502,2025,Planes,121.31,S02132,Anaya Joshi,+91-9830610933,161 Market Road,,Bengaluru,Karnataka,435638,India,North,Joshi,Anaya,Medium
+10287,23,140.7,7,3236.1,12/16/2023 00:00,Shipped,4,202312,2023,Classic Cars,149.73,S02029,Aarav Naik,+91-9340253461,278 Market Road,,Chennai,Tamil Nadu,414573,India,West,Naik,Aarav,Medium
+10288,19,155.36,5,2951.84,05/28/2024 00:00,In Process,2,202405,2024,Motorcycles,184.07,S01628,Aditya Naik,+91-8408497850,228 Market Road,,Nashik,Maharashtra,594410,India,East,Naik,Aditya,Medium
+10289,57,38.78,4,2210.46,09/03/2025 00:00,Shipped,3,202509,2025,Classic Cars,43.13,S03425,Aarav Pawar,+91-8936262118,120 Market Road,,Nashik,Maharashtra,595983,India,West,Pawar,Aarav,Medium
+10290,65,148.81,3,9672.65,04/25/2022 00:00,Shipped,2,202204,2022,Trucks and Buses,182.0,S03093,Aarav Joshi,+91-7557612625,74 Market Road,,Nashik,Maharashtra,568642,India,East,Joshi,Aarav,Large
+10291,47,138.08,1,6489.76,05/29/2023 00:00,Shipped,2,202305,2023,Classic Cars,148.36,S03334,Vivaan Kulkarni,+91-8271827186,33 Market Road,,Kolkata,West Bengal,601889,India,North,Kulkarni,Vivaan,Large
+10292,55,164.2,1,9031.0,06/23/2022 00:00,Shipped,2,202206,2022,Planes,209.91,S03939,Vivaan Sharma,+91-9446081759,59 Market Road,,Jaipur,Rajasthan,615744,India,North,Sharma,Vivaan,Large
+10293,55,165.07,6,9078.85,03/07/2025 00:00,Shipped,1,202503,2025,Motorcycles,198.21,S03027,Ishaan Naik,+91-9373903998,42 Market Road,,Kolkata,West Bengal,417255,India,West,Naik,Ishaan,Large
+10294,62,146.63,5,9091.06,04/16/2025 00:00,Shipped,2,202504,2025,Planes,195.76,S00375,Aanya Naik,+91-9548207663,241 Market Road,,Nashik,Maharashtra,410212,India,East,Naik,Aanya,Large
+10295,15,58.53,2,877.95,11/20/2024 00:00,In Process,4,202411,2024,Trucks and Buses,73.11,S00790,Vivaan Deshmukh,+91-9602915054,173 Market Road,,Kolkata,West Bengal,500690,India,North,Deshmukh,Vivaan,Small
+10296,69,77.08,4,5318.52,06/08/2024 00:00,Cancelled,2,202406,2024,Vintage Cars,93.47,S04957,Sara Pawar,+91-9349747441,12 Market Road,,Nagpur,Maharashtra,570612,India,North,Pawar,Sara,Large
+10297,37,170.45,7,6306.65,11/29/2023 00:00,On Hold,4,202311,2023,Ships,219.92,S01430,Ishaan Kulkarni,+91-9420044641,277 Market Road,,Kolkata,West Bengal,670941,India,East,Kulkarni,Ishaan,Large
+10298,42,119.73,5,5028.66,02/04/2022 00:00,Shipped,1,202202,2022,Motorcycles,128.94,S02138,Anaya Singh,+91-8529450205,46 Market Road,,Jaipur,Rajasthan,694049,India,East,Singh,Anaya,Large
+10299,57,110.81,7,6316.17,02/05/2025 00:00,Shipped,1,202502,2025,Planes,135.35,S01889,Priya Joshi,+91-7256257590,193 Market Road,,Chennai,Tamil Nadu,648127,India,North,Joshi,Priya,Large
+10300,39,167.36,1,6527.04,07/30/2025 00:00,Shipped,3,202507,2025,Vintage Cars,190.23,S04951,Anaya Mehta,+91-8140430302,4 Market Road,,Jaipur,Rajasthan,487416,India,North,Mehta,Anaya,Large
+10301,25,161.13,1,4028.25,11/12/2025 00:00,Shipped,4,202511,2025,Classic Cars,203.08,S04122,Aditya Patil,+91-9541613698,177 Market Road,,Mumbai,Maharashtra,572321,India,East,Patil,Aditya,Medium
+10302,11,139.12,5,1530.32,05/15/2023 00:00,In Process,2,202305,2023,Classic Cars,140.31,S02417,Aditya Pawar,+91-9227621132,167 Market Road,,Hyderabad,Telangana,434825,India,South,Pawar,Aditya,Medium
+10303,20,162.34,5,3246.8,10/21/2022 00:00,Shipped,4,202210,2022,Classic Cars,186.64,S03411,Vivaan Khan,+91-7037614380,272 Market Road,,Pune,Maharashtra,545435,India,North,Khan,Vivaan,Medium
+10304,15,47.08,5,706.2,08/13/2024 00:00,Shipped,3,202408,2024,Trucks and Buses,57.82,S02758,Rohan Sharma,+91-7281264575,180 Market Road,,Hyderabad,Telangana,429651,India,North,Sharma,Rohan,Small
+10305,32,143.63,7,4596.16,01/26/2022 00:00,Shipped,1,202201,2022,Trains,166.79,S03225,Sara Khan,+91-8975691223,147 Market Road,,Nagpur,Maharashtra,697954,India,North,Khan,Sara,Medium
+10306,56,174.85,1,9791.6,03/30/2022 00:00,Resolved,1,202203,2022,Vintage Cars,189.41,S04769,Aditya Joshi,+91-9845121320,159 Market Road,,Jaipur,Rajasthan,535367,India,East,Joshi,Aditya,Large
+10307,30,37.35,7,1120.5,04/15/2025 00:00,Shipped,2,202504,2025,Motorcycles,43.42,S03361,Anaya Sharma,+91-7199214823,190 Market Road,,Delhi,Delhi,616731,India,South,Sharma,Anaya,Medium
+10308,45,63.46,1,2855.7,10/29/2025 00:00,Shipped,4,202510,2025,Ships,82.33,S00565,Diya Pawar,+91-9641105817,124 Market Road,,Chennai,Tamil Nadu,431231,India,North,Pawar,Diya,Medium
+10309,21,149.1,4,3131.1,08/13/2023 00:00,Shipped,3,202308,2023,Vintage Cars,159.89,S02516,Aarav Kulkarni,+91-9652834295,214 Market Road,,Nagpur,Maharashtra,685885,India,West,Kulkarni,Aarav,Medium
+10310,45,108.01,6,4860.45,01/12/2024 00:00,Shipped,1,202401,2024,Motorcycles,121.89,S04098,Priya Khan,+91-9922778342,159 Market Road,,Pune,Maharashtra,557274,India,East,Khan,Priya,Medium
+10311,67,42.99,5,2880.33,03/06/2024 00:00,Shipped,1,202403,2024,Ships,57.89,S00199,Aanya Kulkarni,+91-8533168360,290 Market Road,,Chennai,Tamil Nadu,421483,India,East,Kulkarni,Aanya,Medium
+10312,28,70.19,2,1965.32,07/22/2022 00:00,Shipped,3,202207,2022,Classic Cars,92.61,S01786,Diya Sharma,+91-8597612221,58 Market Road,,Nashik,Maharashtra,510606,India,North,Sharma,Diya,Medium
+10313,38,78.61,5,2987.18,11/22/2022 00:00,Shipped,4,202211,2022,Motorcycles,79.54,S01006,Aanya Deshmukh,+91-8493837160,219 Market Road,,Chennai,Tamil Nadu,463667,India,East,Deshmukh,Aanya,Medium
+10314,67,78.16,7,5236.72,03/13/2023 00:00,Shipped,1,202303,2023,Classic Cars,92.67,S03605,Vivaan Mehta,+91-9905395474,248 Market Road,,Delhi,Delhi,420691,India,West,Mehta,Vivaan,Large
+10315,46,161.65,2,7435.9,05/14/2025 00:00,Shipped,2,202505,2025,Classic Cars,165.35,S00702,Priya Deshmukh,+91-9549741336,215 Market Road,,Jaipur,Rajasthan,409337,India,East,Deshmukh,Priya,Large
+10316,33,129.31,7,4267.23,10/03/2023 00:00,Shipped,4,202310,2023,Ships,171.12,S03120,Sara Pawar,+91-9866562517,294 Market Road,,Nagpur,Maharashtra,613772,India,South,Pawar,Sara,Medium
+10317,17,140.24,5,2384.08,11/19/2024 00:00,Shipped,4,202411,2024,Ships,161.91,S00320,Priya Deshmukh,+91-9637321811,130 Market Road,,Delhi,Delhi,660462,India,South,Deshmukh,Priya,Medium
+10318,66,32.04,1,2114.64,10/12/2022 00:00,Shipped,4,202210,2022,Trucks and Buses,36.73,S04619,Rohan Joshi,+91-7985041778,162 Market Road,,Chennai,Tamil Nadu,598079,India,West,Joshi,Rohan,Medium
+10319,46,94.13,3,4329.98,10/24/2025 00:00,Shipped,4,202510,2025,Classic Cars,103.12,S01598,Diya Joshi,+91-8623255658,47 Market Road,,Chennai,Tamil Nadu,608339,India,North,Joshi,Diya,Medium
+10320,13,77.67,7,1009.71,07/14/2025 00:00,Shipped,3,202507,2025,Ships,93.13,S02038,Aditya Sharma,+91-8258186721,112 Market Road,,Mumbai,Maharashtra,411202,India,North,Sharma,Aditya,Medium
+10321,43,157.79,3,6784.97,11/26/2023 00:00,In Process,4,202311,2023,Trucks and Buses,165.8,S03938,Sara Pawar,+91-9529633081,48 Market Road,,Chennai,Tamil Nadu,453314,India,North,Pawar,Sara,Large
+10322,68,173.08,7,11769.44,11/26/2022 00:00,Shipped,4,202211,2022,Planes,221.48,S01898,Diya Patil,+91-8479428349,237 Market Road,,Delhi,Delhi,410297,India,East,Patil,Diya,Large
+10323,65,93.5,3,6077.5,11/27/2025 00:00,Shipped,4,202511,2025,Trucks and Buses,109.57,S00576,Anaya Joshi,+91-9903915590,234 Market Road,,Jaipur,Rajasthan,692354,India,South,Joshi,Anaya,Large
+10324,21,175.96,3,3695.16,03/26/2025 00:00,Cancelled,1,202503,2025,Trucks and Buses,210.85,S04524,Aanya Singh,+91-8825296556,58 Market Road,,Hyderabad,Telangana,621409,India,North,Singh,Aanya,Medium
+10325,34,32.15,6,1093.1,01/17/2024 00:00,On Hold,1,202401,2024,Trains,41.61,S00558,Rohan Singh,+91-8452161942,241 Market Road,,Chennai,Tamil Nadu,686834,India,West,Singh,Rohan,Medium
+10326,69,78.86,6,5441.34,01/26/2023 00:00,Shipped,1,202301,2023,Trucks and Buses,83.97,S02485,Vivaan Naik,+91-7660859163,96 Market Road,,Nagpur,Maharashtra,671591,India,East,Naik,Vivaan,Large
+10327,56,146.24,2,8189.44,06/26/2024 00:00,Shipped,2,202406,2024,Planes,155.21,S00622,Diya Deshmukh,+91-9184443767,219 Market Road,,Nashik,Maharashtra,467402,India,North,Deshmukh,Diya,Large
+10328,43,84.01,6,3612.43,06/26/2023 00:00,Shipped,2,202306,2023,Motorcycles,96.38,S03489,Aanya Kulkarni,+91-8769937189,282 Market Road,,Chennai,Tamil Nadu,553495,India,West,Kulkarni,Aanya,Medium
+10329,28,168.14,2,4707.92,09/11/2024 00:00,Resolved,3,202409,2024,Trucks and Buses,214.4,S01349,Ishaan Khan,+91-8833255359,248 Market Road,,Pune,Maharashtra,594167,India,East,Khan,Ishaan,Medium
+10330,55,62.77,7,3452.35,05/01/2025 00:00,Shipped,2,202505,2025,Trains,64.06,S04661,Ishaan Naik,+91-7241186403,56 Market Road,,Bengaluru,Karnataka,622540,India,North,Naik,Ishaan,Medium
+10331,44,149.35,1,6571.4,12/17/2023 00:00,Shipped,4,202312,2023,Classic Cars,190.92,S01011,Aarav Kulkarni,+91-8862115327,54 Market Road,,Jaipur,Rajasthan,600498,India,West,Kulkarni,Aarav,Large
+10332,41,60.26,5,2470.66,03/12/2022 00:00,Shipped,1,202203,2022,Vintage Cars,70.82,S03348,Ishaan Pawar,+91-8987805746,34 Market Road,,Jaipur,Rajasthan,535995,India,North,Pawar,Ishaan,Medium
+10333,65,59.57,2,3872.05,04/02/2024 00:00,Shipped,2,202404,2024,Vintage Cars,71.28,S00070,Diya Mehta,+91-8227293921,252 Market Road,,Chennai,Tamil Nadu,401206,India,West,Mehta,Diya,Medium
+10334,32,96.86,5,3099.52,06/08/2025 00:00,Shipped,2,202506,2025,Trains,115.99,S00566,Priya Pawar,+91-9686251058,164 Market Road,,Delhi,Delhi,681757,India,South,Pawar,Priya,Medium
+10335,47,171.74,7,8071.78,11/23/2022 00:00,In Process,4,202211,2022,Classic Cars,175.12,S01383,Diya Pawar,+91-9086505948,47 Market Road,,Kolkata,West Bengal,606703,India,South,Pawar,Diya,Large
+10336,12,117.82,5,1413.84,11/02/2025 00:00,Shipped,4,202511,2025,Vintage Cars,128.12,S04419,Aditya Pawar,+91-7339951623,176 Market Road,,Pune,Maharashtra,650956,India,North,Pawar,Aditya,Medium
+10337,52,125.25,4,6513.0,06/14/2023 00:00,In Process,2,202306,2023,Motorcycles,158.36,S04981,Rohan Kulkarni,+91-7452728162,159 Market Road,,Chennai,Tamil Nadu,466424,India,West,Kulkarni,Rohan,Large
+10338,42,31.46,6,1321.32,09/26/2024 00:00,Shipped,3,202409,2024,Classic Cars,36.0,S03068,Vivaan Singh,+91-9420756938,179 Market Road,,Mumbai,Maharashtra,431955,India,East,Singh,Vivaan,Medium
+10339,62,38.49,2,2386.38,10/22/2024 00:00,In Process,4,202410,2024,Trucks and Buses,46.04,S01683,Vivaan Joshi,+91-7612998085,190 Market Road,,Chennai,Tamil Nadu,670485,India,East,Joshi,Vivaan,Medium
+10340,29,40.04,4,1161.16,09/24/2022 00:00,Shipped,3,202209,2022,Motorcycles,53.28,S01561,Diya Mehta,+91-8922372360,50 Market Road,,Nagpur,Maharashtra,641838,India,West,Mehta,Diya,Medium
+10341,65,152.95,7,9941.75,02/26/2022 00:00,Shipped,1,202202,2022,Classic Cars,155.43,S01057,Rohan Singh,+91-8072959652,116 Market Road,,Chennai,Tamil Nadu,651636,India,East,Singh,Rohan,Large
+10342,44,65.53,3,2883.32,10/18/2025 00:00,Cancelled,4,202510,2025,Vintage Cars,75.84,S01703,Aditya Sharma,+91-9576621598,216 Market Road,,Hyderabad,Telangana,532154,India,South,Sharma,Aditya,Medium
+10343,22,79.33,1,1745.26,10/20/2024 00:00,On Hold,4,202410,2024,Trains,89.36,S02479,Aarav Singh,+91-9505170701,272 Market Road,,Jaipur,Rajasthan,671678,India,West,Singh,Aarav,Medium
+10344,19,121.49,4,2308.31,07/11/2024 00:00,In Process,3,202407,2024,Planes,126.02,S03426,Aanya Pawar,+91-7123448425,73 Market Road,,Chennai,Tamil Nadu,467278,India,East,Pawar,Aanya,Medium
+10345,21,117.59,4,2469.39,03/20/2023 00:00,Resolved,1,202303,2023,Motorcycles,156.72,S01147,Diya Singh,+91-7966690061,171 Market Road,,Jaipur,Rajasthan,627342,India,North,Singh,Diya,Medium
+10346,28,91.58,6,2564.24,06/07/2022 00:00,Shipped,2,202206,2022,Vintage Cars,122.4,S00179,Sara Mehta,+91-8276280488,284 Market Road,,Mumbai,Maharashtra,548373,India,West,Mehta,Sara,Medium
+10347,43,30.65,6,1317.95,02/02/2023 00:00,Shipped,1,202302,2023,Trucks and Buses,33.99,S02798,Ishaan Patil,+91-9969028034,180 Market Road,,Nagpur,Maharashtra,449488,India,West,Patil,Ishaan,Medium
+10348,62,97.44,3,6041.28,03/11/2024 00:00,Shipped,1,202403,2024,Ships,129.73,S01214,Vivaan Deshmukh,+91-7514881232,69 Market Road,,Delhi,Delhi,615299,India,North,Deshmukh,Vivaan,Large
+10349,69,140.83,6,9717.27,10/10/2024 00:00,Resolved,4,202410,2024,Ships,142.56,S02003,Ishaan Sharma,+91-8640703404,175 Market Road,,Pune,Maharashtra,508202,India,East,Sharma,Ishaan,Large
+10350,50,65.29,2,3264.5,04/12/2023 00:00,In Process,2,202304,2023,Motorcycles,87.7,S03559,Anaya Khan,+91-8910517698,6 Market Road,,Pune,Maharashtra,447644,India,West,Khan,Anaya,Medium
+10351,39,136.25,2,5313.75,11/11/2022 00:00,Cancelled,4,202211,2022,Trucks and Buses,176.11,S04484,Anaya Joshi,+91-9428781357,147 Market Road,,Pune,Maharashtra,612750,India,West,Joshi,Anaya,Large
+10352,46,32.27,5,1484.42,12/31/2022 00:00,In Process,4,202212,2022,Ships,34.69,S02672,Rohan Joshi,+91-7534193497,170 Market Road,,Chennai,Tamil Nadu,631619,India,North,Joshi,Rohan,Medium
+10353,29,166.2,5,4819.8,11/06/2025 00:00,Shipped,4,202511,2025,Motorcycles,201.08,S04639,Aditya Mehta,+91-9740987032,17 Market Road,,Delhi,Delhi,497030,India,West,Mehta,Aditya,Medium
+10354,24,172.51,6,4140.24,07/10/2024 00:00,Shipped,3,202407,2024,Trucks and Buses,220.71,S01346,Ishaan Pawar,+91-8216203023,61 Market Road,,Chennai,Tamil Nadu,690149,India,North,Pawar,Ishaan,Medium
+10355,42,30.37,5,1275.54,12/18/2025 00:00,Shipped,4,202512,2025,Trucks and Buses,33.76,S03565,Vivaan Sharma,+91-8924087217,296 Market Road,,Kolkata,West Bengal,613081,India,East,Sharma,Vivaan,Medium
+10356,59,98.67,1,5821.53,01/10/2022 00:00,Shipped,1,202201,2022,Ships,110.89,S04898,Diya Singh,+91-7794939911,188 Market Road,,Pune,Maharashtra,406721,India,East,Singh,Diya,Large
+10357,13,92.07,5,1196.91,11/01/2023 00:00,Shipped,4,202311,2023,Ships,112.34,S01079,Rohan Deshmukh,+91-7133676030,138 Market Road,,Kolkata,West Bengal,500881,India,North,Deshmukh,Rohan,Medium
+10358,16,156.28,4,2500.48,10/31/2023 00:00,Shipped,4,202310,2023,Motorcycles,164.33,S03692,Rohan Mehta,+91-7463408789,69 Market Road,,Nashik,Maharashtra,692407,India,East,Mehta,Rohan,Medium
+10359,20,111.11,2,2222.2,08/10/2023 00:00,Resolved,3,202308,2023,Motorcycles,115.71,S02370,Aditya Kulkarni,+91-8356080339,38 Market Road,,Delhi,Delhi,453337,India,South,Kulkarni,Aditya,Medium
+10360,22,121.7,3,2677.4,07/27/2023 00:00,Shipped,3,202307,2023,Classic Cars,132.34,S04403,Anaya Joshi,+91-9679735962,128 Market Road,,Jaipur,Rajasthan,686157,India,West,Joshi,Anaya,Medium
+10361,18,60.38,6,1086.84,04/26/2022 00:00,Shipped,2,202204,2022,Planes,76.05,S01527,Aanya Naik,+91-9716745404,164 Market Road,,Nagpur,Maharashtra,555501,India,West,Naik,Aanya,Medium
+10362,17,41.56,2,706.52,02/17/2022 00:00,Resolved,1,202202,2022,Vintage Cars,46.89,S04802,Aarav Patil,+91-9176593203,54 Market Road,,Jaipur,Rajasthan,602640,India,East,Patil,Aarav,Small
+10363,11,133.85,4,1472.35,02/10/2025 00:00,Shipped,1,202502,2025,Vintage Cars,157.62,S03991,Aanya Mehta,+91-8841340710,240 Market Road,,Bengaluru,Karnataka,605937,India,East,Mehta,Aanya,Medium
+10364,30,123.1,1,3693.0,10/06/2023 00:00,Shipped,4,202310,2023,Trucks and Buses,131.52,S03525,Vivaan Deshmukh,+91-9049950153,129 Market Road,,Pune,Maharashtra,553559,India,North,Deshmukh,Vivaan,Medium
+10365,53,154.85,6,8207.05,08/26/2022 00:00,Shipped,3,202208,2022,Classic Cars,165.37,S00146,Aarav Naik,+91-7771325088,17 Market Road,,Kolkata,West Bengal,555210,India,West,Naik,Aarav,Large
+10366,19,156.7,2,2977.3,05/23/2023 00:00,Shipped,2,202305,2023,Trains,192.37,S00414,Vivaan Sharma,+91-9445572769,41 Market Road,,Pune,Maharashtra,570255,India,East,Sharma,Vivaan,Medium
+10367,29,124.66,7,3615.14,09/25/2025 00:00,Shipped,3,202509,2025,Vintage Cars,129.39,S03312,Rohan Pawar,+91-7561632201,258 Market Road,,Hyderabad,Telangana,592624,India,South,Pawar,Rohan,Medium
+10368,68,110.75,7,7531.0,11/15/2023 00:00,Shipped,4,202311,2023,Classic Cars,136.64,S02395,Sara Deshmukh,+91-8438568681,102 Market Road,,Delhi,Delhi,621355,India,North,Deshmukh,Sara,Large
+10369,20,167.1,6,3342.0,12/18/2025 00:00,Shipped,4,202512,2025,Classic Cars,190.54,S01616,Aanya Deshmukh,+91-8122636879,112 Market Road,,Mumbai,Maharashtra,531459,India,East,Deshmukh,Aanya,Medium
+10370,69,150.19,3,10363.11,08/24/2022 00:00,On Hold,3,202208,2022,Motorcycles,185.48,S04209,Sara Deshmukh,+91-9284401166,60 Market Road,,Bengaluru,Karnataka,530749,India,West,Deshmukh,Sara,Large
+10371,40,162.36,6,6494.4,06/28/2022 00:00,Resolved,2,202206,2022,Motorcycles,184.05,S02405,Aanya Kulkarni,+91-7619588261,242 Market Road,,Nagpur,Maharashtra,633577,India,West,Kulkarni,Aanya,Large
+10372,53,179.38,1,9507.14,04/03/2024 00:00,Shipped,2,202404,2024,Vintage Cars,232.5,S02295,Anaya Joshi,+91-9425427695,245 Market Road,,Pune,Maharashtra,627215,India,North,Joshi,Anaya,Large
+10373,29,90.53,3,2625.37,09/24/2024 00:00,Cancelled,3,202409,2024,Planes,92.29,S01615,Rohan Kulkarni,+91-9162110282,73 Market Road,,Bengaluru,Karnataka,595055,India,West,Kulkarni,Rohan,Medium
+10374,29,137.54,1,3988.66,12/04/2025 00:00,Shipped,4,202512,2025,Motorcycles,180.54,S04908,Aarav Naik,+91-7513246931,219 Market Road,,Pune,Maharashtra,538369,India,North,Naik,Aarav,Medium
+10375,33,133.21,1,4395.93,11/12/2023 00:00,Shipped,4,202311,2023,Classic Cars,145.74,S01824,Diya Naik,+91-9880052693,136 Market Road,,Bengaluru,Karnataka,572439,India,South,Naik,Diya,Medium
+10376,17,56.12,3,954.04,10/20/2022 00:00,Shipped,4,202210,2022,Vintage Cars,56.96,S01298,Aanya Pawar,+91-9307627246,50 Market Road,,Nashik,Maharashtra,571342,India,South,Pawar,Aanya,Small
+10377,28,125.48,5,3513.44,03/01/2024 00:00,Resolved,1,202403,2024,Classic Cars,150.18,S03372,Priya Joshi,+91-9305654387,238 Market Road,,Kolkata,West Bengal,530655,India,North,Joshi,Priya,Medium
+10378,63,94.21,7,5935.23,03/25/2023 00:00,On Hold,1,202303,2023,Classic Cars,101.61,S00171,Ishaan Singh,+91-8327956483,25 Market Road,,Jaipur,Rajasthan,453575,India,North,Singh,Ishaan,Large
+10379,10,97.6,1,976.0,09/20/2022 00:00,In Process,3,202209,2022,Classic Cars,113.29,S02977,Vivaan Pawar,+91-7436815170,262 Market Road,,Jaipur,Rajasthan,560772,India,West,Pawar,Vivaan,Small
+10380,44,57.02,3,2508.88,05/10/2022 00:00,Shipped,2,202205,2022,Ships,73.03,S02823,Aanya Mehta,+91-8056416594,8 Market Road,,Jaipur,Rajasthan,532911,India,East,Mehta,Aanya,Medium
+10381,51,141.71,5,7227.21,11/23/2024 00:00,Shipped,4,202411,2024,Ships,180.97,S01221,Aarav Kulkarni,+91-8149176640,97 Market Road,,Mumbai,Maharashtra,415308,India,West,Kulkarni,Aarav,Large
+10382,18,134.69,2,2424.42,07/28/2024 00:00,Shipped,3,202407,2024,Trucks and Buses,162.99,S03845,Aanya Pawar,+91-8554848060,68 Market Road,,Bengaluru,Karnataka,686738,India,East,Pawar,Aanya,Medium
+10383,16,109.84,6,1757.44,09/01/2022 00:00,Shipped,3,202209,2022,Ships,147.43,S00219,Aanya Sharma,+91-7559310663,71 Market Road,,Nashik,Maharashtra,600082,India,South,Sharma,Aanya,Medium
+10384,43,53.51,4,2300.93,03/27/2024 00:00,Shipped,1,202403,2024,Motorcycles,62.2,S04908,Sara Joshi,+91-9537560454,144 Market Road,,Pune,Maharashtra,434149,India,North,Joshi,Sara,Medium
+10385,23,113.53,4,2611.19,07/17/2025 00:00,Shipped,3,202507,2025,Vintage Cars,115.1,S04280,Aditya Mehta,+91-7236707973,225 Market Road,,Nagpur,Maharashtra,461344,India,East,Mehta,Aditya,Medium
+10386,68,45.02,1,3061.36,04/10/2025 00:00,Shipped,2,202504,2025,Classic Cars,57.93,S00877,Vivaan Patil,+91-9956925376,120 Market Road,,Delhi,Delhi,571465,India,West,Patil,Vivaan,Medium
+10387,21,80.91,2,1699.11,10/26/2023 00:00,Shipped,4,202310,2023,Planes,87.18,S02462,Sara Patil,+91-7938323572,155 Market Road,,Nashik,Maharashtra,658130,India,North,Patil,Sara,Medium
+10388,17,85.85,7,1459.45,03/25/2022 00:00,Shipped,1,202203,2022,Vintage Cars,91.15,S00985,Ishaan Sharma,+91-8468599738,291 Market Road,,Mumbai,Maharashtra,545649,India,South,Sharma,Ishaan,Medium
+10389,29,162.51,7,4712.79,07/16/2024 00:00,Shipped,3,202407,2024,Vintage Cars,166.49,S03094,Ishaan Joshi,+91-9626798543,149 Market Road,,Delhi,Delhi,643784,India,South,Joshi,Ishaan,Medium
+10390,29,92.33,4,2677.57,01/25/2024 00:00,Shipped,1,202401,2024,Trucks and Buses,102.93,S01763,Vivaan Kulkarni,+91-8962693392,237 Market Road,,Mumbai,Maharashtra,438464,India,West,Kulkarni,Vivaan,Medium
+10391,19,119.77,5,2275.63,09/08/2025 00:00,Shipped,3,202509,2025,Classic Cars,133.44,S02443,Ishaan Joshi,+91-7169598785,116 Market Road,,Pune,Maharashtra,558439,India,North,Joshi,Ishaan,Medium
+10392,49,161.22,4,7899.78,03/19/2024 00:00,Shipped,1,202403,2024,Classic Cars,178.3,S04784,Rohan Sharma,+91-8812278911,24 Market Road,,Delhi,Delhi,648293,India,North,Sharma,Rohan,Large
+10393,30,93.86,4,2815.8,12/14/2024 00:00,Shipped,4,202412,2024,Trucks and Buses,113.35,S03095,Rohan Joshi,+91-9797920741,77 Market Road,,Pune,Maharashtra,654224,India,North,Joshi,Rohan,Medium
+10394,41,162.56,5,6664.96,02/12/2024 00:00,Shipped,1,202402,2024,Vintage Cars,205.32,S04335,Ishaan Pawar,+91-8689011650,48 Market Road,,Jaipur,Rajasthan,472078,India,North,Pawar,Ishaan,Large
+10395,24,50.47,4,1211.28,03/01/2024 00:00,On Hold,1,202403,2024,Vintage Cars,67.04,S03135,Vivaan Sharma,+91-7576990897,272 Market Road,,Kolkata,West Bengal,601308,India,West,Sharma,Vivaan,Medium
+10396,15,84.73,1,1270.95,04/09/2023 00:00,Shipped,2,202304,2023,Classic Cars,87.52,S02372,Aarav Mehta,+91-8516526168,8 Market Road,,Jaipur,Rajasthan,411909,India,South,Mehta,Aarav,Medium
+10397,13,44.21,1,574.73,08/12/2023 00:00,Shipped,3,202308,2023,Vintage Cars,46.54,S00076,Vivaan Naik,+91-9752172743,246 Market Road,,Mumbai,Maharashtra,442392,India,South,Naik,Vivaan,Small
+10398,13,114.14,6,1483.82,03/09/2023 00:00,Shipped,1,202303,2023,Trucks and Buses,137.7,S00446,Aarav Sharma,+91-7051709408,42 Market Road,,Delhi,Delhi,670149,India,South,Sharma,Aarav,Medium
+10399,62,173.59,6,10762.58,11/07/2023 00:00,Shipped,4,202311,2023,Ships,179.55,S02666,Sara Sharma,+91-8196755028,45 Market Road,,Kolkata,West Bengal,622306,India,West,Sharma,Sara,Large
+10400,25,128.54,2,3213.5,10/22/2025 00:00,Shipped,4,202510,2025,Motorcycles,145.22,S02520,Sara Sharma,+91-7142353567,159 Market Road,,Bengaluru,Karnataka,462106,India,East,Sharma,Sara,Medium
+10401,28,123.91,1,3469.48,05/15/2023 00:00,Shipped,2,202305,2023,Vintage Cars,151.0,S02511,Aanya Joshi,+91-9525711222,25 Market Road,,Nagpur,Maharashtra,698841,India,South,Joshi,Aanya,Medium
+10402,44,71.72,2,3155.68,11/08/2023 00:00,On Hold,4,202311,2023,Vintage Cars,91.31,S04227,Ishaan Joshi,+91-8533621036,23 Market Road,,Kolkata,West Bengal,697899,India,West,Joshi,Ishaan,Medium
+10403,15,169.67,5,2545.05,10/14/2025 00:00,Shipped,4,202510,2025,Planes,182.59,S00479,Rohan Khan,+91-9148407081,232 Market Road,,Nagpur,Maharashtra,412298,India,North,Khan,Rohan,Medium
+10404,46,100.73,5,4633.58,08/09/2022 00:00,Shipped,3,202208,2022,Vintage Cars,124.28,S03294,Vivaan Sharma,+91-9904927816,18 Market Road,,Jaipur,Rajasthan,407703,India,East,Sharma,Vivaan,Medium
+10405,41,70.05,2,2872.05,01/05/2023 00:00,In Process,1,202301,2023,Classic Cars,85.89,S03729,Aditya Khan,+91-9496803846,179 Market Road,,Mumbai,Maharashtra,473501,India,South,Khan,Aditya,Medium
+10406,57,178.15,2,10154.55,12/22/2023 00:00,Shipped,4,202312,2023,Ships,231.75,S03228,Priya Mehta,+91-8223927340,36 Market Road,,Chennai,Tamil Nadu,638271,India,South,Mehta,Priya,Large
+10407,17,93.47,2,1588.99,08/22/2023 00:00,Shipped,3,202308,2023,Trucks and Buses,103.73,S01180,Rohan Sharma,+91-9804622044,26 Market Road,,Pune,Maharashtra,579382,India,North,Sharma,Rohan,Medium
+10408,11,85.72,4,942.92,05/14/2023 00:00,Shipped,2,202305,2023,Trucks and Buses,108.22,S02032,Diya Khan,+91-8416980286,201 Market Road,,Jaipur,Rajasthan,553833,India,North,Khan,Diya,Small
+10409,56,35.24,2,1973.44,02/10/2025 00:00,Shipped,1,202502,2025,Trains,44.52,S00273,Sara Patil,+91-9935790432,118 Market Road,,Nagpur,Maharashtra,524600,India,East,Patil,Sara,Medium
+10410,32,56.74,4,1815.68,12/30/2023 00:00,Shipped,4,202312,2023,Motorcycles,61.49,S00886,Aanya Joshi,+91-9946189344,6 Market Road,,Pune,Maharashtra,543944,India,West,Joshi,Aanya,Medium
+10411,13,151.38,1,1967.94,06/17/2023 00:00,Cancelled,2,202306,2023,Trains,184.29,S04015,Rohan Khan,+91-7664906778,204 Market Road,,Kolkata,West Bengal,591330,India,West,Khan,Rohan,Medium
+10412,43,102.4,7,4403.2,12/01/2023 00:00,Shipped,4,202312,2023,Trucks and Buses,126.6,S03087,Aditya Pawar,+91-9337340215,290 Market Road,,Jaipur,Rajasthan,419139,India,North,Pawar,Aditya,Medium
+10413,37,173.23,7,6409.51,07/19/2025 00:00,In Process,3,202507,2025,Classic Cars,189.87,S04325,Aarav Kulkarni,+91-9093682276,168 Market Road,,Jaipur,Rajasthan,575980,India,West,Kulkarni,Aarav,Large
+10414,67,42.58,3,2852.86,12/08/2025 00:00,Shipped,4,202512,2025,Motorcycles,49.31,S03458,Vivaan Joshi,+91-7503280077,114 Market Road,,Delhi,Delhi,466273,India,North,Joshi,Vivaan,Medium
+10415,66,122.39,6,8077.74,12/22/2022 00:00,Shipped,4,202212,2022,Classic Cars,141.06,S01204,Ishaan Pawar,+91-8514206340,253 Market Road,,Pune,Maharashtra,636475,India,West,Pawar,Ishaan,Large
+10416,42,138.0,4,5796.0,02/28/2022 00:00,Shipped,1,202202,2022,Trucks and Buses,175.36,S04066,Aditya Naik,+91-9693737958,101 Market Road,,Nashik,Maharashtra,458641,India,East,Naik,Aditya,Large
+10417,19,123.18,1,2340.42,02/15/2022 00:00,Shipped,1,202202,2022,Trucks and Buses,123.21,S03438,Diya Naik,+91-9619975439,184 Market Road,,Pune,Maharashtra,421278,India,West,Naik,Diya,Medium
+10418,54,109.48,2,5911.92,10/13/2023 00:00,Shipped,4,202310,2023,Trains,128.68,S00958,Vivaan Joshi,+91-8743528914,142 Market Road,,Pune,Maharashtra,530464,India,North,Joshi,Vivaan,Large
+10419,22,116.74,1,2568.28,07/07/2024 00:00,Shipped,3,202407,2024,Vintage Cars,124.27,S00025,Diya Patil,+91-8970091976,218 Market Road,,Mumbai,Maharashtra,532229,India,West,Patil,Diya,Medium
+10420,60,133.43,5,8005.8,03/16/2022 00:00,Shipped,1,202203,2022,Trucks and Buses,163.64,S03819,Aanya Sharma,+91-8317854186,155 Market Road,,Bengaluru,Karnataka,555618,India,South,Sharma,Aanya,Large
+10421,46,159.49,6,7336.54,01/13/2024 00:00,Shipped,1,202401,2024,Classic Cars,197.47,S03606,Aarav Deshmukh,+91-9362666559,145 Market Road,,Chennai,Tamil Nadu,658102,India,East,Deshmukh,Aarav,Large
+10422,31,80.45,5,2493.95,08/07/2023 00:00,In Process,3,202308,2023,Classic Cars,94.56,S00449,Aditya Patil,+91-7297999134,126 Market Road,,Bengaluru,Karnataka,610024,India,East,Patil,Aditya,Medium
+10423,68,98.95,1,6728.6,09/25/2025 00:00,Shipped,3,202509,2025,Planes,117.72,S02324,Diya Khan,+91-8219754639,89 Market Road,,Nashik,Maharashtra,508865,India,East,Khan,Diya,Large
+10424,40,125.39,2,5015.6,05/31/2024 00:00,Shipped,2,202405,2024,Trains,139.22,S04569,Aarav Kulkarni,+91-8084758703,146 Market Road,,Hyderabad,Telangana,618057,India,East,Kulkarni,Aarav,Large
+10425,33,77.13,4,2545.29,09/11/2023 00:00,Resolved,3,202309,2023,Trucks and Buses,85.59,S03962,Sara Joshi,+91-9859810852,19 Market Road,,Nashik,Maharashtra,551187,India,South,Joshi,Sara,Medium
+10426,21,56.82,2,1193.22,05/07/2024 00:00,Shipped,2,202405,2024,Vintage Cars,71.64,S04085,Aanya Joshi,+91-7894758869,102 Market Road,,Delhi,Delhi,467151,India,South,Joshi,Aanya,Medium
+10427,48,174.93,1,8396.64,07/18/2022 00:00,Shipped,3,202207,2022,Vintage Cars,183.0,S01965,Ishaan Sharma,+91-9964021697,23 Market Road,,Kolkata,West Bengal,406476,India,North,Sharma,Ishaan,Large
+10428,26,59.21,3,1539.46,11/26/2023 00:00,In Process,4,202311,2023,Motorcycles,75.2,S00606,Aarav Joshi,+91-8761413494,97 Market Road,,Mumbai,Maharashtra,401200,India,East,Joshi,Aarav,Medium
+10429,19,64.91,5,1233.29,04/27/2023 00:00,Shipped,2,202304,2023,Classic Cars,79.79,S01756,Diya Sharma,+91-7666166161,106 Market Road,,Kolkata,West Bengal,467275,India,East,Sharma,Diya,Medium
+10430,17,122.8,1,2087.6,09/22/2022 00:00,Shipped,3,202209,2022,Trucks and Buses,160.81,S03434,Rohan Deshmukh,+91-9176457904,9 Market Road,,Nashik,Maharashtra,645806,India,East,Deshmukh,Rohan,Medium
+10431,48,41.61,7,1997.28,07/29/2023 00:00,Shipped,3,202307,2023,Vintage Cars,45.4,S04204,Aditya Khan,+91-7966415809,89 Market Road,,Hyderabad,Telangana,539143,India,East,Khan,Aditya,Medium
+10432,65,35.11,4,2282.15,07/22/2024 00:00,Shipped,3,202407,2024,Classic Cars,41.33,S03220,Rohan Singh,+91-9193845794,201 Market Road,,Nashik,Maharashtra,535572,India,South,Singh,Rohan,Medium
+10433,25,39.6,2,990.0,05/01/2024 00:00,Shipped,2,202405,2024,Vintage Cars,40.14,S00194,Rohan Naik,+91-8731310503,290 Market Road,,Mumbai,Maharashtra,519730,India,North,Naik,Rohan,Small
+10434,23,48.49,1,1115.27,11/09/2025 00:00,Shipped,4,202511,2025,Ships,63.98,S02952,Aditya Naik,+91-9449632085,185 Market Road,,Delhi,Delhi,476817,India,West,Naik,Aditya,Medium
+10435,46,94.38,7,4341.48,02/06/2023 00:00,On Hold,1,202302,2023,Trucks and Buses,116.69,S00936,Diya Khan,+91-7260110560,213 Market Road,,Nagpur,Maharashtra,614468,India,West,Khan,Diya,Medium
+10436,18,154.39,5,2779.02,10/19/2024 00:00,Shipped,4,202410,2024,Classic Cars,188.05,S03048,Aarav Singh,+91-8108967868,200 Market Road,,Bengaluru,Karnataka,403831,India,West,Singh,Aarav,Medium
+10437,15,81.3,7,1219.5,03/15/2024 00:00,Shipped,1,202403,2024,Classic Cars,102.15,S02061,Diya Naik,+91-9877260875,283 Market Road,,Nashik,Maharashtra,583625,India,North,Naik,Diya,Medium
+10438,48,94.13,6,4518.24,06/30/2025 00:00,Shipped,2,202506,2025,Trucks and Buses,103.5,S02665,Rohan Pawar,+91-9642319635,282 Market Road,,Jaipur,Rajasthan,681168,India,East,Pawar,Rohan,Medium
+10439,41,120.04,7,4921.64,08/19/2025 00:00,Shipped,3,202508,2025,Motorcycles,145.41,S02982,Priya Deshmukh,+91-8210820250,35 Market Road,,Hyderabad,Telangana,664172,India,East,Deshmukh,Priya,Medium
+10440,11,75.32,7,828.52,10/30/2024 00:00,In Process,4,202410,2024,Vintage Cars,96.43,S03190,Vivaan Khan,+91-9194797180,142 Market Road,,Kolkata,West Bengal,510830,India,North,Khan,Vivaan,Small
+10441,24,94.88,6,2277.12,09/12/2023 00:00,Shipped,3,202309,2023,Classic Cars,97.88,S00026,Sara Naik,+91-9582516589,272 Market Road,,Chennai,Tamil Nadu,656516,India,West,Naik,Sara,Medium
+10442,21,87.95,6,1846.95,02/19/2024 00:00,Shipped,1,202402,2024,Trucks and Buses,117.46,S04830,Aarav Naik,+91-7294555783,264 Market Road,,Chennai,Tamil Nadu,471312,India,West,Naik,Aarav,Medium
+10443,50,81.28,6,4064.0,08/09/2024 00:00,Shipped,3,202408,2024,Ships,106.65,S02876,Aditya Singh,+91-8630337053,160 Market Road,,Mumbai,Maharashtra,472390,India,South,Singh,Aditya,Medium
+10444,49,88.26,2,4324.74,03/23/2025 00:00,Cancelled,1,202503,2025,Classic Cars,118.01,S02536,Rohan Deshmukh,+91-8917465223,133 Market Road,,Bengaluru,Karnataka,503079,India,East,Deshmukh,Rohan,Medium
+10445,54,31.67,5,1710.18,12/01/2022 00:00,Shipped,4,202212,2022,Classic Cars,40.63,S01893,Sara Sharma,+91-8175613743,18 Market Road,,Kolkata,West Bengal,405294,India,West,Sharma,Sara,Medium
+10446,15,162.94,7,2444.1,06/29/2025 00:00,In Process,2,202506,2025,Classic Cars,179.72,S00523,Ishaan Mehta,+91-7812277945,143 Market Road,,Pune,Maharashtra,479709,India,West,Mehta,Ishaan,Medium
+10447,60,176.6,7,10596.0,03/16/2025 00:00,Shipped,1,202503,2025,Vintage Cars,212.55,S03150,Priya Patil,+91-8480293795,152 Market Road,,Delhi,Delhi,656426,India,West,Patil,Priya,Large
+10448,22,159.37,1,3506.14,05/09/2022 00:00,Shipped,2,202205,2022,Classic Cars,166.07,S01817,Aanya Patil,+91-7505455676,190 Market Road,,Mumbai,Maharashtra,628789,India,West,Patil,Aanya,Medium
+10449,69,30.86,1,2129.34,01/29/2023 00:00,Shipped,1,202301,2023,Classic Cars,39.01,S04534,Aarav Pawar,+91-7410889907,157 Market Road,,Chennai,Tamil Nadu,498769,India,East,Pawar,Aarav,Medium
+10450,62,142.63,2,8843.06,12/11/2022 00:00,Shipped,4,202212,2022,Classic Cars,150.3,S03290,Aarav Deshmukh,+91-7615545870,65 Market Road,,Jaipur,Rajasthan,493765,India,West,Deshmukh,Aarav,Large
+10451,37,115.97,6,4290.89,04/27/2024 00:00,Shipped,2,202404,2024,Vintage Cars,151.15,S02204,Sara Patil,+91-7769113176,290 Market Road,,Pune,Maharashtra,504168,India,West,Patil,Sara,Medium
+10452,57,44.13,3,2515.41,11/01/2022 00:00,Shipped,4,202211,2022,Motorcycles,47.85,S00159,Rohan Singh,+91-8402133521,65 Market Road,,Kolkata,West Bengal,435702,India,North,Singh,Rohan,Medium
+10453,50,169.93,5,8496.5,03/15/2023 00:00,Shipped,1,202303,2023,Motorcycles,179.47,S02773,Vivaan Naik,+91-7416290969,115 Market Road,,Nagpur,Maharashtra,447535,India,East,Naik,Vivaan,Large
+10454,56,146.43,1,8200.08,10/04/2022 00:00,Shipped,4,202210,2022,Trains,150.06,S04226,Diya Khan,+91-7117792738,153 Market Road,,Jaipur,Rajasthan,697919,India,South,Khan,Diya,Large
+10455,11,51.79,1,569.69,04/09/2022 00:00,In Process,2,202204,2022,Vintage Cars,64.68,S02314,Rohan Naik,+91-7283976109,88 Market Road,,Pune,Maharashtra,607971,India,South,Naik,Rohan,Small
+10456,15,174.61,6,2619.15,11/03/2023 00:00,Resolved,4,202311,2023,Trucks and Buses,185.99,S03251,Rohan Kulkarni,+91-9921836427,21 Market Road,,Mumbai,Maharashtra,603332,India,North,Kulkarni,Rohan,Medium
+10457,64,48.93,3,3131.52,04/13/2023 00:00,Shipped,2,202304,2023,Trucks and Buses,52.32,S00593,Sara Khan,+91-7075965688,183 Market Road,,Chennai,Tamil Nadu,484061,India,East,Khan,Sara,Medium
+10458,56,98.2,1,5499.2,01/08/2024 00:00,Shipped,1,202401,2024,Trucks and Buses,104.03,S02034,Priya Mehta,+91-7104256638,71 Market Road,,Chennai,Tamil Nadu,656873,India,West,Mehta,Priya,Large
+10459,46,53.85,2,2477.1,11/06/2022 00:00,Cancelled,4,202211,2022,Classic Cars,59.61,S03965,Priya Joshi,+91-9596319974,263 Market Road,,Pune,Maharashtra,453041,India,South,Joshi,Priya,Medium
+10460,28,52.53,3,1470.84,02/23/2023 00:00,Shipped,1,202302,2023,Vintage Cars,69.83,S02118,Rohan Khan,+91-8870795601,238 Market Road,,Mumbai,Maharashtra,690701,India,East,Khan,Rohan,Medium
+10461,35,175.17,3,6130.95,07/28/2025 00:00,In Process,3,202507,2025,Planes,205.0,S04426,Sara Pawar,+91-7473138220,129 Market Road,,Nagpur,Maharashtra,551068,India,South,Pawar,Sara,Large
+10462,33,115.82,7,3822.06,03/22/2025 00:00,Shipped,1,202503,2025,Classic Cars,126.4,S02047,Priya Pawar,+91-7346876062,139 Market Road,,Pune,Maharashtra,499276,India,East,Pawar,Priya,Medium
+10463,36,68.88,2,2479.68,01/24/2023 00:00,Resolved,1,202301,2023,Classic Cars,72.99,S04057,Aarav Mehta,+91-9343082749,284 Market Road,,Chennai,Tamil Nadu,625200,India,North,Mehta,Aarav,Medium
+10464,47,146.46,5,6883.62,08/25/2022 00:00,Shipped,3,202208,2022,Classic Cars,147.43,S03219,Aarav Deshmukh,+91-8762591928,8 Market Road,,Hyderabad,Telangana,525203,India,West,Deshmukh,Aarav,Large
+10465,55,161.29,2,8870.95,11/24/2025 00:00,Shipped,4,202511,2025,Planes,181.89,S04738,Diya Kulkarni,+91-8547246340,114 Market Road,,Chennai,Tamil Nadu,480907,India,South,Kulkarni,Diya,Large
+10466,33,167.64,4,5532.12,09/21/2024 00:00,Shipped,3,202409,2024,Trains,174.1,S02665,Sara Singh,+91-9086244572,19 Market Road,,Delhi,Delhi,605156,India,East,Singh,Sara,Large
+10467,60,169.95,3,10197.0,12/21/2023 00:00,Shipped,4,202312,2023,Vintage Cars,171.56,S02340,Priya Naik,+91-7392412980,42 Market Road,,Hyderabad,Telangana,616684,India,West,Naik,Priya,Large
+10468,15,165.84,3,2487.6,10/18/2024 00:00,Shipped,4,202410,2024,Trucks and Buses,171.82,S01768,Sara Khan,+91-8094687480,275 Market Road,,Bengaluru,Karnataka,581040,India,North,Khan,Sara,Medium
+10469,58,125.84,5,7298.72,11/19/2022 00:00,Cancelled,4,202211,2022,Trains,139.87,S03261,Aditya Mehta,+91-7296776849,31 Market Road,,Hyderabad,Telangana,538639,India,West,Mehta,Aditya,Large
+10470,50,81.37,5,4068.5,09/18/2023 00:00,Shipped,3,202309,2023,Classic Cars,102.75,S04900,Priya Joshi,+91-9516594216,287 Market Road,,Delhi,Delhi,498674,India,East,Joshi,Priya,Medium
+10471,40,168.84,1,6753.6,07/26/2023 00:00,Shipped,3,202307,2023,Vintage Cars,172.8,S00842,Aarav Pawar,+91-8817692222,235 Market Road,,Hyderabad,Telangana,521172,India,West,Pawar,Aarav,Large
+10472,32,48.37,2,1547.84,11/19/2024 00:00,Shipped,4,202411,2024,Classic Cars,59.86,S04682,Aarav Joshi,+91-9331687142,192 Market Road,,Hyderabad,Telangana,662400,India,East,Joshi,Aarav,Medium
+10473,32,55.32,2,1770.24,09/25/2022 00:00,Shipped,3,202209,2022,Trucks and Buses,67.33,S04884,Aanya Pawar,+91-8492822823,222 Market Road,,Hyderabad,Telangana,507892,India,North,Pawar,Aanya,Medium
+10474,31,95.07,7,2947.17,12/16/2023 00:00,Shipped,4,202312,2023,Ships,124.42,S03845,Priya Khan,+91-9788680408,56 Market Road,,Kolkata,West Bengal,690253,India,East,Khan,Priya,Medium
+10475,66,72.55,3,4788.3,05/03/2025 00:00,Shipped,2,202505,2025,Ships,77.22,S02903,Diya Sharma,+91-8849119694,36 Market Road,,Nagpur,Maharashtra,443689,India,East,Sharma,Diya,Medium
+10476,11,122.36,5,1345.96,10/14/2022 00:00,In Process,4,202210,2022,Ships,156.38,S04315,Vivaan Pawar,+91-9501522311,111 Market Road,,Kolkata,West Bengal,448833,India,West,Pawar,Vivaan,Medium
+10477,48,165.8,4,7958.4,06/25/2022 00:00,In Process,2,202206,2022,Vintage Cars,215.99,S01309,Aarav Khan,+91-8978711557,229 Market Road,,Pune,Maharashtra,499824,India,East,Khan,Aarav,Large
+10478,69,103.65,3,7151.85,04/14/2025 00:00,Shipped,2,202504,2025,Trucks and Buses,139.07,S03170,Priya Naik,+91-9171247573,92 Market Road,,Delhi,Delhi,400894,India,South,Naik,Priya,Large
+10479,42,113.08,1,4749.36,06/30/2025 00:00,In Process,2,202506,2025,Trucks and Buses,145.08,S04027,Aditya Mehta,+91-7741536050,53 Market Road,,Delhi,Delhi,663863,India,North,Mehta,Aditya,Medium
+10480,48,93.47,4,4486.56,09/22/2023 00:00,Shipped,3,202309,2023,Ships,97.52,S04026,Sara Kulkarni,+91-9947190280,235 Market Road,,Kolkata,West Bengal,502153,India,South,Kulkarni,Sara,Medium
+10481,45,136.14,7,6126.3,03/09/2022 00:00,Shipped,1,202203,2022,Motorcycles,181.27,S02932,Ishaan Singh,+91-9083832049,190 Market Road,,Pune,Maharashtra,430661,India,East,Singh,Ishaan,Large
+10482,40,45.1,7,1804.0,02/29/2024 00:00,On Hold,1,202402,2024,Classic Cars,57.96,S01928,Aditya Deshmukh,+91-7277088200,161 Market Road,,Nashik,Maharashtra,585626,India,South,Deshmukh,Aditya,Medium
+10483,47,37.29,3,1752.63,03/14/2023 00:00,Resolved,1,202303,2023,Classic Cars,40.06,S04748,Sara Naik,+91-9323911125,124 Market Road,,Delhi,Delhi,687585,India,South,Naik,Sara,Medium
+10484,64,126.2,4,8076.8,05/08/2024 00:00,Shipped,2,202405,2024,Classic Cars,133.5,S03368,Aanya Sharma,+91-7232688931,234 Market Road,,Kolkata,West Bengal,698222,India,North,Sharma,Aanya,Large
+10485,52,110.23,3,5731.96,07/24/2022 00:00,Shipped,3,202207,2022,Planes,146.36,S03850,Anaya Mehta,+91-8528746138,220 Market Road,,Delhi,Delhi,432260,India,West,Mehta,Anaya,Large
+10486,60,91.1,7,5466.0,03/22/2025 00:00,Shipped,1,202503,2025,Trains,96.06,S03116,Diya Singh,+91-7375577162,108 Market Road,,Hyderabad,Telangana,637948,India,West,Singh,Diya,Large
+10487,43,80.1,4,3444.3,09/28/2024 00:00,Shipped,3,202409,2024,Trucks and Buses,101.89,S04386,Anaya Khan,+91-8082110750,39 Market Road,,Mumbai,Maharashtra,508646,India,South,Khan,Anaya,Medium
+10488,56,37.77,7,2115.12,07/31/2024 00:00,Shipped,3,202407,2024,Classic Cars,43.13,S02388,Diya Deshmukh,+91-9772851358,260 Market Road,,Jaipur,Rajasthan,650952,India,North,Deshmukh,Diya,Medium
+10489,62,132.08,6,8188.96,01/19/2024 00:00,Shipped,1,202401,2024,Vintage Cars,165.54,S02733,Rohan Pawar,+91-7354742304,41 Market Road,,Chennai,Tamil Nadu,581952,India,West,Pawar,Rohan,Large
+10490,22,93.22,3,2050.84,11/18/2022 00:00,Resolved,4,202211,2022,Classic Cars,96.22,S04019,Aanya Naik,+91-7596361035,129 Market Road,,Pune,Maharashtra,619593,India,West,Naik,Aanya,Medium
+10491,61,96.79,4,5904.19,10/04/2025 00:00,Shipped,4,202510,2025,Trucks and Buses,121.35,S02587,Aditya Khan,+91-9599918650,268 Market Road,,Chennai,Tamil Nadu,651436,India,West,Khan,Aditya,Large
+10492,51,164.02,4,8365.02,01/24/2023 00:00,Shipped,1,202301,2023,Trains,193.41,S01225,Aditya Kulkarni,+91-9319502496,125 Market Road,,Mumbai,Maharashtra,668699,India,East,Kulkarni,Aditya,Large
+10493,36,140.63,2,5062.68,06/19/2023 00:00,In Process,2,202306,2023,Motorcycles,184.95,S03786,Sara Pawar,+91-8253362652,249 Market Road,,Bengaluru,Karnataka,443090,India,East,Pawar,Sara,Large
+10494,56,62.92,6,3523.52,09/15/2025 00:00,Shipped,3,202509,2025,Planes,67.07,S01878,Sara Singh,+91-9601589031,147 Market Road,,Chennai,Tamil Nadu,617221,India,East,Singh,Sara,Medium
+10495,20,128.57,4,2571.4,03/01/2022 00:00,Shipped,1,202203,2022,Planes,133.49,S00525,Ishaan Deshmukh,+91-7013622807,223 Market Road,,Jaipur,Rajasthan,442345,India,North,Deshmukh,Ishaan,Medium
+10496,51,49.84,2,2541.84,07/02/2022 00:00,Shipped,3,202207,2022,Vintage Cars,53.26,S01864,Rohan Sharma,+91-7297417795,177 Market Road,,Pune,Maharashtra,683271,India,East,Sharma,Rohan,Medium
+10497,44,59.11,4,2600.84,01/17/2025 00:00,In Process,1,202501,2025,Classic Cars,60.74,S00271,Anaya Patil,+91-8145406906,84 Market Road,,Nashik,Maharashtra,588576,India,South,Patil,Anaya,Medium
+10498,63,137.12,6,8638.56,06/22/2023 00:00,On Hold,2,202306,2023,Vintage Cars,184.16,S04391,Ishaan Mehta,+91-8939159058,268 Market Road,,Hyderabad,Telangana,457816,India,West,Mehta,Ishaan,Large
+10499,47,48.88,3,2297.36,04/26/2024 00:00,Shipped,2,202404,2024,Vintage Cars,50.98,S04918,Diya Deshmukh,+91-8066400501,140 Market Road,,Nashik,Maharashtra,487853,India,West,Deshmukh,Diya,Medium
+10500,41,72.03,5,2953.23,04/28/2024 00:00,Shipped,2,202404,2024,Motorcycles,77.09,S01333,Vivaan Patil,+91-9756386848,137 Market Road,,Chennai,Tamil Nadu,668796,India,North,Patil,Vivaan,Medium
+10501,41,164.71,7,6753.11,04/23/2025 00:00,In Process,2,202504,2025,Vintage Cars,211.39,S04581,Sara Pawar,+91-8730426396,197 Market Road,,Mumbai,Maharashtra,593415,India,North,Pawar,Sara,Large
+10502,43,140.75,3,6052.25,06/25/2024 00:00,Cancelled,2,202406,2024,Ships,152.91,S03557,Rohan Khan,+91-7717045092,279 Market Road,,Mumbai,Maharashtra,468803,India,South,Khan,Rohan,Large
+10503,63,169.42,7,10673.46,09/15/2023 00:00,Shipped,3,202309,2023,Planes,182.6,S04778,Priya Patil,+91-9803754592,261 Market Road,,Bengaluru,Karnataka,646257,India,North,Patil,Priya,Large
+10504,57,162.28,3,9249.96,03/13/2024 00:00,Shipped,1,202403,2024,Motorcycles,200.47,S00814,Anaya Mehta,+91-7888895099,118 Market Road,,Hyderabad,Telangana,615566,India,North,Mehta,Anaya,Large
+10505,15,76.89,4,1153.35,12/14/2024 00:00,Resolved,4,202412,2024,Trucks and Buses,87.62,S00312,Aditya Khan,+91-7430557885,70 Market Road,,Nashik,Maharashtra,423069,India,West,Khan,Aditya,Medium
+10506,41,124.86,6,5119.26,07/08/2023 00:00,Shipped,3,202307,2023,Vintage Cars,161.37,S04601,Anaya Singh,+91-9507715309,98 Market Road,,Kolkata,West Bengal,485011,India,East,Singh,Anaya,Large
+10507,27,86.8,1,2343.6,09/07/2022 00:00,Shipped,3,202209,2022,Planes,106.19,S01347,Vivaan Singh,+91-8982601408,79 Market Road,,Kolkata,West Bengal,653432,India,West,Singh,Vivaan,Medium
+10508,19,134.57,5,2556.83,12/12/2023 00:00,Shipped,4,202312,2023,Classic Cars,148.14,S02982,Sara Singh,+91-7276800698,89 Market Road,,Pune,Maharashtra,505285,India,East,Singh,Sara,Medium
+10509,61,82.27,4,5018.47,12/31/2025 00:00,Shipped,4,202512,2025,Ships,99.49,S04507,Anaya Pawar,+91-9751225883,129 Market Road,,Nagpur,Maharashtra,411280,India,East,Pawar,Anaya,Large
+10510,61,30.2,5,1842.2,06/13/2022 00:00,Shipped,2,202206,2022,Motorcycles,39.36,S01715,Vivaan Mehta,+91-9056011466,7 Market Road,,Bengaluru,Karnataka,581227,India,East,Mehta,Vivaan,Medium
+10511,66,44.09,7,2909.94,09/11/2022 00:00,Shipped,3,202209,2022,Classic Cars,49.71,S00448,Diya Khan,+91-8380417674,160 Market Road,,Delhi,Delhi,669737,India,North,Khan,Diya,Medium
+10512,33,145.65,4,4806.45,12/24/2025 00:00,In Process,4,202512,2025,Classic Cars,183.19,S03956,Aanya Kulkarni,+91-9331116501,254 Market Road,,Nashik,Maharashtra,566986,India,North,Kulkarni,Aanya,Medium
+10513,35,42.6,7,1491.0,04/27/2025 00:00,Shipped,2,202504,2025,Ships,48.8,S02257,Aditya Mehta,+91-8945208903,129 Market Road,,Bengaluru,Karnataka,692783,India,South,Mehta,Aditya,Medium
+10514,56,119.91,4,6714.96,06/20/2022 00:00,In Process,2,202206,2022,Planes,142.7,S00114,Anaya Singh,+91-7773969349,24 Market Road,,Jaipur,Rajasthan,434248,India,South,Singh,Anaya,Large
+10515,21,158.67,2,3332.07,11/07/2022 00:00,Shipped,4,202211,2022,Planes,199.42,S01707,Rohan Patil,+91-7686734049,117 Market Road,,Nagpur,Maharashtra,600303,India,West,Patil,Rohan,Medium
+10516,13,141.17,5,1835.21,10/06/2024 00:00,Shipped,4,202410,2024,Motorcycles,144.16,S02650,Aanya Patil,+91-7055994926,100 Market Road,,Nashik,Maharashtra,594985,India,South,Patil,Aanya,Medium
+10517,35,92.02,2,3220.7,02/17/2025 00:00,On Hold,1,202502,2025,Planes,106.67,S04399,Aanya Joshi,+91-8891423753,178 Market Road,,Chennai,Tamil Nadu,695375,India,South,Joshi,Aanya,Medium
+10518,47,61.29,7,2880.63,12/08/2024 00:00,In Process,4,202412,2024,Planes,63.33,S01131,Anaya Naik,+91-8651731165,75 Market Road,,Bengaluru,Karnataka,556397,India,East,Naik,Anaya,Medium
+10519,37,168.38,2,6230.06,06/12/2025 00:00,Shipped,2,202506,2025,Classic Cars,211.11,S02590,Anaya Kulkarni,+91-9161577927,90 Market Road,,Hyderabad,Telangana,646679,India,North,Kulkarni,Anaya,Large
+10520,22,114.96,4,2529.12,01/11/2024 00:00,Shipped,1,202401,2024,Motorcycles,139.42,S00907,Anaya Deshmukh,+91-7477894641,223 Market Road,,Hyderabad,Telangana,443638,India,West,Deshmukh,Anaya,Medium
+10521,41,90.81,6,3723.21,07/04/2025 00:00,Shipped,3,202507,2025,Motorcycles,101.2,S01452,Anaya Mehta,+91-8740881962,53 Market Road,,Chennai,Tamil Nadu,413315,India,North,Mehta,Anaya,Medium
+10522,66,171.31,1,11306.46,05/20/2024 00:00,Cancelled,2,202405,2024,Trains,175.88,S01319,Vivaan Pawar,+91-8324890506,279 Market Road,,Chennai,Tamil Nadu,615014,India,West,Pawar,Vivaan,Large
+10523,26,62.25,4,1618.5,11/27/2023 00:00,Shipped,4,202311,2023,Motorcycles,82.42,S02621,Aarav Naik,+91-7523400321,89 Market Road,,Hyderabad,Telangana,401144,India,East,Naik,Aarav,Medium
+10524,34,96.34,4,3275.56,07/18/2024 00:00,On Hold,3,202407,2024,Motorcycles,106.96,S03318,Rohan Mehta,+91-9772430422,245 Market Road,,Delhi,Delhi,662537,India,West,Mehta,Rohan,Medium
+10525,28,46.3,3,1296.4,09/19/2023 00:00,Shipped,3,202309,2023,Trucks and Buses,50.76,S00563,Diya Patil,+91-9472838406,25 Market Road,,Delhi,Delhi,406242,India,South,Patil,Diya,Medium
+10526,27,48.73,5,1315.71,06/04/2024 00:00,Shipped,2,202406,2024,Trucks and Buses,50.45,S00380,Diya Mehta,+91-7499834726,96 Market Road,,Nashik,Maharashtra,606626,India,West,Mehta,Diya,Medium
+10527,49,89.79,3,4399.71,05/03/2025 00:00,Shipped,2,202505,2025,Vintage Cars,107.93,S03656,Diya Khan,+91-8695715553,113 Market Road,,Delhi,Delhi,535617,India,West,Khan,Diya,Medium
+10528,32,134.95,3,4318.4,10/31/2025 00:00,Shipped,4,202510,2025,Trucks and Buses,147.5,S01470,Anaya Mehta,+91-7141524027,137 Market Road,,Hyderabad,Telangana,593701,India,South,Mehta,Anaya,Medium
+10529,47,80.83,2,3799.01,04/26/2024 00:00,On Hold,2,202404,2024,Classic Cars,104.67,S03092,Rohan Joshi,+91-8577767877,28 Market Road,,Chennai,Tamil Nadu,587077,India,South,Joshi,Rohan,Medium
+10530,11,133.44,5,1467.84,01/09/2022 00:00,Shipped,1,202201,2022,Trains,165.33,S00384,Anaya Patil,+91-7295153986,74 Market Road,,Chennai,Tamil Nadu,533329,India,North,Patil,Anaya,Medium
+10531,49,150.78,7,7388.22,06/26/2024 00:00,On Hold,2,202406,2024,Classic Cars,150.99,S03003,Diya Pawar,+91-7715808086,263 Market Road,,Nagpur,Maharashtra,544490,India,North,Pawar,Diya,Large
+10532,16,161.64,2,2586.24,01/04/2023 00:00,Shipped,1,202301,2023,Motorcycles,193.64,S04547,Diya Patil,+91-8648061839,277 Market Road,,Chennai,Tamil Nadu,551061,India,East,Patil,Diya,Medium
+10533,32,36.71,3,1174.72,12/11/2022 00:00,Shipped,4,202212,2022,Trucks and Buses,39.69,S02189,Vivaan Joshi,+91-8567212961,132 Market Road,,Delhi,Delhi,603207,India,West,Joshi,Vivaan,Medium
+10534,62,146.06,2,9055.72,07/11/2025 00:00,Resolved,3,202507,2025,Classic Cars,146.85,S02889,Vivaan Patil,+91-7798270167,36 Market Road,,Nagpur,Maharashtra,613151,India,East,Patil,Vivaan,Large
+10535,30,52.07,2,1562.1,10/14/2023 00:00,Shipped,4,202310,2023,Trains,63.36,S01471,Vivaan Pawar,+91-8682864139,83 Market Road,,Mumbai,Maharashtra,534926,India,West,Pawar,Vivaan,Medium
+10536,51,134.74,7,6871.74,02/28/2025 00:00,Shipped,1,202502,2025,Motorcycles,144.4,S01430,Aditya Kulkarni,+91-7553705092,285 Market Road,,Nashik,Maharashtra,505786,India,West,Kulkarni,Aditya,Large
+10537,31,85.75,5,2658.25,06/24/2023 00:00,Shipped,2,202306,2023,Classic Cars,112.75,S00327,Vivaan Kulkarni,+91-9073333212,275 Market Road,,Hyderabad,Telangana,412774,India,East,Kulkarni,Vivaan,Medium
+10538,64,136.17,7,8714.88,06/05/2024 00:00,Shipped,2,202406,2024,Trucks and Buses,163.5,S02395,Aditya Deshmukh,+91-8383588384,244 Market Road,,Nashik,Maharashtra,633843,India,East,Deshmukh,Aditya,Large
+10539,67,62.07,5,4158.69,08/30/2024 00:00,Resolved,3,202408,2024,Motorcycles,66.61,S04735,Priya Mehta,+91-9355424076,259 Market Road,,Pune,Maharashtra,467873,India,West,Mehta,Priya,Medium
+10540,64,126.75,5,8112.0,07/29/2025 00:00,Shipped,3,202507,2025,Trucks and Buses,170.19,S00581,Ishaan Naik,+91-8108682969,213 Market Road,,Nashik,Maharashtra,530302,India,West,Naik,Ishaan,Large
+10541,33,48.83,6,1611.39,10/15/2022 00:00,Shipped,4,202210,2022,Trucks and Buses,58.17,S02083,Aanya Mehta,+91-7314956149,187 Market Road,,Jaipur,Rajasthan,697886,India,North,Mehta,Aanya,Medium
+10542,29,55.46,5,1608.34,03/30/2024 00:00,Shipped,1,202403,2024,Classic Cars,58.67,S04185,Ishaan Singh,+91-8521441748,232 Market Road,,Mumbai,Maharashtra,635524,India,East,Singh,Ishaan,Medium
+10543,46,122.17,6,5619.82,08/16/2023 00:00,Shipped,3,202308,2023,Vintage Cars,144.29,S02480,Rohan Naik,+91-9154631097,194 Market Road,,Mumbai,Maharashtra,503794,India,South,Naik,Rohan,Large
+10544,59,80.52,3,4750.68,11/09/2023 00:00,On Hold,4,202311,2023,Vintage Cars,107.56,S03802,Aanya Khan,+91-8891412157,102 Market Road,,Delhi,Delhi,542525,India,West,Khan,Aanya,Medium
+10545,41,135.57,1,5558.37,05/24/2025 00:00,In Process,2,202505,2025,Motorcycles,155.7,S01879,Rohan Deshmukh,+91-7852924033,192 Market Road,,Nagpur,Maharashtra,497462,India,North,Deshmukh,Rohan,Large
+10546,54,132.77,4,7169.58,07/18/2022 00:00,Shipped,3,202207,2022,Classic Cars,152.54,S03013,Aditya Singh,+91-9279496481,89 Market Road,,Jaipur,Rajasthan,587917,India,West,Singh,Aditya,Large
+10547,62,123.25,1,7641.5,03/09/2024 00:00,Shipped,1,202403,2024,Vintage Cars,143.14,S04939,Aarav Pawar,+91-8697434029,187 Market Road,,Nashik,Maharashtra,445853,India,South,Pawar,Aarav,Large
+10548,55,139.58,1,7676.9,07/21/2023 00:00,Shipped,3,202307,2023,Trains,153.26,S02989,Ishaan Deshmukh,+91-9638977714,115 Market Road,,Delhi,Delhi,685888,India,West,Deshmukh,Ishaan,Large
+10549,32,149.09,1,4770.88,08/02/2025 00:00,Resolved,3,202508,2025,Classic Cars,157.53,S03981,Aanya Naik,+91-7380695110,146 Market Road,,Nashik,Maharashtra,696241,India,West,Naik,Aanya,Medium
+10550,24,166.71,1,4001.04,11/13/2022 00:00,Shipped,4,202211,2022,Ships,200.49,S03468,Sara Sharma,+91-8588092522,55 Market Road,,Nashik,Maharashtra,489598,India,South,Sharma,Sara,Medium
+10551,36,42.08,5,1514.88,12/06/2022 00:00,Shipped,4,202212,2022,Motorcycles,55.25,S00479,Aanya Khan,+91-9640622328,287 Market Road,,Nagpur,Maharashtra,469161,India,West,Khan,Aanya,Medium
+10552,44,115.73,5,5092.12,05/13/2022 00:00,Shipped,2,202205,2022,Classic Cars,145.53,S00802,Priya Singh,+91-9107812121,224 Market Road,,Nashik,Maharashtra,561827,India,North,Singh,Priya,Large
+10553,60,142.32,7,8539.2,10/05/2023 00:00,Cancelled,4,202310,2023,Classic Cars,147.11,S03041,Aditya Patil,+91-8821821365,33 Market Road,,Chennai,Tamil Nadu,594113,India,North,Patil,Aditya,Large
+10554,28,62.54,3,1751.12,01/16/2022 00:00,Shipped,1,202201,2022,Classic Cars,71.31,S01741,Anaya Pawar,+91-8629910556,143 Market Road,,Chennai,Tamil Nadu,593147,India,East,Pawar,Anaya,Medium
+10555,19,69.54,3,1321.26,01/02/2024 00:00,Shipped,1,202401,2024,Planes,69.67,S02423,Anaya Mehta,+91-8618154776,136 Market Road,,Mumbai,Maharashtra,412619,India,South,Mehta,Anaya,Medium
+10556,28,70.04,4,1961.12,11/23/2022 00:00,Resolved,4,202211,2022,Classic Cars,77.59,S02417,Vivaan Joshi,+91-9319368547,265 Market Road,,Delhi,Delhi,613379,India,North,Joshi,Vivaan,Medium
+10557,45,115.85,6,5213.25,08/09/2023 00:00,On Hold,3,202308,2023,Trains,142.99,S03966,Sara Naik,+91-7422997396,226 Market Road,,Nashik,Maharashtra,419949,India,West,Naik,Sara,Large
+10558,23,84.93,7,1953.39,06/03/2024 00:00,Shipped,2,202406,2024,Trains,93.56,S04954,Aarav Khan,+91-7856028874,263 Market Road,,Kolkata,West Bengal,502626,India,North,Khan,Aarav,Medium
+10559,33,129.91,6,4287.03,09/27/2024 00:00,In Process,3,202409,2024,Classic Cars,168.13,S04986,Rohan Kulkarni,+91-7352029154,140 Market Road,,Mumbai,Maharashtra,615097,India,East,Kulkarni,Rohan,Medium
+10560,25,121.54,4,3038.5,03/31/2022 00:00,Shipped,1,202203,2022,Trucks and Buses,141.85,S00399,Aarav Pawar,+91-9496812027,47 Market Road,,Delhi,Delhi,666213,India,South,Pawar,Aarav,Medium
+10561,69,128.57,7,8871.33,08/06/2022 00:00,Shipped,3,202208,2022,Trucks and Buses,158.68,S03721,Vivaan Kulkarni,+91-9844724575,216 Market Road,,Nagpur,Maharashtra,590614,India,South,Kulkarni,Vivaan,Large
+10562,40,67.85,2,2714.0,04/10/2023 00:00,Shipped,2,202304,2023,Classic Cars,88.84,S03626,Vivaan Sharma,+91-9297700661,66 Market Road,,Nagpur,Maharashtra,447935,India,North,Sharma,Vivaan,Medium
+10563,53,145.11,4,7690.83,01/29/2024 00:00,Shipped,1,202401,2024,Trucks and Buses,179.79,S04324,Rohan Naik,+91-8372932981,191 Market Road,,Jaipur,Rajasthan,604117,India,South,Naik,Rohan,Large
+10564,41,129.61,2,5314.01,07/14/2025 00:00,Shipped,3,202507,2025,Vintage Cars,170.32,S02134,Rohan Deshmukh,+91-9434728700,123 Market Road,,Bengaluru,Karnataka,411117,India,East,Deshmukh,Rohan,Large
+10565,10,49.6,2,496.0,07/22/2022 00:00,Shipped,3,202207,2022,Planes,63.63,S02513,Priya Joshi,+91-9962242970,105 Market Road,,Nagpur,Maharashtra,469314,India,South,Joshi,Priya,Small
+10566,25,60.03,3,1500.75,04/10/2022 00:00,Shipped,2,202204,2022,Classic Cars,71.94,S02258,Rohan Deshmukh,+91-9354733990,36 Market Road,,Kolkata,West Bengal,437135,India,East,Deshmukh,Rohan,Medium
+10567,60,75.14,6,4508.4,07/08/2024 00:00,Shipped,3,202407,2024,Trains,82.96,S01868,Priya Pawar,+91-8959562145,240 Market Road,,Chennai,Tamil Nadu,695565,India,South,Pawar,Priya,Medium
+10568,40,170.41,3,6816.4,12/01/2025 00:00,Shipped,4,202512,2025,Trains,188.19,S01234,Anaya Naik,+91-8296773909,207 Market Road,,Mumbai,Maharashtra,510545,India,West,Naik,Anaya,Large
+10569,52,78.95,6,4105.4,04/27/2025 00:00,Shipped,2,202504,2025,Trucks and Buses,103.14,S03216,Aarav Khan,+91-7787347677,103 Market Road,,Delhi,Delhi,567568,India,South,Khan,Aarav,Medium
+10570,55,32.98,5,1813.9,04/06/2024 00:00,Shipped,2,202404,2024,Trucks and Buses,33.6,S00084,Anaya Deshmukh,+91-9292412663,221 Market Road,,Delhi,Delhi,637256,India,South,Deshmukh,Anaya,Medium
+10571,43,51.24,5,2203.32,01/30/2022 00:00,Shipped,1,202201,2022,Classic Cars,68.12,S03747,Aditya Singh,+91-7104564439,295 Market Road,,Delhi,Delhi,690961,India,East,Singh,Aditya,Medium
+10572,44,34.83,2,1532.52,04/21/2024 00:00,Shipped,2,202404,2024,Planes,38.82,S04207,Aditya Singh,+91-9991437659,216 Market Road,,Nagpur,Maharashtra,698747,India,East,Singh,Aditya,Medium
+10573,24,90.43,7,2170.32,10/30/2023 00:00,Shipped,4,202310,2023,Vintage Cars,113.82,S01138,Sara Mehta,+91-9526004232,284 Market Road,,Kolkata,West Bengal,449268,India,South,Mehta,Sara,Medium
+10574,24,149.57,2,3589.68,10/15/2023 00:00,Shipped,4,202310,2023,Classic Cars,166.85,S01068,Vivaan Mehta,+91-7748384095,141 Market Road,,Jaipur,Rajasthan,518218,India,West,Mehta,Vivaan,Medium
+10575,18,97.57,3,1756.26,12/21/2023 00:00,Shipped,4,202312,2023,Classic Cars,130.12,S02517,Ishaan Khan,+91-9704851862,113 Market Road,,Pune,Maharashtra,521570,India,East,Khan,Ishaan,Medium
+10576,27,155.85,6,4207.95,03/31/2024 00:00,Shipped,1,202403,2024,Trucks and Buses,157.84,S04231,Ishaan Kulkarni,+91-7963381495,253 Market Road,,Kolkata,West Bengal,638948,India,South,Kulkarni,Ishaan,Medium
+10577,47,37.13,5,1745.11,11/18/2024 00:00,In Process,4,202411,2024,Ships,41.72,S00569,Aarav Kulkarni,+91-9884549143,199 Market Road,,Kolkata,West Bengal,500739,India,North,Kulkarni,Aarav,Medium
+10578,65,100.46,3,6529.9,10/08/2022 00:00,Shipped,4,202210,2022,Classic Cars,130.96,S02160,Aanya Sharma,+91-8373529719,182 Market Road,,Nagpur,Maharashtra,469406,India,South,Sharma,Aanya,Large
+10579,36,148.06,2,5330.16,04/20/2022 00:00,Shipped,2,202204,2022,Trucks and Buses,162.26,S01082,Aanya Singh,+91-8016839481,192 Market Road,,Delhi,Delhi,626598,India,North,Singh,Aanya,Large
+10580,46,131.21,4,6035.66,03/17/2022 00:00,Shipped,1,202203,2022,Trains,143.87,S04260,Diya Singh,+91-7812048848,298 Market Road,,Mumbai,Maharashtra,548586,India,North,Singh,Diya,Large
+10581,61,157.92,4,9633.12,08/17/2023 00:00,In Process,3,202308,2023,Vintage Cars,207.6,S04409,Aarav Kulkarni,+91-7518860691,206 Market Road,,Nagpur,Maharashtra,624346,India,South,Kulkarni,Aarav,Large
+10582,50,71.08,1,3554.0,01/13/2024 00:00,Shipped,1,202401,2024,Motorcycles,91.74,S00421,Aanya Pawar,+91-8130478324,244 Market Road,,Nashik,Maharashtra,514011,India,South,Pawar,Aanya,Medium
+10583,25,105.13,2,2628.25,02/21/2025 00:00,Shipped,1,202502,2025,Ships,109.02,S00724,Anaya Joshi,+91-7119583249,11 Market Road,,Jaipur,Rajasthan,546012,India,West,Joshi,Anaya,Medium
+10584,26,131.53,2,3419.78,09/26/2023 00:00,Shipped,3,202309,2023,Planes,158.24,S00787,Aditya Patil,+91-7542939139,216 Market Road,,Mumbai,Maharashtra,402740,India,East,Patil,Aditya,Medium
+10585,48,55.27,2,2652.96,02/17/2024 00:00,Shipped,1,202402,2024,Motorcycles,59.59,S04056,Priya Pawar,+91-9174766785,96 Market Road,,Nagpur,Maharashtra,404846,India,West,Pawar,Priya,Medium
+10586,27,152.37,3,4113.99,11/27/2025 00:00,Cancelled,4,202511,2025,Motorcycles,163.84,S04503,Rohan Kulkarni,+91-7075492387,37 Market Road,,Delhi,Delhi,400105,India,East,Kulkarni,Rohan,Medium
+10587,24,76.72,1,1841.28,12/31/2024 00:00,Shipped,4,202412,2024,Classic Cars,93.24,S01863,Anaya Singh,+91-7932725658,83 Market Road,,Jaipur,Rajasthan,452580,India,North,Singh,Anaya,Medium
+10588,45,44.0,5,1980.0,10/06/2024 00:00,Shipped,4,202410,2024,Motorcycles,45.91,S00788,Anaya Naik,+91-9052559638,249 Market Road,,Kolkata,West Bengal,504324,India,West,Naik,Anaya,Medium
+10589,48,144.86,5,6953.28,06/16/2023 00:00,Shipped,2,202306,2023,Vintage Cars,168.68,S03317,Priya Joshi,+91-7063643831,245 Market Road,,Jaipur,Rajasthan,415085,India,South,Joshi,Priya,Large
+10590,25,135.75,2,3393.75,08/11/2022 00:00,Shipped,3,202208,2022,Vintage Cars,147.9,S04452,Vivaan Khan,+91-9212023486,92 Market Road,,Nagpur,Maharashtra,448242,India,South,Khan,Vivaan,Medium
+10591,12,162.55,7,1950.6,09/06/2025 00:00,Shipped,3,202509,2025,Vintage Cars,211.13,S04551,Anaya Patil,+91-7587547723,58 Market Road,,Nashik,Maharashtra,654189,India,East,Patil,Anaya,Medium
+10592,56,163.81,5,9173.36,03/19/2024 00:00,Shipped,1,202403,2024,Planes,195.6,S02225,Diya Singh,+91-9581052844,126 Market Road,,Bengaluru,Karnataka,656457,India,North,Singh,Diya,Large
+10593,33,71.78,3,2368.74,04/24/2022 00:00,Shipped,2,202204,2022,Motorcycles,77.18,S03904,Ishaan Khan,+91-7296181489,100 Market Road,,Nagpur,Maharashtra,486961,India,South,Khan,Ishaan,Medium
+10594,47,126.2,2,5931.4,12/06/2023 00:00,In Process,4,202312,2023,Motorcycles,167.12,S04779,Ishaan Patil,+91-8705082639,139 Market Road,,Pune,Maharashtra,684036,India,East,Patil,Ishaan,Large
+10595,20,179.87,4,3597.4,05/14/2022 00:00,Shipped,2,202205,2022,Classic Cars,231.68,S04129,Vivaan Mehta,+91-8182073108,235 Market Road,,Kolkata,West Bengal,435389,India,East,Mehta,Vivaan,Medium
+10596,28,66.57,7,1863.96,12/04/2025 00:00,Shipped,4,202512,2025,Trucks and Buses,72.75,S02373,Aditya Pawar,+91-8598136700,100 Market Road,,Pune,Maharashtra,409424,India,East,Pawar,Aditya,Medium
+10597,46,100.93,1,4642.78,02/12/2024 00:00,Shipped,1,202402,2024,Classic Cars,134.88,S01306,Ishaan Deshmukh,+91-9966688959,52 Market Road,,Mumbai,Maharashtra,506287,India,West,Deshmukh,Ishaan,Medium
+10598,17,166.52,1,2830.84,02/20/2025 00:00,Resolved,1,202502,2025,Vintage Cars,182.12,S01860,Rohan Khan,+91-9105536738,33 Market Road,,Jaipur,Rajasthan,479446,India,West,Khan,Rohan,Medium
+10599,29,45.46,3,1318.34,11/19/2023 00:00,Resolved,4,202311,2023,Classic Cars,50.12,S01809,Ishaan Mehta,+91-7724714285,205 Market Road,,Chennai,Tamil Nadu,423195,India,North,Mehta,Ishaan,Medium
+10600,53,169.24,7,8969.72,01/29/2022 00:00,Shipped,1,202201,2022,Ships,192.1,S04937,Vivaan Patil,+91-9908771481,60 Market Road,,Hyderabad,Telangana,654320,India,North,Patil,Vivaan,Large
+10601,56,103.22,2,5780.32,07/21/2024 00:00,Shipped,3,202407,2024,Motorcycles,109.17,S03664,Rohan Kulkarni,+91-7904476462,66 Market Road,,Mumbai,Maharashtra,693755,India,East,Kulkarni,Rohan,Large
+10602,31,163.96,6,5082.76,08/12/2024 00:00,Shipped,3,202408,2024,Motorcycles,203.39,S04292,Ishaan Kulkarni,+91-7391971406,241 Market Road,,Nashik,Maharashtra,481145,India,West,Kulkarni,Ishaan,Large
+10603,16,123.21,5,1971.36,12/01/2022 00:00,Shipped,4,202212,2022,Trucks and Buses,147.24,S03886,Priya Deshmukh,+91-9679072597,28 Market Road,,Nashik,Maharashtra,494534,India,East,Deshmukh,Priya,Medium
+10604,11,130.72,2,1437.92,11/12/2024 00:00,In Process,4,202411,2024,Ships,171.64,S02382,Vivaan Naik,+91-7457800366,196 Market Road,,Hyderabad,Telangana,615587,India,North,Naik,Vivaan,Medium
+10605,43,145.95,7,6275.85,11/27/2022 00:00,Resolved,4,202211,2022,Motorcycles,158.25,S03950,Aarav Khan,+91-7182590371,4 Market Road,,Bengaluru,Karnataka,680013,India,East,Khan,Aarav,Large
+10606,51,40.07,2,2043.57,10/07/2024 00:00,Shipped,4,202410,2024,Motorcycles,42.46,S03200,Priya Mehta,+91-8885990153,282 Market Road,,Nagpur,Maharashtra,486084,India,West,Mehta,Priya,Medium
+10607,45,124.17,4,5587.65,12/30/2024 00:00,Resolved,4,202412,2024,Trucks and Buses,139.76,S03700,Aarav Deshmukh,+91-7455789781,214 Market Road,,Chennai,Tamil Nadu,604887,India,North,Deshmukh,Aarav,Large
+10608,34,168.59,5,5732.06,07/20/2022 00:00,Shipped,3,202207,2022,Trucks and Buses,177.21,S01504,Aarav Patil,+91-7378158364,246 Market Road,,Chennai,Tamil Nadu,406943,India,South,Patil,Aarav,Large
+10609,11,173.42,5,1907.62,03/03/2023 00:00,Shipped,1,202303,2023,Ships,230.85,S01158,Sara Mehta,+91-9882943545,200 Market Road,,Chennai,Tamil Nadu,569889,India,East,Mehta,Sara,Medium
+10610,23,175.25,6,4030.75,08/27/2022 00:00,In Process,3,202208,2022,Ships,219.26,S00901,Ishaan Patil,+91-9011451451,121 Market Road,,Mumbai,Maharashtra,696246,India,South,Patil,Ishaan,Medium
+10611,12,126.87,5,1522.44,11/28/2024 00:00,Shipped,4,202411,2024,Trucks and Buses,162.22,S01446,Anaya Sharma,+91-9528487683,298 Market Road,,Hyderabad,Telangana,542697,India,North,Sharma,Anaya,Medium
+10612,37,124.99,5,4624.63,12/11/2022 00:00,On Hold,4,202212,2022,Trucks and Buses,157.71,S04892,Anaya Deshmukh,+91-8855972400,236 Market Road,,Nashik,Maharashtra,592525,India,East,Deshmukh,Anaya,Medium
+10613,28,112.87,2,3160.36,07/25/2024 00:00,Shipped,3,202407,2024,Classic Cars,122.46,S04710,Aditya Pawar,+91-8630030367,27 Market Road,,Nashik,Maharashtra,606283,India,East,Pawar,Aditya,Medium
+10614,14,121.13,3,1695.82,09/03/2023 00:00,Shipped,3,202309,2023,Trucks and Buses,127.09,S00732,Anaya Mehta,+91-7653211031,173 Market Road,,Jaipur,Rajasthan,589749,India,East,Mehta,Anaya,Medium
+10615,46,121.82,3,5603.72,05/02/2022 00:00,Shipped,2,202205,2022,Ships,140.13,S02769,Aditya Deshmukh,+91-9901917005,163 Market Road,,Delhi,Delhi,605951,India,East,Deshmukh,Aditya,Large
+10616,32,36.36,3,1163.52,07/13/2025 00:00,In Process,3,202507,2025,Planes,46.91,S04702,Aditya Kulkarni,+91-9469536844,86 Market Road,,Chennai,Tamil Nadu,666102,India,East,Kulkarni,Aditya,Medium
+10617,67,43.33,1,2903.11,11/04/2024 00:00,Shipped,4,202411,2024,Motorcycles,48.34,S03772,Aditya Singh,+91-7315752535,137 Market Road,,Nashik,Maharashtra,403158,India,South,Singh,Aditya,Medium
+10618,35,122.91,1,4301.85,01/18/2023 00:00,Shipped,1,202301,2023,Vintage Cars,123.32,S03061,Vivaan Mehta,+91-9280439197,292 Market Road,,Jaipur,Rajasthan,665469,India,North,Mehta,Vivaan,Medium
+10619,15,77.13,4,1156.95,07/08/2025 00:00,Shipped,3,202507,2025,Trains,94.95,S02996,Diya Mehta,+91-7997724696,26 Market Road,,Nashik,Maharashtra,672425,India,West,Mehta,Diya,Medium
+10620,52,75.21,6,3910.92,11/01/2024 00:00,Shipped,4,202411,2024,Planes,80.48,S01631,Diya Sharma,+91-7627480750,278 Market Road,,Mumbai,Maharashtra,671295,India,North,Sharma,Diya,Medium
+10621,52,59.02,7,3069.04,04/08/2025 00:00,Shipped,2,202504,2025,Classic Cars,70.23,S04622,Aarav Naik,+91-9216602930,210 Market Road,,Nagpur,Maharashtra,510426,India,West,Naik,Aarav,Medium
+10622,65,150.16,7,9760.4,09/18/2022 00:00,Shipped,3,202209,2022,Planes,150.94,S00416,Anaya Patil,+91-8841703629,34 Market Road,,Mumbai,Maharashtra,574958,India,East,Patil,Anaya,Large
+10623,51,174.65,4,8907.15,01/13/2022 00:00,Shipped,1,202201,2022,Classic Cars,205.75,S04344,Aanya Singh,+91-7221903395,92 Market Road,,Bengaluru,Karnataka,506017,India,East,Singh,Aanya,Large
+10624,31,124.16,7,3848.96,04/01/2022 00:00,Shipped,2,202204,2022,Motorcycles,141.26,S04356,Aarav Deshmukh,+91-8800212858,251 Market Road,,Mumbai,Maharashtra,652178,India,North,Deshmukh,Aarav,Medium
+10625,50,171.81,4,8590.5,02/28/2024 00:00,Shipped,1,202402,2024,Planes,224.75,S01307,Ishaan Joshi,+91-9756596863,211 Market Road,,Nashik,Maharashtra,522018,India,West,Joshi,Ishaan,Large
+10626,57,162.58,4,9267.06,02/23/2025 00:00,Shipped,1,202502,2025,Planes,203.65,S02560,Priya Kulkarni,+91-9058822385,24 Market Road,,Chennai,Tamil Nadu,493934,India,East,Kulkarni,Priya,Large
+10627,40,62.69,2,2507.6,08/27/2025 00:00,On Hold,3,202508,2025,Classic Cars,63.48,S04423,Anaya Kulkarni,+91-7796420699,45 Market Road,,Pune,Maharashtra,605653,India,West,Kulkarni,Anaya,Medium
+10628,57,53.03,5,3022.71,11/04/2025 00:00,In Process,4,202511,2025,Classic Cars,67.68,S02371,Aarav Sharma,+91-8939388173,278 Market Road,,Delhi,Delhi,414815,India,West,Sharma,Aarav,Medium
+10629,68,61.74,3,4198.32,05/24/2024 00:00,Shipped,2,202405,2024,Vintage Cars,78.84,S01500,Diya Singh,+91-7746986709,48 Market Road,,Hyderabad,Telangana,512843,India,North,Singh,Diya,Medium
+10630,55,44.43,4,2443.65,07/11/2024 00:00,Resolved,3,202407,2024,Planes,54.75,S00350,Anaya Deshmukh,+91-9622812218,187 Market Road,,Delhi,Delhi,461907,India,West,Deshmukh,Anaya,Medium
+10631,40,117.43,7,4697.2,03/01/2023 00:00,In Process,1,202303,2023,Trucks and Buses,155.62,S02205,Aditya Singh,+91-9537387208,298 Market Road,,Pune,Maharashtra,512187,India,East,Singh,Aditya,Medium
+10632,39,72.4,4,2823.6,01/02/2022 00:00,Shipped,1,202201,2022,Ships,92.75,S01389,Aarav Mehta,+91-8706302041,50 Market Road,,Mumbai,Maharashtra,534668,India,North,Mehta,Aarav,Medium
+10633,60,166.94,3,10016.4,10/12/2022 00:00,Shipped,4,202210,2022,Ships,179.73,S04256,Rohan Khan,+91-7405776205,14 Market Road,,Jaipur,Rajasthan,419046,India,East,Khan,Rohan,Large
+10634,62,122.01,5,7564.62,03/23/2022 00:00,Shipped,1,202203,2022,Vintage Cars,138.3,S04306,Rohan Mehta,+91-8203853446,245 Market Road,,Chennai,Tamil Nadu,659485,India,East,Mehta,Rohan,Large
+10635,25,83.94,6,2098.5,09/27/2024 00:00,Shipped,3,202409,2024,Classic Cars,94.22,S01620,Sara Singh,+91-9298267980,285 Market Road,,Nagpur,Maharashtra,525034,India,East,Singh,Sara,Medium
+10636,10,177.7,5,1777.0,01/06/2024 00:00,Shipped,1,202401,2024,Trucks and Buses,209.1,S01053,Aarav Deshmukh,+91-9041965792,155 Market Road,,Kolkata,West Bengal,507679,India,South,Deshmukh,Aarav,Medium
+10637,58,172.98,1,10032.84,01/31/2025 00:00,Shipped,1,202501,2025,Motorcycles,230.72,S01454,Rohan Deshmukh,+91-7777719082,70 Market Road,,Pune,Maharashtra,444859,India,West,Deshmukh,Rohan,Large
+10638,24,146.79,2,3522.96,08/05/2022 00:00,Shipped,3,202208,2022,Classic Cars,178.42,S02009,Anaya Khan,+91-9568778006,18 Market Road,,Pune,Maharashtra,698837,India,North,Khan,Anaya,Medium
+10639,69,148.75,1,10263.75,08/26/2025 00:00,Shipped,3,202508,2025,Motorcycles,165.04,S03343,Anaya Naik,+91-9278776105,273 Market Road,,Kolkata,West Bengal,656762,India,South,Naik,Anaya,Large
+10640,12,176.59,7,2119.08,11/17/2024 00:00,Shipped,4,202411,2024,Planes,234.78,S00762,Rohan Pawar,+91-7839951935,239 Market Road,,Hyderabad,Telangana,544613,India,West,Pawar,Rohan,Medium
+10641,64,120.07,3,7684.48,08/16/2025 00:00,Shipped,3,202508,2025,Vintage Cars,149.5,S04998,Anaya Sharma,+91-8441142274,269 Market Road,,Bengaluru,Karnataka,500387,India,North,Sharma,Anaya,Large
+10642,50,162.0,4,8100.0,08/05/2024 00:00,Shipped,3,202408,2024,Classic Cars,177.09,S03501,Aditya Pawar,+91-7795436724,236 Market Road,,Nagpur,Maharashtra,540293,India,South,Pawar,Aditya,Large
+10643,28,39.72,7,1112.16,05/11/2023 00:00,In Process,2,202305,2023,Planes,52.32,S00656,Aditya Deshmukh,+91-9217579953,130 Market Road,,Kolkata,West Bengal,688356,India,South,Deshmukh,Aditya,Medium
+10644,12,113.11,7,1357.32,07/03/2024 00:00,Shipped,3,202407,2024,Classic Cars,126.74,S01574,Priya Sharma,+91-8882977742,145 Market Road,,Hyderabad,Telangana,466440,India,West,Sharma,Priya,Medium
+10645,60,105.38,2,6322.8,06/01/2024 00:00,Shipped,2,202406,2024,Motorcycles,124.42,S03505,Diya Khan,+91-7515320533,115 Market Road,,Delhi,Delhi,605427,India,West,Khan,Diya,Large
+10646,17,35.66,7,606.22,09/22/2022 00:00,Shipped,3,202209,2022,Trains,41.64,S02520,Diya Naik,+91-7257067135,219 Market Road,,Nagpur,Maharashtra,671158,India,West,Naik,Diya,Small
+10647,15,43.04,6,645.6,05/29/2022 00:00,Shipped,2,202205,2022,Trucks and Buses,56.95,S02635,Diya Deshmukh,+91-9812856720,30 Market Road,,Nagpur,Maharashtra,626921,India,South,Deshmukh,Diya,Small
+10648,57,33.28,5,1896.96,08/08/2024 00:00,In Process,3,202408,2024,Vintage Cars,36.37,S00208,Aditya Joshi,+91-8339679029,13 Market Road,,Bengaluru,Karnataka,661134,India,South,Joshi,Aditya,Medium
+10649,50,74.1,2,3705.0,05/19/2022 00:00,Shipped,2,202205,2022,Classic Cars,82.74,S02053,Anaya Kulkarni,+91-9435566678,288 Market Road,,Hyderabad,Telangana,684420,India,North,Kulkarni,Anaya,Medium
+10650,17,38.03,5,646.51,05/27/2022 00:00,In Process,2,202205,2022,Motorcycles,46.82,S03072,Priya Patil,+91-7398160814,96 Market Road,,Kolkata,West Bengal,418005,India,West,Patil,Priya,Small
+10651,30,93.47,5,2804.1,04/15/2022 00:00,Cancelled,2,202204,2022,Vintage Cars,122.48,S03749,Vivaan Sharma,+91-8158155797,11 Market Road,,Delhi,Delhi,471705,India,South,Sharma,Vivaan,Medium
+10652,49,151.91,4,7443.59,06/27/2024 00:00,Shipped,2,202406,2024,Trucks and Buses,158.02,S02235,Priya Joshi,+91-8400393944,202 Market Road,,Nashik,Maharashtra,443339,India,South,Joshi,Priya,Large
+10653,49,122.07,5,5981.43,09/16/2025 00:00,Shipped,3,202509,2025,Ships,131.04,S02774,Aditya Deshmukh,+91-7778044605,120 Market Road,,Bengaluru,Karnataka,570244,India,East,Deshmukh,Aditya,Large
+10654,31,131.07,2,4063.17,12/28/2023 00:00,Shipped,4,202312,2023,Vintage Cars,174.56,S01110,Aditya Kulkarni,+91-7257777167,69 Market Road,,Bengaluru,Karnataka,522271,India,West,Kulkarni,Aditya,Medium
+10655,34,34.73,5,1180.82,08/11/2022 00:00,Shipped,3,202208,2022,Ships,44.18,S03989,Aarav Mehta,+91-8226354257,130 Market Road,,Nashik,Maharashtra,412222,India,North,Mehta,Aarav,Medium
+10656,14,155.93,2,2183.02,01/20/2024 00:00,Shipped,1,202401,2024,Vintage Cars,174.82,S03489,Sara Khan,+91-8098557130,135 Market Road,,Pune,Maharashtra,567328,India,West,Khan,Sara,Medium
+10657,10,51.93,3,519.3,12/06/2023 00:00,Shipped,4,202312,2023,Motorcycles,58.43,S03719,Ishaan Patil,+91-8344147892,183 Market Road,,Nagpur,Maharashtra,430238,India,South,Patil,Ishaan,Small
+10658,68,75.4,4,5127.2,05/16/2024 00:00,Shipped,2,202405,2024,Trucks and Buses,87.79,S03340,Anaya Singh,+91-7220285584,279 Market Road,,Pune,Maharashtra,522235,India,South,Singh,Anaya,Large
+10659,23,107.52,2,2472.96,09/25/2023 00:00,Shipped,3,202309,2023,Classic Cars,132.88,S04925,Diya Mehta,+91-8087725879,264 Market Road,,Pune,Maharashtra,510013,India,North,Mehta,Diya,Medium
+10660,65,169.5,7,11017.5,02/17/2024 00:00,Shipped,1,202402,2024,Vintage Cars,202.78,S04399,Sara Sharma,+91-9592776948,248 Market Road,,Jaipur,Rajasthan,668168,India,East,Sharma,Sara,Large
+10661,12,179.72,7,2156.64,04/20/2023 00:00,Shipped,2,202304,2023,Trucks and Buses,228.54,S04054,Priya Mehta,+91-9855425046,148 Market Road,,Chennai,Tamil Nadu,604819,India,South,Mehta,Priya,Medium
+10662,69,147.4,4,10170.6,08/16/2025 00:00,Shipped,3,202508,2025,Motorcycles,150.19,S01676,Diya Pawar,+91-8616373313,167 Market Road,,Pune,Maharashtra,587322,India,North,Pawar,Diya,Large
+10663,35,139.4,4,4879.0,02/25/2024 00:00,Shipped,1,202402,2024,Vintage Cars,179.36,S00334,Vivaan Kulkarni,+91-8098514394,40 Market Road,,Nagpur,Maharashtra,649591,India,North,Kulkarni,Vivaan,Medium
+10664,58,109.15,3,6330.7,03/31/2023 00:00,Shipped,1,202303,2023,Classic Cars,111.37,S00004,Aanya Pawar,+91-8248346791,173 Market Road,,Nashik,Maharashtra,454177,India,East,Pawar,Aanya,Large
+10665,60,129.84,2,7790.4,01/05/2022 00:00,Shipped,1,202201,2022,Motorcycles,169.87,S03898,Aarav Pawar,+91-8191553512,201 Market Road,,Jaipur,Rajasthan,476947,India,North,Pawar,Aarav,Large
+10666,31,51.66,7,1601.46,09/18/2024 00:00,Shipped,3,202409,2024,Motorcycles,52.44,S04495,Rohan Singh,+91-9834731745,266 Market Road,,Delhi,Delhi,625773,India,East,Singh,Rohan,Medium
+10667,54,70.38,3,3800.52,07/10/2023 00:00,Shipped,3,202307,2023,Vintage Cars,73.53,S03248,Aditya Singh,+91-7084925609,14 Market Road,,Nashik,Maharashtra,624798,India,East,Singh,Aditya,Medium
+10668,30,177.7,7,5331.0,12/30/2022 00:00,Shipped,4,202212,2022,Vintage Cars,188.91,S03605,Aanya Patil,+91-8817846285,259 Market Road,,Hyderabad,Telangana,406411,India,West,Patil,Aanya,Large
+10669,57,176.94,1,10085.58,12/02/2023 00:00,Shipped,4,202312,2023,Vintage Cars,190.75,S00449,Vivaan Sharma,+91-8354825523,156 Market Road,,Delhi,Delhi,467310,India,North,Sharma,Vivaan,Large
+10670,67,78.45,1,5256.15,12/10/2023 00:00,Shipped,4,202312,2023,Planes,89.48,S02827,Anaya Khan,+91-7476584961,27 Market Road,,Mumbai,Maharashtra,468153,India,South,Khan,Anaya,Large
+10671,58,66.16,4,3837.28,03/19/2025 00:00,Shipped,1,202503,2025,Trucks and Buses,81.34,S03027,Sara Khan,+91-8037655770,298 Market Road,,Nagpur,Maharashtra,401818,India,North,Khan,Sara,Medium
+10672,53,64.43,6,3414.79,03/03/2024 00:00,Shipped,1,202403,2024,Planes,84.56,S00783,Sara Kulkarni,+91-8060244088,140 Market Road,,Mumbai,Maharashtra,598459,India,West,Kulkarni,Sara,Medium
+10673,32,102.73,3,3287.36,10/21/2024 00:00,Shipped,4,202410,2024,Planes,121.59,S03754,Aarav Naik,+91-8976031874,124 Market Road,,Hyderabad,Telangana,416330,India,East,Naik,Aarav,Medium
+10674,16,63.56,6,1016.96,08/03/2024 00:00,Shipped,3,202408,2024,Trains,75.41,S01677,Aarav Singh,+91-8233096734,58 Market Road,,Jaipur,Rajasthan,652496,India,West,Singh,Aarav,Medium
+10675,40,127.27,1,5090.8,05/26/2025 00:00,On Hold,2,202505,2025,Classic Cars,141.49,S00986,Priya Joshi,+91-8551895795,22 Market Road,,Kolkata,West Bengal,575726,India,North,Joshi,Priya,Large
+10676,17,41.22,6,700.74,01/10/2022 00:00,Shipped,1,202201,2022,Vintage Cars,52.77,S03480,Diya Mehta,+91-8715292010,25 Market Road,,Nagpur,Maharashtra,628595,India,East,Mehta,Diya,Small
+10677,40,45.55,4,1822.0,07/04/2023 00:00,Shipped,3,202307,2023,Classic Cars,47.31,S02175,Rohan Khan,+91-7141538076,80 Market Road,,Delhi,Delhi,549194,India,North,Khan,Rohan,Medium
+10678,62,71.54,2,4435.48,11/11/2024 00:00,Shipped,4,202411,2024,Vintage Cars,79.08,S02680,Aarav Pawar,+91-9655127273,88 Market Road,,Pune,Maharashtra,691174,India,North,Pawar,Aarav,Medium
+10679,16,146.62,5,2345.92,07/25/2022 00:00,Shipped,3,202207,2022,Trucks and Buses,151.6,S02712,Anaya Mehta,+91-9677253446,139 Market Road,,Nagpur,Maharashtra,481155,India,South,Mehta,Anaya,Medium
+10680,64,78.49,6,5023.36,10/08/2023 00:00,On Hold,4,202310,2023,Vintage Cars,84.37,S03113,Diya Khan,+91-8091660101,183 Market Road,,Pune,Maharashtra,567448,India,South,Khan,Diya,Large
+10681,45,100.62,7,4527.9,08/09/2023 00:00,Cancelled,3,202308,2023,Trains,121.28,S02066,Priya Pawar,+91-9283189318,297 Market Road,,Chennai,Tamil Nadu,401966,India,South,Pawar,Priya,Medium
+10682,12,128.49,1,1541.88,03/23/2025 00:00,Shipped,1,202503,2025,Classic Cars,134.15,S04073,Aanya Sharma,+91-7202860910,238 Market Road,,Jaipur,Rajasthan,649952,India,North,Sharma,Aanya,Medium
+10683,53,148.28,5,7858.84,11/08/2025 00:00,Resolved,4,202511,2025,Motorcycles,153.5,S04380,Sara Mehta,+91-9597711912,146 Market Road,,Mumbai,Maharashtra,570460,India,East,Mehta,Sara,Large
+10684,10,76.07,3,760.7,06/05/2022 00:00,Shipped,2,202206,2022,Vintage Cars,98.06,S02419,Aditya Kulkarni,+91-7802997553,273 Market Road,,Hyderabad,Telangana,452789,India,South,Kulkarni,Aditya,Small
+10685,46,139.65,4,6423.9,11/10/2022 00:00,Shipped,4,202211,2022,Classic Cars,145.43,S00845,Priya Mehta,+91-8727244284,167 Market Road,,Bengaluru,Karnataka,645363,India,West,Mehta,Priya,Large
+10686,40,72.91,4,2916.4,02/05/2025 00:00,Shipped,1,202502,2025,Vintage Cars,88.43,S01395,Ishaan Naik,+91-8318088696,127 Market Road,,Delhi,Delhi,696865,India,West,Naik,Ishaan,Medium
+10687,54,126.67,6,6840.18,09/13/2022 00:00,Shipped,3,202209,2022,Planes,142.28,S03858,Aditya Kulkarni,+91-8068046561,65 Market Road,,Chennai,Tamil Nadu,420571,India,South,Kulkarni,Aditya,Large
+10688,32,97.63,3,3124.16,12/28/2023 00:00,Shipped,4,202312,2023,Motorcycles,128.26,S01283,Aanya Naik,+91-8775600706,127 Market Road,,Hyderabad,Telangana,653809,India,West,Naik,Aanya,Medium
+10689,17,168.99,2,2872.83,10/11/2025 00:00,Shipped,4,202510,2025,Trains,210.84,S03890,Priya Patil,+91-9801657544,13 Market Road,,Nashik,Maharashtra,621016,India,East,Patil,Priya,Medium
+10690,33,177.31,4,5851.23,11/25/2025 00:00,Shipped,4,202511,2025,Trucks and Buses,181.0,S03310,Rohan Kulkarni,+91-8436783602,46 Market Road,,Chennai,Tamil Nadu,506361,India,South,Kulkarni,Rohan,Large
+10691,55,146.12,5,8036.6,10/19/2025 00:00,Cancelled,4,202510,2025,Motorcycles,191.92,S02240,Vivaan Sharma,+91-8411988819,283 Market Road,,Hyderabad,Telangana,590426,India,West,Sharma,Vivaan,Large
+10692,67,167.32,6,11210.44,07/16/2022 00:00,Shipped,3,202207,2022,Trucks and Buses,191.56,S00633,Rohan Sharma,+91-9739358640,59 Market Road,,Nagpur,Maharashtra,635700,India,East,Sharma,Rohan,Large
+10693,22,50.48,1,1110.56,08/07/2022 00:00,Shipped,3,202208,2022,Classic Cars,55.75,S02697,Ishaan Kulkarni,+91-7893524784,170 Market Road,,Chennai,Tamil Nadu,543854,India,South,Kulkarni,Ishaan,Medium
+10694,31,128.17,4,3973.27,09/15/2022 00:00,On Hold,3,202209,2022,Vintage Cars,158.35,S03464,Aditya Pawar,+91-7128785111,31 Market Road,,Hyderabad,Telangana,600008,India,East,Pawar,Aditya,Medium
+10695,62,59.76,1,3705.12,01/29/2025 00:00,Shipped,1,202501,2025,Motorcycles,74.78,S00768,Priya Mehta,+91-7974514522,180 Market Road,,Mumbai,Maharashtra,414508,India,West,Mehta,Priya,Medium
+10696,28,71.55,5,2003.4,09/19/2022 00:00,Shipped,3,202209,2022,Planes,79.14,S04125,Priya Sharma,+91-7591909490,292 Market Road,,Mumbai,Maharashtra,677685,India,East,Sharma,Priya,Medium
+10697,24,108.42,5,2602.08,09/20/2023 00:00,Shipped,3,202309,2023,Motorcycles,121.76,S00976,Ishaan Patil,+91-7914431542,137 Market Road,,Nagpur,Maharashtra,677163,India,East,Patil,Ishaan,Medium
+10698,59,141.3,6,8336.7,04/10/2025 00:00,Shipped,2,202504,2025,Planes,149.03,S02063,Aarav Joshi,+91-8619997947,39 Market Road,,Pune,Maharashtra,463099,India,North,Joshi,Aarav,Large
+10699,39,138.22,2,5390.58,12/21/2023 00:00,Shipped,4,202312,2023,Trucks and Buses,166.93,S02658,Aditya Joshi,+91-8574494882,7 Market Road,,Delhi,Delhi,543280,India,East,Joshi,Aditya,Large
+10700,44,160.42,6,7058.48,10/06/2025 00:00,Shipped,4,202510,2025,Vintage Cars,214.15,S03695,Diya Sharma,+91-7561331910,227 Market Road,,Delhi,Delhi,471641,India,South,Sharma,Diya,Large
+10701,39,113.89,5,4441.71,12/30/2023 00:00,Shipped,4,202312,2023,Trains,130.5,S01124,Aarav Naik,+91-8392298919,31 Market Road,,Chennai,Tamil Nadu,519922,India,West,Naik,Aarav,Medium
+10702,46,168.95,5,7771.7,07/09/2023 00:00,Shipped,3,202307,2023,Motorcycles,227.86,S01679,Aditya Patil,+91-7128494145,96 Market Road,,Mumbai,Maharashtra,482609,India,West,Patil,Aditya,Large
+10703,26,163.18,5,4242.68,11/15/2025 00:00,Resolved,4,202511,2025,Motorcycles,173.26,S04032,Vivaan Kulkarni,+91-9168227177,253 Market Road,,Bengaluru,Karnataka,658528,India,North,Kulkarni,Vivaan,Medium
+10704,53,157.36,4,8340.08,03/10/2024 00:00,Resolved,1,202403,2024,Vintage Cars,201.21,S01648,Priya Khan,+91-7062439991,161 Market Road,,Hyderabad,Telangana,608495,India,West,Khan,Priya,Large
+10705,31,64.43,1,1997.33,09/27/2022 00:00,Shipped,3,202209,2022,Vintage Cars,85.36,S03081,Ishaan Deshmukh,+91-7902776872,262 Market Road,,Delhi,Delhi,653758,India,West,Deshmukh,Ishaan,Medium
+10706,41,109.72,6,4498.52,07/15/2024 00:00,On Hold,3,202407,2024,Vintage Cars,136.14,S01989,Ishaan Kulkarni,+91-8425328281,261 Market Road,,Jaipur,Rajasthan,637948,India,West,Kulkarni,Ishaan,Medium
+10707,21,140.44,3,2949.24,02/03/2025 00:00,In Process,1,202502,2025,Ships,145.81,S00283,Anaya Naik,+91-7499518965,198 Market Road,,Nagpur,Maharashtra,618251,India,South,Naik,Anaya,Medium
+10708,10,176.42,1,1764.2,05/10/2025 00:00,Resolved,2,202505,2025,Motorcycles,196.58,S02572,Aarav Pawar,+91-8938809945,280 Market Road,,Delhi,Delhi,450014,India,South,Pawar,Aarav,Medium
+10709,44,31.75,5,1397.0,01/09/2022 00:00,Shipped,1,202201,2022,Classic Cars,32.7,S01790,Diya Sharma,+91-8014701088,11 Market Road,,Pune,Maharashtra,648891,India,East,Sharma,Diya,Medium
+10710,18,79.07,7,1423.26,06/08/2022 00:00,Shipped,2,202206,2022,Ships,95.72,S01325,Priya Kulkarni,+91-7690661358,72 Market Road,,Delhi,Delhi,635004,India,West,Kulkarni,Priya,Medium
+10711,64,81.35,5,5206.4,07/07/2024 00:00,Shipped,3,202407,2024,Planes,109.77,S04292,Rohan Deshmukh,+91-9329580883,83 Market Road,,Pune,Maharashtra,437311,India,South,Deshmukh,Rohan,Large
+10712,67,73.28,2,4909.76,12/19/2024 00:00,Resolved,4,202412,2024,Trucks and Buses,82.89,S03871,Aditya Joshi,+91-7099039915,273 Market Road,,Jaipur,Rajasthan,426336,India,West,Joshi,Aditya,Medium
+10713,28,152.61,6,4273.08,08/11/2024 00:00,Shipped,3,202408,2024,Motorcycles,161.31,S01387,Aarav Kulkarni,+91-9804524480,186 Market Road,,Nashik,Maharashtra,628350,India,South,Kulkarni,Aarav,Medium
+10714,27,36.76,6,992.52,07/14/2023 00:00,Resolved,3,202307,2023,Planes,40.22,S02619,Aanya Khan,+91-8637634260,76 Market Road,,Kolkata,West Bengal,517093,India,West,Khan,Aanya,Small
+10715,40,83.92,3,3356.8,01/06/2025 00:00,Shipped,1,202501,2025,Motorcycles,100.69,S03598,Rohan Singh,+91-9764969641,63 Market Road,,Mumbai,Maharashtra,498443,India,North,Singh,Rohan,Medium
+10716,22,136.75,4,3008.5,04/26/2024 00:00,Shipped,2,202404,2024,Ships,163.98,S00267,Priya Kulkarni,+91-9120694033,241 Market Road,,Nashik,Maharashtra,518998,India,West,Kulkarni,Priya,Medium
+10717,61,91.01,6,5551.61,09/14/2025 00:00,Shipped,3,202509,2025,Motorcycles,98.33,S00469,Diya Naik,+91-8219632744,257 Market Road,,Mumbai,Maharashtra,660335,India,West,Naik,Diya,Large
+10718,16,51.61,2,825.76,06/22/2023 00:00,On Hold,2,202306,2023,Classic Cars,65.17,S02700,Anaya Kulkarni,+91-9139823884,5 Market Road,,Nagpur,Maharashtra,509146,India,East,Kulkarni,Anaya,Small
+10719,37,121.63,3,4500.31,01/06/2025 00:00,Shipped,1,202501,2025,Trucks and Buses,125.38,S04652,Aanya Kulkarni,+91-9885812130,110 Market Road,,Hyderabad,Telangana,511107,India,East,Kulkarni,Aanya,Medium
+10720,21,108.39,4,2276.19,07/30/2022 00:00,Shipped,3,202207,2022,Ships,132.03,S04637,Sara Pawar,+91-9553106737,161 Market Road,,Delhi,Delhi,519822,India,South,Pawar,Sara,Medium
+10721,59,177.28,1,10459.52,12/05/2024 00:00,Cancelled,4,202412,2024,Planes,203.69,S02247,Aanya Kulkarni,+91-9534256948,71 Market Road,,Hyderabad,Telangana,416297,India,West,Kulkarni,Aanya,Large
+10722,18,142.28,2,2561.04,12/04/2024 00:00,Shipped,4,202412,2024,Motorcycles,148.61,S03520,Aditya Pawar,+91-7351341364,218 Market Road,,Kolkata,West Bengal,411241,India,North,Pawar,Aditya,Medium
+10723,36,177.93,5,6405.48,01/06/2023 00:00,Shipped,1,202301,2023,Ships,217.44,S02458,Priya Khan,+91-8958238464,227 Market Road,,Pune,Maharashtra,524356,India,South,Khan,Priya,Large
+10724,60,57.95,2,3477.0,04/01/2022 00:00,Shipped,2,202204,2022,Classic Cars,71.6,S04523,Aarav Kulkarni,+91-7344620327,251 Market Road,,Delhi,Delhi,405047,India,North,Kulkarni,Aarav,Medium
+10725,36,144.24,2,5192.64,12/21/2025 00:00,In Process,4,202512,2025,Vintage Cars,166.45,S02849,Aarav Deshmukh,+91-7393392214,236 Market Road,,Bengaluru,Karnataka,627109,India,South,Deshmukh,Aarav,Large
+10726,21,112.75,3,2367.75,04/22/2022 00:00,Shipped,2,202204,2022,Classic Cars,144.24,S04456,Sara Naik,+91-8427917283,252 Market Road,,Bengaluru,Karnataka,527359,India,East,Naik,Sara,Medium
+10727,19,136.88,1,2600.72,11/16/2023 00:00,Shipped,4,202311,2023,Classic Cars,161.28,S01817,Diya Sharma,+91-9342295611,110 Market Road,,Mumbai,Maharashtra,550330,India,South,Sharma,Diya,Medium
+10728,46,100.13,5,4605.98,01/02/2022 00:00,Shipped,1,202201,2022,Classic Cars,110.14,S04655,Diya Kulkarni,+91-7925104213,90 Market Road,,Nashik,Maharashtra,500854,India,South,Kulkarni,Diya,Medium
+10729,17,61.86,2,1051.62,09/02/2023 00:00,Shipped,3,202309,2023,Ships,82.51,S03626,Priya Singh,+91-8805688795,95 Market Road,,Nagpur,Maharashtra,629166,India,North,Singh,Priya,Medium
+10730,31,36.86,5,1142.66,04/14/2025 00:00,Shipped,2,202504,2025,Classic Cars,49.04,S03838,Rohan Sharma,+91-7899298572,256 Market Road,,Hyderabad,Telangana,528295,India,South,Sharma,Rohan,Medium
+10731,46,155.74,6,7164.04,01/04/2024 00:00,Shipped,1,202401,2024,Trains,160.95,S00073,Aanya Singh,+91-7548447964,195 Market Road,,Jaipur,Rajasthan,410586,India,South,Singh,Aanya,Large
+10732,32,152.22,4,4871.04,12/17/2022 00:00,In Process,4,202212,2022,Trucks and Buses,202.62,S04032,Vivaan Pawar,+91-7486220260,97 Market Road,,Nagpur,Maharashtra,546540,India,North,Pawar,Vivaan,Medium
+10733,59,54.38,7,3208.42,07/30/2023 00:00,Shipped,3,202307,2023,Classic Cars,69.14,S00811,Aarav Joshi,+91-8116139802,216 Market Road,,Bengaluru,Karnataka,453167,India,West,Joshi,Aarav,Medium
+10734,51,126.78,2,6465.78,05/15/2022 00:00,In Process,2,202205,2022,Ships,131.51,S04681,Vivaan Deshmukh,+91-7370390561,70 Market Road,,Nagpur,Maharashtra,578566,India,West,Deshmukh,Vivaan,Large
+10735,18,140.66,7,2531.88,05/17/2024 00:00,Resolved,2,202405,2024,Motorcycles,166.23,S00944,Sara Kulkarni,+91-9674594248,80 Market Road,,Pune,Maharashtra,569139,India,West,Kulkarni,Sara,Medium
+10736,59,113.64,3,6704.76,01/06/2022 00:00,Shipped,1,202201,2022,Trucks and Buses,115.03,S04130,Aanya Pawar,+91-9224162524,1 Market Road,,Nagpur,Maharashtra,542419,India,North,Pawar,Aanya,Large
+10737,64,77.58,3,4965.12,05/26/2023 00:00,Shipped,2,202305,2023,Motorcycles,93.57,S03177,Aanya Sharma,+91-7664896466,289 Market Road,,Nagpur,Maharashtra,515633,India,South,Sharma,Aanya,Medium
+10738,22,162.14,7,3567.08,03/30/2022 00:00,Shipped,1,202203,2022,Vintage Cars,215.1,S01963,Vivaan Joshi,+91-9657587707,71 Market Road,,Mumbai,Maharashtra,578856,India,West,Joshi,Vivaan,Medium
+10739,31,126.37,4,3917.47,12/17/2022 00:00,Shipped,4,202212,2022,Vintage Cars,142.66,S04453,Aditya Sharma,+91-8095985327,225 Market Road,,Hyderabad,Telangana,604121,India,South,Sharma,Aditya,Medium
+10740,33,138.03,6,4554.99,04/09/2022 00:00,Shipped,2,202204,2022,Trucks and Buses,162.6,S01941,Ishaan Khan,+91-9096949112,36 Market Road,,Nashik,Maharashtra,663659,India,North,Khan,Ishaan,Medium
+10741,35,127.82,6,4473.7,09/17/2025 00:00,Shipped,3,202509,2025,Classic Cars,138.0,S00319,Sara Sharma,+91-7023242987,11 Market Road,,Nashik,Maharashtra,688862,India,East,Sharma,Sara,Medium
+10742,37,138.19,4,5113.03,02/01/2025 00:00,Shipped,1,202502,2025,Trains,164.35,S00379,Aarav Deshmukh,+91-7849385214,202 Market Road,,Nagpur,Maharashtra,424952,India,North,Deshmukh,Aarav,Large
+10743,63,51.76,3,3260.88,09/17/2025 00:00,Shipped,3,202509,2025,Classic Cars,66.3,S04262,Rohan Mehta,+91-8009783694,30 Market Road,,Jaipur,Rajasthan,598024,India,East,Mehta,Rohan,Medium
+10744,49,168.39,4,8251.11,09/24/2024 00:00,Shipped,3,202409,2024,Planes,181.08,S01923,Aarav Mehta,+91-8756991379,44 Market Road,,Hyderabad,Telangana,425405,India,South,Mehta,Aarav,Large
+10745,63,72.87,3,4590.81,12/27/2023 00:00,Shipped,4,202312,2023,Motorcycles,86.99,S04097,Diya Naik,+91-9617222909,99 Market Road,,Delhi,Delhi,525251,India,East,Naik,Diya,Medium
+10746,31,155.48,3,4819.88,09/12/2022 00:00,Shipped,3,202209,2022,Classic Cars,174.78,S00101,Priya Kulkarni,+91-8314116542,176 Market Road,,Kolkata,West Bengal,622461,India,East,Kulkarni,Priya,Medium
+10747,41,164.01,2,6724.41,11/06/2025 00:00,Shipped,4,202511,2025,Classic Cars,206.94,S00384,Vivaan Patil,+91-8390483752,6 Market Road,,Pune,Maharashtra,562763,India,East,Patil,Vivaan,Large
+10748,16,127.68,7,2042.88,09/02/2025 00:00,Shipped,3,202509,2025,Vintage Cars,159.05,S04940,Sara Kulkarni,+91-8462100322,38 Market Road,,Nagpur,Maharashtra,642419,India,East,Kulkarni,Sara,Medium
+10749,26,119.75,5,3113.5,08/31/2023 00:00,Shipped,3,202308,2023,Ships,149.04,S00716,Diya Sharma,+91-8910051508,102 Market Road,,Bengaluru,Karnataka,673939,India,North,Sharma,Diya,Medium
+10750,45,46.36,6,2086.2,11/26/2022 00:00,Shipped,4,202211,2022,Ships,52.49,S03438,Rohan Pawar,+91-9540360245,211 Market Road,,Delhi,Delhi,692261,India,West,Pawar,Rohan,Medium
+10751,20,95.43,5,1908.6,07/20/2023 00:00,Shipped,3,202307,2023,Classic Cars,115.45,S01750,Diya Sharma,+91-8701557444,30 Market Road,,Hyderabad,Telangana,601964,India,North,Sharma,Diya,Medium
+10752,67,121.75,3,8157.25,07/30/2023 00:00,Shipped,3,202307,2023,Motorcycles,149.49,S02500,Rohan Khan,+91-9451727477,86 Market Road,,Chennai,Tamil Nadu,602088,India,West,Khan,Rohan,Large
+10753,26,42.28,3,1099.28,09/01/2025 00:00,Shipped,3,202509,2025,Classic Cars,52.35,S00574,Anaya Joshi,+91-8431317929,58 Market Road,,Delhi,Delhi,641034,India,West,Joshi,Anaya,Medium
+10754,19,46.72,7,887.68,04/08/2022 00:00,Cancelled,2,202204,2022,Ships,56.13,S01334,Vivaan Naik,+91-8459520670,93 Market Road,,Jaipur,Rajasthan,469934,India,East,Naik,Vivaan,Small
+10755,56,179.02,1,10025.12,07/13/2024 00:00,Shipped,3,202407,2024,Trains,233.33,S03791,Sara Kulkarni,+91-9619789226,78 Market Road,,Jaipur,Rajasthan,490486,India,East,Kulkarni,Sara,Large
+10756,15,79.84,3,1197.6,01/27/2025 00:00,Shipped,1,202501,2025,Trucks and Buses,86.79,S02678,Priya Patil,+91-8480349937,192 Market Road,,Delhi,Delhi,502414,India,North,Patil,Priya,Medium
+10757,29,82.46,6,2391.34,01/19/2025 00:00,Shipped,1,202501,2025,Trucks and Buses,84.07,S02520,Anaya Kulkarni,+91-7514033916,21 Market Road,,Jaipur,Rajasthan,623371,India,West,Kulkarni,Anaya,Medium
+10758,21,67.73,4,1422.33,10/10/2022 00:00,Resolved,4,202210,2022,Vintage Cars,90.55,S04724,Rohan Khan,+91-9545578587,281 Market Road,,Hyderabad,Telangana,505396,India,East,Khan,Rohan,Medium
+10759,51,126.9,5,6471.9,08/27/2023 00:00,On Hold,3,202308,2023,Vintage Cars,129.6,S02054,Rohan Joshi,+91-7299156531,74 Market Road,,Mumbai,Maharashtra,441844,India,South,Joshi,Rohan,Large
+10760,60,100.96,1,6057.6,05/15/2023 00:00,Shipped,2,202305,2023,Trucks and Buses,132.87,S04018,Sara Deshmukh,+91-7459403746,297 Market Road,,Mumbai,Maharashtra,639675,India,East,Deshmukh,Sara,Large
+10761,21,148.56,2,3119.76,08/18/2023 00:00,Shipped,3,202308,2023,Classic Cars,180.4,S03625,Aanya Joshi,+91-7110843998,219 Market Road,,Pune,Maharashtra,625007,India,East,Joshi,Aanya,Medium
+10762,34,106.87,5,3633.58,05/08/2022 00:00,Shipped,2,202205,2022,Classic Cars,141.24,S02304,Diya Singh,+91-9974455912,107 Market Road,,Nashik,Maharashtra,578318,India,South,Singh,Diya,Medium
+10763,38,32.31,3,1227.78,05/02/2022 00:00,Shipped,2,202205,2022,Vintage Cars,38.7,S01465,Rohan Mehta,+91-7372825573,91 Market Road,,Nagpur,Maharashtra,664555,India,South,Mehta,Rohan,Medium
+10764,51,102.4,4,5222.4,02/05/2022 00:00,Shipped,1,202202,2022,Ships,131.82,S01770,Ishaan Sharma,+91-7101265918,283 Market Road,,Pune,Maharashtra,637632,India,North,Sharma,Ishaan,Large
+10765,31,38.28,7,1186.68,11/13/2025 00:00,Resolved,4,202511,2025,Ships,47.94,S04357,Diya Naik,+91-8377027342,298 Market Road,,Hyderabad,Telangana,670159,India,West,Naik,Diya,Medium
+10766,41,154.02,5,6314.82,09/01/2023 00:00,Shipped,3,202309,2023,Trucks and Buses,182.33,S01529,Aarav Sharma,+91-8819554396,184 Market Road,,Delhi,Delhi,477956,India,East,Sharma,Aarav,Large
+10767,40,47.05,5,1882.0,11/30/2022 00:00,Shipped,4,202211,2022,Vintage Cars,53.03,S03270,Vivaan Naik,+91-9481354931,15 Market Road,,Hyderabad,Telangana,434989,India,South,Naik,Vivaan,Medium
+10768,10,62.54,2,625.4,03/11/2025 00:00,Shipped,1,202503,2025,Vintage Cars,62.6,S00623,Diya Mehta,+91-8384012824,272 Market Road,,Bengaluru,Karnataka,502497,India,East,Mehta,Diya,Small
+10769,44,98.99,5,4355.56,12/24/2023 00:00,Shipped,4,202312,2023,Vintage Cars,107.68,S01733,Aanya Pawar,+91-7067883952,143 Market Road,,Nashik,Maharashtra,649047,India,East,Pawar,Aanya,Medium
+10770,44,59.28,7,2608.32,06/17/2023 00:00,Shipped,2,202306,2023,Trains,79.03,S04672,Aarav Joshi,+91-9912160813,9 Market Road,,Hyderabad,Telangana,677495,India,North,Joshi,Aarav,Medium
+10771,69,110.88,5,7650.72,06/17/2022 00:00,Shipped,2,202206,2022,Classic Cars,121.57,S02699,Aarav Khan,+91-8787570961,240 Market Road,,Jaipur,Rajasthan,432992,India,North,Khan,Aarav,Large
+10772,40,99.1,6,3964.0,07/18/2023 00:00,Shipped,3,202307,2023,Trucks and Buses,125.18,S04112,Aarav Deshmukh,+91-9641971198,10 Market Road,,Nagpur,Maharashtra,656737,India,North,Deshmukh,Aarav,Medium
+10773,63,172.88,7,10891.44,08/03/2024 00:00,Shipped,3,202408,2024,Motorcycles,203.65,S01297,Diya Joshi,+91-8813230104,112 Market Road,,Nagpur,Maharashtra,543567,India,North,Joshi,Diya,Large
+10774,30,43.26,7,1297.8,06/29/2024 00:00,Shipped,2,202406,2024,Trains,47.93,S03806,Ishaan Pawar,+91-8876170559,23 Market Road,,Bengaluru,Karnataka,645473,India,West,Pawar,Ishaan,Medium
+10775,51,116.51,3,5942.01,07/26/2023 00:00,Resolved,3,202307,2023,Trains,156.93,S04924,Aarav Naik,+91-9127063294,131 Market Road,,Kolkata,West Bengal,604825,India,North,Naik,Aarav,Large
+10776,64,138.06,3,8835.84,06/14/2024 00:00,In Process,2,202406,2024,Motorcycles,140.33,S04625,Aanya Deshmukh,+91-7570348102,241 Market Road,,Bengaluru,Karnataka,418012,India,West,Deshmukh,Aanya,Large
+10777,19,49.14,2,933.66,01/26/2025 00:00,Shipped,1,202501,2025,Ships,59.15,S02178,Diya Patil,+91-9075378596,39 Market Road,,Kolkata,West Bengal,545323,India,East,Patil,Diya,Small
+10778,44,125.47,6,5520.68,09/21/2025 00:00,Shipped,3,202509,2025,Vintage Cars,145.74,S03409,Aarav Naik,+91-8468686899,42 Market Road,,Pune,Maharashtra,426695,India,North,Naik,Aarav,Large
+10779,65,159.64,3,10376.6,02/11/2024 00:00,Resolved,1,202402,2024,Trains,163.92,S04483,Sara Sharma,+91-8452053032,287 Market Road,,Pune,Maharashtra,502007,India,West,Sharma,Sara,Large
+10780,43,148.13,6,6369.59,11/29/2022 00:00,Shipped,4,202211,2022,Trains,159.23,S04068,Priya Pawar,+91-7455276193,53 Market Road,,Delhi,Delhi,627345,India,North,Pawar,Priya,Large
+10781,63,170.28,6,10727.64,07/09/2022 00:00,On Hold,3,202207,2022,Planes,211.66,S04890,Anaya Pawar,+91-8068600183,34 Market Road,,Nashik,Maharashtra,605215,India,West,Pawar,Anaya,Large
+10782,35,138.09,5,4833.15,08/19/2022 00:00,In Process,3,202208,2022,Classic Cars,143.33,S00157,Priya Joshi,+91-7124237157,176 Market Road,,Pune,Maharashtra,611465,India,North,Joshi,Priya,Medium
+10783,63,89.1,1,5613.3,01/16/2022 00:00,Shipped,1,202201,2022,Trucks and Buses,114.08,S02679,Anaya Kulkarni,+91-8316291267,83 Market Road,,Nashik,Maharashtra,598330,India,East,Kulkarni,Anaya,Large
+10784,47,168.07,5,7899.29,03/26/2024 00:00,Shipped,1,202403,2024,Trucks and Buses,204.84,S03957,Aarav Naik,+91-7617240655,287 Market Road,,Nashik,Maharashtra,404417,India,South,Naik,Aarav,Large
+10785,38,63.8,2,2424.4,11/07/2022 00:00,Shipped,4,202211,2022,Planes,66.05,S03650,Vivaan Sharma,+91-7666392813,49 Market Road,,Jaipur,Rajasthan,574926,India,East,Sharma,Vivaan,Medium
+10786,22,117.56,4,2586.32,11/27/2022 00:00,Shipped,4,202211,2022,Trucks and Buses,129.36,S00768,Aarav Kulkarni,+91-9455163634,170 Market Road,,Chennai,Tamil Nadu,545552,India,West,Kulkarni,Aarav,Medium
+10787,20,144.85,2,2897.0,11/24/2024 00:00,Shipped,4,202411,2024,Motorcycles,151.8,S02861,Ishaan Patil,+91-7422168591,276 Market Road,,Nagpur,Maharashtra,558581,India,West,Patil,Ishaan,Medium
+10788,27,160.84,1,4342.68,04/13/2023 00:00,Cancelled,2,202304,2023,Vintage Cars,205.74,S00827,Ishaan Pawar,+91-7362163048,220 Market Road,,Jaipur,Rajasthan,463856,India,South,Pawar,Ishaan,Medium
+10789,55,167.48,5,9211.4,04/25/2025 00:00,Shipped,2,202504,2025,Motorcycles,198.72,S00458,Anaya Naik,+91-7961503086,9 Market Road,,Kolkata,West Bengal,611792,India,North,Naik,Anaya,Large
+10790,38,42.75,4,1624.5,07/20/2022 00:00,Shipped,3,202207,2022,Classic Cars,42.79,S00558,Anaya Mehta,+91-9606749999,57 Market Road,,Nashik,Maharashtra,582324,India,South,Mehta,Anaya,Medium
+10791,33,138.91,5,4584.03,05/14/2023 00:00,Shipped,2,202305,2023,Motorcycles,165.31,S04762,Rohan Naik,+91-9397933905,38 Market Road,,Delhi,Delhi,520952,India,West,Naik,Rohan,Medium
+10792,38,60.62,4,2303.56,03/17/2022 00:00,Shipped,1,202203,2022,Planes,70.86,S01361,Aarav Patil,+91-7304962400,274 Market Road,,Jaipur,Rajasthan,416977,India,East,Patil,Aarav,Medium
+10793,30,146.87,3,4406.1,02/22/2024 00:00,Shipped,1,202402,2024,Classic Cars,179.93,S02283,Rohan Kulkarni,+91-8663693248,61 Market Road,,Delhi,Delhi,420638,India,West,Kulkarni,Rohan,Medium
+10794,58,135.1,1,7835.8,07/02/2022 00:00,Resolved,3,202207,2022,Vintage Cars,136.75,S01282,Aditya Patil,+91-7263425536,17 Market Road,,Nagpur,Maharashtra,507737,India,South,Patil,Aditya,Large
+10795,33,57.2,2,1887.6,12/17/2022 00:00,Shipped,4,202212,2022,Ships,57.91,S04470,Priya Deshmukh,+91-7902423607,115 Market Road,,Jaipur,Rajasthan,561290,India,East,Deshmukh,Priya,Medium
+10796,38,154.92,7,5886.96,12/10/2024 00:00,In Process,4,202412,2024,Trains,173.86,S04444,Vivaan Naik,+91-8478853685,85 Market Road,,Hyderabad,Telangana,699169,India,North,Naik,Vivaan,Large
+10797,43,99.27,6,4268.61,07/10/2025 00:00,In Process,3,202507,2025,Trucks and Buses,123.19,S03278,Vivaan Pawar,+91-7832146605,49 Market Road,,Delhi,Delhi,617109,India,North,Pawar,Vivaan,Medium
+10798,48,111.58,4,5355.84,03/07/2024 00:00,Shipped,1,202403,2024,Vintage Cars,137.61,S04143,Vivaan Kulkarni,+91-7768487722,136 Market Road,,Kolkata,West Bengal,545665,India,East,Kulkarni,Vivaan,Large
+10799,30,175.71,1,5271.3,11/11/2025 00:00,In Process,4,202511,2025,Trains,192.82,S00526,Aditya Mehta,+91-7672692544,270 Market Road,,Chennai,Tamil Nadu,489778,India,North,Mehta,Aditya,Large
+10800,14,128.49,7,1798.86,01/10/2025 00:00,Shipped,1,202501,2025,Classic Cars,138.21,S04999,Priya Kulkarni,+91-9558123220,68 Market Road,,Nagpur,Maharashtra,450600,India,South,Kulkarni,Priya,Medium
+10801,51,118.28,6,6032.28,01/05/2025 00:00,Shipped,1,202501,2025,Classic Cars,146.56,S02085,Anaya Singh,+91-8604534762,294 Market Road,,Delhi,Delhi,442240,India,South,Singh,Anaya,Large
+10802,43,32.51,1,1397.93,12/18/2025 00:00,Shipped,4,202512,2025,Ships,32.82,S02003,Vivaan Joshi,+91-7324596455,199 Market Road,,Pune,Maharashtra,421574,India,East,Joshi,Vivaan,Medium
+10803,48,59.88,2,2874.24,05/10/2022 00:00,Shipped,2,202205,2022,Motorcycles,71.55,S00980,Sara Pawar,+91-9301304024,115 Market Road,,Mumbai,Maharashtra,673643,India,West,Pawar,Sara,Medium
+10804,42,33.98,2,1427.16,12/06/2022 00:00,Shipped,4,202212,2022,Trains,39.02,S04385,Diya Pawar,+91-7232516775,203 Market Road,,Jaipur,Rajasthan,404765,India,West,Pawar,Diya,Medium
+10805,40,80.0,7,3200.0,10/01/2023 00:00,Shipped,4,202310,2023,Vintage Cars,86.69,S00850,Aanya Singh,+91-9195629688,105 Market Road,,Pune,Maharashtra,659211,India,East,Singh,Aanya,Medium
+10806,66,81.68,7,5390.88,06/22/2024 00:00,Shipped,2,202406,2024,Classic Cars,96.55,S04289,Aanya Khan,+91-8458912925,64 Market Road,,Kolkata,West Bengal,575111,India,West,Khan,Aanya,Large
+10807,13,109.55,3,1424.15,12/18/2025 00:00,On Hold,4,202512,2025,Motorcycles,117.88,S03575,Aanya Singh,+91-8410908219,71 Market Road,,Nashik,Maharashtra,585592,India,East,Singh,Aanya,Medium
+10808,15,133.47,2,2002.05,05/25/2022 00:00,Shipped,2,202205,2022,Classic Cars,159.83,S03860,Vivaan Mehta,+91-7446666741,3 Market Road,,Bengaluru,Karnataka,687691,India,North,Mehta,Vivaan,Medium
+10809,66,56.9,5,3755.4,12/02/2022 00:00,Shipped,4,202212,2022,Vintage Cars,59.87,S00151,Anaya Deshmukh,+91-8490702236,194 Market Road,,Chennai,Tamil Nadu,636061,India,South,Deshmukh,Anaya,Medium
+10810,63,120.25,2,7575.75,03/12/2023 00:00,On Hold,1,202303,2023,Classic Cars,137.32,S03692,Sara Patil,+91-7793407819,23 Market Road,,Jaipur,Rajasthan,444153,India,West,Patil,Sara,Large
+10811,34,167.55,1,5696.7,09/06/2024 00:00,Shipped,3,202409,2024,Vintage Cars,197.48,S04830,Diya Naik,+91-9578628875,60 Market Road,,Nagpur,Maharashtra,690738,India,West,Naik,Diya,Large
+10812,42,57.75,2,2425.5,10/22/2025 00:00,Shipped,4,202510,2025,Ships,58.39,S01972,Priya Kulkarni,+91-7818356943,1 Market Road,,Jaipur,Rajasthan,452841,India,South,Kulkarni,Priya,Medium
+10813,36,128.86,2,4638.96,10/03/2025 00:00,Shipped,4,202510,2025,Classic Cars,156.4,S02250,Priya Patil,+91-8310348611,20 Market Road,,Delhi,Delhi,570835,India,South,Patil,Priya,Medium
+10814,69,36.84,1,2541.96,12/28/2024 00:00,Shipped,4,202412,2024,Planes,46.51,S00561,Rohan Naik,+91-9196906659,271 Market Road,,Kolkata,West Bengal,592258,India,West,Naik,Rohan,Medium
+10815,37,109.67,5,4057.79,02/03/2025 00:00,Shipped,1,202502,2025,Planes,146.37,S02449,Aditya Khan,+91-7558609707,8 Market Road,,Mumbai,Maharashtra,473279,India,North,Khan,Aditya,Medium
+10816,55,141.23,3,7767.65,08/31/2023 00:00,In Process,3,202308,2023,Motorcycles,151.27,S03367,Diya Deshmukh,+91-7740858100,186 Market Road,,Nashik,Maharashtra,589144,India,West,Deshmukh,Diya,Large
+10817,31,35.11,4,1088.41,06/08/2024 00:00,Shipped,2,202406,2024,Motorcycles,37.67,S01497,Rohan Khan,+91-7691641125,98 Market Road,,Hyderabad,Telangana,591707,India,East,Khan,Rohan,Medium
+10818,32,80.05,4,2561.6,09/07/2022 00:00,Shipped,3,202209,2022,Planes,88.59,S03706,Aditya Singh,+91-8358630268,42 Market Road,,Chennai,Tamil Nadu,694057,India,West,Singh,Aditya,Medium
+10819,50,161.69,6,8084.5,01/11/2024 00:00,Shipped,1,202401,2024,Trains,212.1,S00428,Aanya Sharma,+91-9591002943,90 Market Road,,Kolkata,West Bengal,674469,India,South,Sharma,Aanya,Large
+10820,33,63.82,6,2106.06,03/04/2023 00:00,Shipped,1,202303,2023,Classic Cars,72.91,S03370,Aditya Khan,+91-8229730360,28 Market Road,,Nagpur,Maharashtra,519948,India,East,Khan,Aditya,Medium
+10821,10,138.43,4,1384.3,09/18/2025 00:00,Shipped,3,202509,2025,Trains,153.05,S02941,Vivaan Pawar,+91-7483157227,94 Market Road,,Hyderabad,Telangana,607113,India,South,Pawar,Vivaan,Medium
+10822,20,121.84,6,2436.8,06/21/2023 00:00,Shipped,2,202306,2023,Classic Cars,153.45,S01149,Aditya Patil,+91-9284087477,245 Market Road,,Hyderabad,Telangana,646362,India,North,Patil,Aditya,Medium
+10823,62,54.55,4,3382.1,07/31/2023 00:00,Resolved,3,202307,2023,Motorcycles,55.28,S01724,Priya Mehta,+91-8898629656,186 Market Road,,Jaipur,Rajasthan,407875,India,South,Mehta,Priya,Medium
+10824,32,141.26,1,4520.32,08/12/2023 00:00,Resolved,3,202308,2023,Motorcycles,168.39,S01200,Priya Kulkarni,+91-8561176921,243 Market Road,,Mumbai,Maharashtra,605517,India,West,Kulkarni,Priya,Medium
+10825,16,109.81,7,1756.96,08/09/2025 00:00,Shipped,3,202508,2025,Classic Cars,127.11,S03120,Rohan Khan,+91-9537080480,209 Market Road,,Pune,Maharashtra,675231,India,North,Khan,Rohan,Medium
+10826,66,46.8,6,3088.8,09/24/2025 00:00,Shipped,3,202509,2025,Classic Cars,57.04,S03184,Aditya Sharma,+91-8496367012,278 Market Road,,Bengaluru,Karnataka,436086,India,North,Sharma,Aditya,Medium
+10827,69,172.41,3,11896.29,09/22/2023 00:00,Shipped,3,202309,2023,Classic Cars,216.53,S02779,Aanya Joshi,+91-7314710717,33 Market Road,,Pune,Maharashtra,626178,India,West,Joshi,Aanya,Large
+10828,39,103.79,3,4047.81,12/25/2025 00:00,Shipped,4,202512,2025,Classic Cars,115.6,S00970,Aditya Deshmukh,+91-9078123652,48 Market Road,,Mumbai,Maharashtra,418115,India,West,Deshmukh,Aditya,Medium
+10829,47,141.76,7,6662.72,01/10/2025 00:00,Shipped,1,202501,2025,Planes,173.34,S01085,Vivaan Patil,+91-9114645182,124 Market Road,,Bengaluru,Karnataka,520590,India,West,Patil,Vivaan,Large
+10830,55,62.66,3,3446.3,05/21/2025 00:00,Shipped,2,202505,2025,Classic Cars,74.16,S04054,Aditya Mehta,+91-9437037162,157 Market Road,,Nashik,Maharashtra,645928,India,West,Mehta,Aditya,Medium
+10831,13,50.58,3,657.54,08/30/2025 00:00,Shipped,3,202508,2025,Trains,52.95,S02308,Vivaan Kulkarni,+91-9714755230,235 Market Road,,Nashik,Maharashtra,696346,India,West,Kulkarni,Vivaan,Small
+10832,27,141.2,6,3812.4,05/01/2023 00:00,Shipped,2,202305,2023,Trucks and Buses,184.77,S02178,Sara Pawar,+91-7947174974,37 Market Road,,Nagpur,Maharashtra,618405,India,West,Pawar,Sara,Medium
+10833,43,131.07,3,5636.01,03/15/2024 00:00,Shipped,1,202403,2024,Vintage Cars,165.69,S01541,Sara Patil,+91-8745231440,34 Market Road,,Hyderabad,Telangana,616576,India,West,Patil,Sara,Large
+10834,42,71.12,3,2987.04,02/21/2023 00:00,In Process,1,202302,2023,Classic Cars,94.06,S04650,Aarav Mehta,+91-8906192943,238 Market Road,,Nagpur,Maharashtra,477773,India,East,Mehta,Aarav,Medium
+10835,29,141.94,6,4116.26,03/29/2023 00:00,Shipped,1,202303,2023,Vintage Cars,177.73,S01199,Vivaan Khan,+91-9656710671,165 Market Road,,Chennai,Tamil Nadu,647715,India,South,Khan,Vivaan,Medium
+10836,10,105.75,2,1057.5,11/10/2023 00:00,Shipped,4,202311,2023,Trucks and Buses,114.81,S03844,Anaya Khan,+91-9313062763,124 Market Road,,Mumbai,Maharashtra,597734,India,South,Khan,Anaya,Medium
+10837,67,82.29,1,5513.43,03/16/2022 00:00,Shipped,1,202203,2022,Vintage Cars,94.69,S03848,Vivaan Deshmukh,+91-8439836263,67 Market Road,,Mumbai,Maharashtra,683044,India,South,Deshmukh,Vivaan,Large
+10838,46,148.03,3,6809.38,11/11/2022 00:00,Resolved,4,202211,2022,Classic Cars,168.07,S01217,Rohan Khan,+91-9377924921,209 Market Road,,Mumbai,Maharashtra,580921,India,East,Khan,Rohan,Large
+10839,55,122.52,2,6738.6,03/28/2025 00:00,Shipped,1,202503,2025,Trucks and Buses,124.06,S00060,Anaya Naik,+91-7665592243,240 Market Road,,Jaipur,Rajasthan,411878,India,East,Naik,Anaya,Large
+10840,36,106.09,3,3819.24,08/31/2022 00:00,Shipped,3,202208,2022,Motorcycles,121.33,S01250,Anaya Mehta,+91-8207160279,10 Market Road,,Nashik,Maharashtra,553338,India,North,Mehta,Anaya,Medium
+10841,40,145.97,1,5838.8,06/27/2024 00:00,Shipped,2,202406,2024,Vintage Cars,163.62,S01345,Aarav Joshi,+91-7382566053,17 Market Road,,Pune,Maharashtra,632403,India,North,Joshi,Aarav,Large
+10842,36,111.72,5,4021.92,01/23/2025 00:00,Shipped,1,202501,2025,Trucks and Buses,111.87,S03725,Aanya Joshi,+91-8297416031,233 Market Road,,Nagpur,Maharashtra,636460,India,East,Joshi,Aanya,Medium
+10843,35,170.78,4,5977.3,01/20/2023 00:00,In Process,1,202301,2023,Trucks and Buses,221.42,S02655,Aanya Kulkarni,+91-8516035457,265 Market Road,,Hyderabad,Telangana,515943,India,West,Kulkarni,Aanya,Large
+10844,50,152.71,2,7635.5,11/01/2023 00:00,Shipped,4,202311,2023,Motorcycles,160.4,S02152,Aanya Sharma,+91-8384682482,69 Market Road,,Nagpur,Maharashtra,451322,India,West,Sharma,Aanya,Large
+10845,69,83.73,5,5777.37,07/05/2025 00:00,Shipped,3,202507,2025,Vintage Cars,98.41,S02381,Diya Deshmukh,+91-7823504432,212 Market Road,,Nagpur,Maharashtra,660809,India,North,Deshmukh,Diya,Large
+10846,56,99.74,2,5585.44,05/05/2025 00:00,Shipped,2,202505,2025,Motorcycles,127.13,S04763,Aditya Naik,+91-9214656495,252 Market Road,,Pune,Maharashtra,647031,India,East,Naik,Aditya,Large
+10847,50,173.6,1,8680.0,09/06/2025 00:00,Shipped,3,202509,2025,Classic Cars,210.33,S04700,Aarav Singh,+91-7854432450,34 Market Road,,Hyderabad,Telangana,663756,India,East,Singh,Aarav,Large
+10848,10,164.28,4,1642.8,07/07/2024 00:00,Shipped,3,202407,2024,Motorcycles,174.02,S00128,Ishaan Joshi,+91-8969591559,56 Market Road,,Nashik,Maharashtra,601249,India,South,Joshi,Ishaan,Medium
+10849,40,58.68,2,2347.2,07/20/2025 00:00,Shipped,3,202507,2025,Classic Cars,71.38,S04218,Diya Sharma,+91-9887043871,39 Market Road,,Pune,Maharashtra,648668,India,East,Sharma,Diya,Medium
+10850,67,71.15,6,4767.05,08/06/2023 00:00,Shipped,3,202308,2023,Planes,90.02,S01806,Vivaan Sharma,+91-9549463053,237 Market Road,,Chennai,Tamil Nadu,520879,India,South,Sharma,Vivaan,Medium
+10851,33,84.66,3,2793.78,05/28/2024 00:00,On Hold,2,202405,2024,Ships,109.99,S03758,Aarav Singh,+91-7764247920,231 Market Road,,Jaipur,Rajasthan,633838,India,West,Singh,Aarav,Medium
+10852,42,161.98,4,6803.16,09/01/2024 00:00,Shipped,3,202409,2024,Trucks and Buses,180.05,S04924,Aditya Patil,+91-8222948961,41 Market Road,,Hyderabad,Telangana,546528,India,West,Patil,Aditya,Large
+10853,29,169.11,3,4904.19,11/27/2025 00:00,Shipped,4,202511,2025,Trains,171.12,S02570,Aarav Sharma,+91-8631264054,53 Market Road,,Jaipur,Rajasthan,638364,India,East,Sharma,Aarav,Medium
+10854,21,150.35,4,3157.35,06/22/2023 00:00,Resolved,2,202306,2023,Classic Cars,182.34,S03120,Aarav Naik,+91-7242272882,199 Market Road,,Delhi,Delhi,443911,India,South,Naik,Aarav,Medium
+10855,52,71.36,1,3710.72,07/02/2025 00:00,Shipped,3,202507,2025,Classic Cars,77.0,S02145,Anaya Naik,+91-9496004712,269 Market Road,,Bengaluru,Karnataka,488996,India,East,Naik,Anaya,Medium
+10856,28,163.06,7,4565.68,01/15/2024 00:00,Shipped,1,202401,2024,Motorcycles,207.63,S00374,Aanya Sharma,+91-9851429141,233 Market Road,,Nagpur,Maharashtra,464340,India,West,Sharma,Aanya,Medium
+10857,45,34.93,2,1571.85,06/02/2022 00:00,Shipped,2,202206,2022,Vintage Cars,43.24,S00183,Anaya Singh,+91-7307577659,51 Market Road,,Bengaluru,Karnataka,521999,India,South,Singh,Anaya,Medium
+10858,45,93.42,3,4203.9,08/15/2024 00:00,Shipped,3,202408,2024,Classic Cars,118.7,S01802,Aarav Sharma,+91-8756414654,116 Market Road,,Kolkata,West Bengal,644432,India,West,Sharma,Aarav,Medium
+10859,60,86.64,6,5198.4,12/04/2025 00:00,In Process,4,202512,2025,Ships,115.98,S04108,Ishaan Mehta,+91-9603990150,20 Market Road,,Hyderabad,Telangana,434528,India,East,Mehta,Ishaan,Large
+10860,66,110.29,3,7279.14,10/25/2023 00:00,Shipped,4,202310,2023,Vintage Cars,132.85,S01707,Aarav Pawar,+91-9522070091,74 Market Road,,Pune,Maharashtra,619223,India,North,Pawar,Aarav,Large
+10861,43,114.1,5,4906.3,03/12/2024 00:00,On Hold,1,202403,2024,Classic Cars,150.21,S02154,Sara Khan,+91-8852049447,169 Market Road,,Bengaluru,Karnataka,649260,India,East,Khan,Sara,Medium
+10862,13,63.81,1,829.53,09/16/2025 00:00,Shipped,3,202509,2025,Motorcycles,78.15,S02656,Aditya Patil,+91-9359011438,104 Market Road,,Nagpur,Maharashtra,601404,India,North,Patil,Aditya,Small
+10863,44,60.68,3,2669.92,09/06/2025 00:00,Shipped,3,202509,2025,Trucks and Buses,64.54,S01605,Ishaan Mehta,+91-7096835655,182 Market Road,,Bengaluru,Karnataka,593866,India,East,Mehta,Ishaan,Medium
+10864,63,150.53,6,9483.39,08/08/2023 00:00,Shipped,3,202308,2023,Planes,192.64,S02450,Priya Deshmukh,+91-8870314498,89 Market Road,,Bengaluru,Karnataka,441542,India,West,Deshmukh,Priya,Large
+10865,38,41.43,2,1574.34,01/15/2025 00:00,Shipped,1,202501,2025,Classic Cars,51.49,S03033,Diya Joshi,+91-7136602640,169 Market Road,,Bengaluru,Karnataka,583876,India,West,Joshi,Diya,Medium
+10866,43,103.99,3,4471.57,07/10/2024 00:00,Shipped,3,202407,2024,Motorcycles,139.58,S04255,Aanya Naik,+91-8784746369,190 Market Road,,Kolkata,West Bengal,467953,India,East,Naik,Aanya,Medium
+10867,55,58.75,1,3231.25,08/04/2024 00:00,In Process,3,202408,2024,Trucks and Buses,63.76,S03770,Ishaan Mehta,+91-9845675716,59 Market Road,,Kolkata,West Bengal,473848,India,North,Mehta,Ishaan,Medium
+10868,36,77.94,4,2805.84,11/18/2024 00:00,Shipped,4,202411,2024,Classic Cars,87.03,S04088,Priya Kulkarni,+91-7335764567,14 Market Road,,Jaipur,Rajasthan,658532,India,West,Kulkarni,Priya,Medium
+10869,34,71.59,3,2434.06,04/23/2023 00:00,On Hold,2,202304,2023,Planes,92.17,S02615,Aanya Patil,+91-8279553707,102 Market Road,,Hyderabad,Telangana,584572,India,South,Patil,Aanya,Medium
+10870,38,136.28,7,5178.64,03/22/2023 00:00,Shipped,1,202303,2023,Ships,139.28,S03493,Diya Joshi,+91-9146846891,13 Market Road,,Nashik,Maharashtra,698130,India,North,Joshi,Diya,Large
+10871,61,98.4,3,6002.4,02/09/2022 00:00,Shipped,1,202202,2022,Ships,120.21,S00748,Diya Mehta,+91-9776040736,48 Market Road,,Mumbai,Maharashtra,536411,India,West,Mehta,Diya,Large
+10872,39,74.92,6,2921.88,06/05/2025 00:00,Shipped,2,202506,2025,Classic Cars,88.96,S00739,Sara Singh,+91-7005152023,87 Market Road,,Kolkata,West Bengal,507367,India,North,Singh,Sara,Medium
+10873,29,154.7,7,4486.3,02/09/2023 00:00,Shipped,1,202302,2023,Trucks and Buses,163.84,S04608,Vivaan Singh,+91-8637855240,102 Market Road,,Jaipur,Rajasthan,698680,India,South,Singh,Vivaan,Medium
+10874,45,42.87,6,1929.15,09/12/2024 00:00,Shipped,3,202409,2024,Vintage Cars,45.35,S03020,Aditya Patil,+91-9379515898,83 Market Road,,Pune,Maharashtra,586813,India,North,Patil,Aditya,Medium
+10875,51,144.95,6,7392.45,09/28/2024 00:00,Shipped,3,202409,2024,Classic Cars,186.05,S00565,Sara Pawar,+91-7076162856,16 Market Road,,Nashik,Maharashtra,659006,India,East,Pawar,Sara,Large
+10876,64,67.25,5,4304.0,10/24/2024 00:00,Shipped,4,202410,2024,Classic Cars,67.61,S02039,Anaya Kulkarni,+91-8446106161,53 Market Road,,Hyderabad,Telangana,413353,India,West,Kulkarni,Anaya,Medium
+10877,63,167.7,4,10565.1,06/15/2025 00:00,Shipped,2,202506,2025,Motorcycles,211.54,S04847,Aanya Mehta,+91-8562692472,264 Market Road,,Mumbai,Maharashtra,557847,India,East,Mehta,Aanya,Large
+10878,56,30.83,1,1726.48,06/21/2025 00:00,Shipped,2,202506,2025,Classic Cars,38.74,S00106,Diya Deshmukh,+91-7890849316,215 Market Road,,Pune,Maharashtra,645163,India,West,Deshmukh,Diya,Medium
+10879,56,113.5,1,6356.0,01/04/2022 00:00,Shipped,1,202201,2022,Ships,139.31,S02212,Aarav Khan,+91-9436785777,133 Market Road,,Jaipur,Rajasthan,642617,India,West,Khan,Aarav,Large
+10880,36,123.34,3,4440.24,05/12/2025 00:00,Shipped,2,202505,2025,Trucks and Buses,141.02,S04184,Sara Naik,+91-9854572624,8 Market Road,,Pune,Maharashtra,614576,India,West,Naik,Sara,Medium
+10881,30,116.6,5,3498.0,10/31/2022 00:00,Shipped,4,202210,2022,Classic Cars,117.76,S04733,Sara Kulkarni,+91-9685004416,108 Market Road,,Nashik,Maharashtra,449368,India,North,Kulkarni,Sara,Medium
+10882,43,152.25,1,6546.75,07/31/2024 00:00,Shipped,3,202407,2024,Trains,194.97,S01843,Ishaan Naik,+91-9677165093,277 Market Road,,Jaipur,Rajasthan,564104,India,North,Naik,Ishaan,Large
+10883,52,46.82,7,2434.64,09/10/2024 00:00,Resolved,3,202409,2024,Trucks and Buses,48.88,S04573,Aanya Deshmukh,+91-7108232889,243 Market Road,,Mumbai,Maharashtra,430431,India,South,Deshmukh,Aanya,Medium
+10884,41,92.33,7,3785.53,03/20/2022 00:00,Shipped,1,202203,2022,Classic Cars,101.4,S03580,Ishaan Joshi,+91-7357142952,227 Market Road,,Chennai,Tamil Nadu,640661,India,East,Joshi,Ishaan,Medium
+10885,22,159.56,1,3510.32,02/19/2023 00:00,Shipped,1,202302,2023,Ships,212.43,S02031,Vivaan Pawar,+91-9491101614,75 Market Road,,Bengaluru,Karnataka,589258,India,West,Pawar,Vivaan,Medium
+10886,10,163.31,1,1633.1,08/22/2025 00:00,Shipped,3,202508,2025,Trucks and Buses,180.56,S03897,Vivaan Khan,+91-7729513522,121 Market Road,,Bengaluru,Karnataka,458168,India,South,Khan,Vivaan,Medium
+10887,13,104.75,6,1361.75,07/27/2022 00:00,Shipped,3,202207,2022,Trains,114.1,S04000,Priya Khan,+91-9697825987,9 Market Road,,Kolkata,West Bengal,618108,India,East,Khan,Priya,Medium
+10888,35,113.7,2,3979.5,12/05/2022 00:00,Shipped,4,202212,2022,Motorcycles,152.44,S01376,Ishaan Naik,+91-9479644762,257 Market Road,,Pune,Maharashtra,615869,India,North,Naik,Ishaan,Medium
+10889,57,144.59,2,8241.63,04/30/2022 00:00,Shipped,2,202204,2022,Trucks and Buses,148.94,S00449,Anaya Joshi,+91-8455160890,34 Market Road,,Pune,Maharashtra,415923,India,East,Joshi,Anaya,Large
+10890,57,146.94,2,8375.58,09/01/2022 00:00,Shipped,3,202209,2022,Ships,155.2,S03904,Ishaan Joshi,+91-8122184767,185 Market Road,,Mumbai,Maharashtra,426770,India,West,Joshi,Ishaan,Large
+10891,58,163.21,5,9466.18,07/20/2024 00:00,Shipped,3,202407,2024,Vintage Cars,188.25,S00414,Aanya Mehta,+91-9026344360,85 Market Road,,Delhi,Delhi,460309,India,South,Mehta,Aanya,Large
+10892,52,156.58,1,8142.16,05/14/2025 00:00,Shipped,2,202505,2025,Classic Cars,199.75,S03892,Sara Patil,+91-9431540302,171 Market Road,,Jaipur,Rajasthan,421040,India,North,Patil,Sara,Large
+10893,11,92.16,2,1013.76,05/19/2024 00:00,Shipped,2,202405,2024,Motorcycles,120.69,S01780,Rohan Sharma,+91-7514917519,248 Market Road,,Pune,Maharashtra,561234,India,South,Sharma,Rohan,Medium
+10894,63,127.46,3,8029.98,02/20/2023 00:00,Shipped,1,202302,2023,Vintage Cars,161.17,S03515,Rohan Kulkarni,+91-8005047654,94 Market Road,,Delhi,Delhi,664066,India,West,Kulkarni,Rohan,Large
+10895,66,102.49,5,6764.34,06/08/2025 00:00,Resolved,2,202506,2025,Vintage Cars,137.51,S03049,Priya Pawar,+91-9811484274,6 Market Road,,Delhi,Delhi,418852,India,West,Pawar,Priya,Large
+10896,60,47.69,7,2861.4,06/21/2023 00:00,In Process,2,202306,2023,Classic Cars,47.97,S00193,Ishaan Mehta,+91-8221196229,199 Market Road,,Mumbai,Maharashtra,584421,India,East,Mehta,Ishaan,Medium
+10897,36,153.25,2,5517.0,04/05/2023 00:00,Shipped,2,202304,2023,Trains,186.48,S00047,Diya Pawar,+91-7609915022,160 Market Road,,Nagpur,Maharashtra,527258,India,East,Pawar,Diya,Large
+10898,22,120.26,2,2645.72,01/09/2024 00:00,Shipped,1,202401,2024,Ships,125.16,S03148,Ishaan Deshmukh,+91-7223193481,42 Market Road,,Nashik,Maharashtra,650972,India,South,Deshmukh,Ishaan,Medium
+10899,64,38.7,4,2476.8,07/19/2022 00:00,Shipped,3,202207,2022,Vintage Cars,51.03,S02576,Aanya Naik,+91-9315771856,15 Market Road,,Mumbai,Maharashtra,544672,India,West,Naik,Aanya,Medium
+10900,21,131.53,3,2762.13,06/05/2023 00:00,On Hold,2,202306,2023,Classic Cars,174.59,S00219,Aanya Khan,+91-7969178775,157 Market Road,,Bengaluru,Karnataka,600677,India,West,Khan,Aanya,Medium
+10901,57,72.47,5,4130.79,03/13/2025 00:00,Shipped,1,202503,2025,Classic Cars,80.16,S04878,Aditya Sharma,+91-8214172765,184 Market Road,,Jaipur,Rajasthan,676635,India,West,Sharma,Aditya,Medium
+10902,67,40.39,2,2706.13,06/07/2024 00:00,Shipped,2,202406,2024,Classic Cars,52.09,S01193,Rohan Pawar,+91-8909452620,35 Market Road,,Delhi,Delhi,440865,India,West,Pawar,Rohan,Medium
+10903,64,120.99,5,7743.36,12/14/2025 00:00,Shipped,4,202512,2025,Planes,147.68,S04292,Aditya Mehta,+91-8067332104,180 Market Road,,Hyderabad,Telangana,494735,India,East,Mehta,Aditya,Large
+10904,41,139.83,7,5733.03,02/07/2025 00:00,Shipped,1,202502,2025,Classic Cars,144.75,S00584,Priya Kulkarni,+91-9217482176,134 Market Road,,Hyderabad,Telangana,480943,India,West,Kulkarni,Priya,Large
+10905,60,107.59,5,6455.4,06/11/2023 00:00,Shipped,2,202306,2023,Trucks and Buses,130.29,S01163,Rohan Patil,+91-7962729863,42 Market Road,,Kolkata,West Bengal,450618,India,East,Patil,Rohan,Large
+10906,59,30.85,6,1820.15,01/25/2025 00:00,Shipped,1,202501,2025,Vintage Cars,41.39,S02644,Aarav Naik,+91-9508599492,185 Market Road,,Kolkata,West Bengal,594435,India,East,Naik,Aarav,Medium
+10907,68,116.53,1,7924.04,06/18/2025 00:00,In Process,2,202506,2025,Classic Cars,129.1,S02640,Ishaan Singh,+91-8175629271,194 Market Road,,Jaipur,Rajasthan,402254,India,East,Singh,Ishaan,Large
+10908,31,30.99,7,960.69,07/10/2024 00:00,Shipped,3,202407,2024,Trains,31.0,S03019,Ishaan Sharma,+91-9975743326,47 Market Road,,Kolkata,West Bengal,515830,India,North,Sharma,Ishaan,Small
+10909,47,168.96,5,7941.12,01/19/2025 00:00,In Process,1,202501,2025,Vintage Cars,226.72,S00857,Rohan Sharma,+91-8387677277,202 Market Road,,Jaipur,Rajasthan,436495,India,West,Sharma,Rohan,Large
+10910,59,70.1,5,4135.9,01/06/2024 00:00,Shipped,1,202401,2024,Vintage Cars,80.26,S01321,Aanya Deshmukh,+91-8030742964,67 Market Road,,Jaipur,Rajasthan,584636,India,South,Deshmukh,Aanya,Medium
+10911,23,160.65,2,3694.95,08/24/2025 00:00,Shipped,3,202508,2025,Classic Cars,184.88,S01317,Aarav Naik,+91-8788161742,179 Market Road,,Chennai,Tamil Nadu,625335,India,East,Naik,Aarav,Medium
+10912,23,31.82,4,731.86,12/14/2022 00:00,Shipped,4,202212,2022,Planes,39.76,S02202,Rohan Khan,+91-9668349216,244 Market Road,,Delhi,Delhi,540103,India,West,Khan,Rohan,Small
+10913,33,44.58,5,1471.14,09/13/2023 00:00,Shipped,3,202309,2023,Vintage Cars,54.01,S04615,Aditya Sharma,+91-7635288093,281 Market Road,,Nagpur,Maharashtra,533521,India,North,Sharma,Aditya,Medium
+10914,31,97.71,5,3029.01,01/06/2023 00:00,Shipped,1,202301,2023,Trains,108.04,S02312,Ishaan Mehta,+91-7150322323,77 Market Road,,Bengaluru,Karnataka,534970,India,South,Mehta,Ishaan,Medium
+10915,55,143.79,1,7908.45,05/29/2022 00:00,Shipped,2,202205,2022,Planes,148.82,S04988,Vivaan Mehta,+91-8291092348,102 Market Road,,Kolkata,West Bengal,459638,India,West,Mehta,Vivaan,Large
+10916,66,171.38,1,11311.08,06/18/2024 00:00,Shipped,2,202406,2024,Trucks and Buses,221.01,S01258,Vivaan Naik,+91-9844883375,29 Market Road,,Chennai,Tamil Nadu,512707,India,South,Naik,Vivaan,Large
+10917,19,108.16,4,2055.04,06/22/2022 00:00,Shipped,2,202206,2022,Planes,126.46,S01213,Diya Kulkarni,+91-7186016027,290 Market Road,,Bengaluru,Karnataka,680001,India,East,Kulkarni,Diya,Medium
+10918,29,83.32,6,2416.28,11/27/2022 00:00,In Process,4,202211,2022,Ships,102.93,S00506,Aarav Khan,+91-9424570241,99 Market Road,,Pune,Maharashtra,412351,India,East,Khan,Aarav,Medium
+10919,65,36.68,3,2384.2,01/20/2025 00:00,Shipped,1,202501,2025,Ships,47.73,S01061,Aarav Pawar,+91-8359220427,240 Market Road,,Nashik,Maharashtra,636340,India,West,Pawar,Aarav,Medium
+10920,45,117.56,5,5290.2,12/19/2022 00:00,Shipped,4,202212,2022,Motorcycles,118.29,S01559,Aanya Mehta,+91-7479245860,280 Market Road,,Bengaluru,Karnataka,449436,India,East,Mehta,Aanya,Large
+10921,22,87.01,7,1914.22,06/15/2025 00:00,Shipped,2,202506,2025,Ships,113.18,S01919,Ishaan Singh,+91-9238071772,143 Market Road,,Nagpur,Maharashtra,434321,India,South,Singh,Ishaan,Medium
+10922,46,166.37,7,7653.02,03/13/2022 00:00,Shipped,1,202203,2022,Planes,210.15,S03568,Sara Patil,+91-7525955702,208 Market Road,,Delhi,Delhi,485709,India,North,Patil,Sara,Large
+10923,62,102.01,5,6324.62,10/30/2023 00:00,In Process,4,202310,2023,Classic Cars,135.81,S02229,Priya Khan,+91-8311195498,142 Market Road,,Nagpur,Maharashtra,480714,India,South,Khan,Priya,Large
+10924,32,144.82,6,4634.24,04/09/2022 00:00,Shipped,2,202204,2022,Ships,156.66,S03431,Aarav Mehta,+91-8674944411,173 Market Road,,Pune,Maharashtra,494891,India,East,Mehta,Aarav,Medium
+10925,39,157.23,1,6131.97,03/29/2022 00:00,On Hold,1,202203,2022,Vintage Cars,174.97,S00447,Aanya Naik,+91-8554016196,75 Market Road,,Delhi,Delhi,654917,India,East,Naik,Aanya,Large
+10926,46,44.74,1,2058.04,03/01/2025 00:00,Resolved,1,202503,2025,Motorcycles,55.1,S04734,Vivaan Naik,+91-7095001721,252 Market Road,,Delhi,Delhi,671487,India,West,Naik,Vivaan,Medium
+10927,60,96.13,5,5767.8,04/08/2022 00:00,Shipped,2,202204,2022,Classic Cars,127.28,S00739,Aanya Sharma,+91-8580412838,37 Market Road,,Chennai,Tamil Nadu,607799,India,West,Sharma,Aanya,Large
+10928,43,164.06,6,7054.58,07/27/2025 00:00,Shipped,3,202507,2025,Classic Cars,221.06,S00168,Ishaan Singh,+91-9190257626,198 Market Road,,Mumbai,Maharashtra,443874,India,South,Singh,Ishaan,Large
+10929,67,93.67,2,6275.89,05/24/2024 00:00,Shipped,2,202405,2024,Classic Cars,107.33,S02124,Vivaan Pawar,+91-9326812141,276 Market Road,,Delhi,Delhi,683758,India,North,Pawar,Vivaan,Large
+10930,55,114.77,5,6312.35,12/07/2023 00:00,Shipped,4,202312,2023,Classic Cars,136.43,S03256,Aditya Patil,+91-7538123798,243 Market Road,,Kolkata,West Bengal,654329,India,South,Patil,Aditya,Large
+10931,35,160.97,3,5633.95,09/04/2025 00:00,Shipped,3,202509,2025,Classic Cars,170.58,S01177,Ishaan Naik,+91-9411358870,227 Market Road,,Nashik,Maharashtra,422883,India,South,Naik,Ishaan,Large
+10932,39,64.89,1,2530.71,07/21/2023 00:00,Shipped,3,202307,2023,Classic Cars,80.65,S00815,Aanya Joshi,+91-9514174129,197 Market Road,,Nagpur,Maharashtra,516232,India,West,Joshi,Aanya,Medium
+10933,51,164.19,3,8373.69,08/07/2023 00:00,Shipped,3,202308,2023,Motorcycles,212.31,S04224,Sara Pawar,+91-9553866569,283 Market Road,,Pune,Maharashtra,632701,India,West,Pawar,Sara,Large
+10934,14,89.55,4,1253.7,08/22/2023 00:00,Shipped,3,202308,2023,Vintage Cars,114.58,S04123,Aanya Pawar,+91-7637289723,259 Market Road,,Bengaluru,Karnataka,426759,India,West,Pawar,Aanya,Medium
+10935,23,118.95,6,2735.85,08/08/2024 00:00,Shipped,3,202408,2024,Trucks and Buses,133.35,S03757,Aarav Pawar,+91-8956069428,83 Market Road,,Kolkata,West Bengal,422931,India,West,Pawar,Aarav,Medium
+10936,24,79.21,7,1901.04,05/22/2025 00:00,Shipped,2,202505,2025,Trains,105.92,S01104,Priya Pawar,+91-9952151015,187 Market Road,,Delhi,Delhi,581854,India,North,Pawar,Priya,Medium
+10937,58,109.07,7,6326.06,03/02/2024 00:00,Shipped,1,202403,2024,Classic Cars,113.66,S02682,Anaya Khan,+91-9825637058,129 Market Road,,Delhi,Delhi,501032,India,North,Khan,Anaya,Large
+10938,59,37.39,1,2206.01,02/15/2023 00:00,Shipped,1,202302,2023,Motorcycles,43.85,S03447,Vivaan Naik,+91-9091396592,80 Market Road,,Chennai,Tamil Nadu,532534,India,East,Naik,Vivaan,Medium
+10939,59,39.79,7,2347.61,07/23/2025 00:00,On Hold,3,202507,2025,Motorcycles,47.51,S02163,Priya Khan,+91-8338170847,245 Market Road,,Delhi,Delhi,625275,India,South,Khan,Priya,Medium
+10940,16,92.21,4,1475.36,05/25/2024 00:00,Shipped,2,202405,2024,Vintage Cars,109.53,S00895,Aanya Joshi,+91-9312835528,13 Market Road,,Nagpur,Maharashtra,563508,India,West,Joshi,Aanya,Medium
+10941,27,80.24,2,2166.48,05/01/2025 00:00,Shipped,2,202505,2025,Motorcycles,101.52,S04155,Aarav Singh,+91-8656242120,39 Market Road,,Chennai,Tamil Nadu,613374,India,South,Singh,Aarav,Medium
+10942,28,122.37,5,3426.36,09/24/2023 00:00,Shipped,3,202309,2023,Planes,148.48,S04692,Anaya Joshi,+91-9975082939,32 Market Road,,Nashik,Maharashtra,437830,India,North,Joshi,Anaya,Medium
+10943,11,35.69,1,392.59,10/19/2022 00:00,Shipped,4,202210,2022,Planes,36.65,S00830,Priya Mehta,+91-7696973141,61 Market Road,,Kolkata,West Bengal,400636,India,North,Mehta,Priya,Small
+10944,25,55.15,4,1378.75,10/11/2025 00:00,Shipped,4,202510,2025,Vintage Cars,58.62,S03515,Sara Patil,+91-8277796594,154 Market Road,,Nashik,Maharashtra,475527,India,South,Patil,Sara,Medium
+10945,35,61.44,6,2150.4,09/16/2024 00:00,Shipped,3,202409,2024,Ships,72.89,S04437,Vivaan Khan,+91-8796199005,282 Market Road,,Bengaluru,Karnataka,460603,India,North,Khan,Vivaan,Medium
+10946,63,96.07,7,6052.41,03/26/2023 00:00,In Process,1,202303,2023,Vintage Cars,119.42,S02706,Aanya Joshi,+91-7485056903,291 Market Road,,Nashik,Maharashtra,497241,India,South,Joshi,Aanya,Large
+10947,20,67.03,3,1340.6,05/23/2025 00:00,Shipped,2,202505,2025,Trains,79.09,S00246,Vivaan Joshi,+91-7435227315,270 Market Road,,Hyderabad,Telangana,633650,India,East,Joshi,Vivaan,Medium
+10948,61,50.65,2,3089.65,01/14/2022 00:00,Shipped,1,202201,2022,Trucks and Buses,56.95,S03453,Ishaan Mehta,+91-8325674987,228 Market Road,,Delhi,Delhi,445609,India,West,Mehta,Ishaan,Medium
+10949,59,119.64,5,7058.76,09/21/2025 00:00,Shipped,3,202509,2025,Vintage Cars,121.78,S04617,Vivaan Joshi,+91-7970527889,138 Market Road,,Nashik,Maharashtra,437857,India,East,Joshi,Vivaan,Large
+10950,19,141.58,2,2690.02,04/25/2024 00:00,Shipped,2,202404,2024,Trains,180.52,S01308,Sara Sharma,+91-7030266880,232 Market Road,,Chennai,Tamil Nadu,460243,India,North,Sharma,Sara,Medium
+10951,25,132.79,7,3319.75,05/11/2024 00:00,Shipped,2,202405,2024,Trains,155.9,S00694,Priya Deshmukh,+91-9262746987,81 Market Road,,Jaipur,Rajasthan,497946,India,South,Deshmukh,Priya,Medium
+10952,37,71.43,3,2642.91,01/20/2022 00:00,Shipped,1,202201,2022,Motorcycles,84.9,S01263,Aarav Singh,+91-9194396679,199 Market Road,,Pune,Maharashtra,459202,India,West,Singh,Aarav,Medium
+10953,66,158.17,2,10439.22,09/15/2022 00:00,Shipped,3,202209,2022,Classic Cars,184.13,S04060,Sara Singh,+91-9341939749,3 Market Road,,Bengaluru,Karnataka,455186,India,South,Singh,Sara,Large
+10954,57,121.77,2,6940.89,11/18/2024 00:00,Shipped,4,202411,2024,Trains,133.08,S02786,Aditya Khan,+91-8142286296,271 Market Road,,Chennai,Tamil Nadu,573938,India,East,Khan,Aditya,Large
+10955,68,122.2,3,8309.6,03/26/2024 00:00,Resolved,1,202403,2024,Vintage Cars,134.02,S00091,Aanya Khan,+91-8415888782,291 Market Road,,Chennai,Tamil Nadu,433448,India,West,Khan,Aanya,Large
+10956,28,61.93,6,1734.04,07/06/2022 00:00,Resolved,3,202207,2022,Classic Cars,63.31,S02938,Vivaan Naik,+91-9018576168,220 Market Road,,Nashik,Maharashtra,446204,India,North,Naik,Vivaan,Medium
+10957,64,66.33,7,4245.12,08/30/2024 00:00,Shipped,3,202408,2024,Planes,82.76,S04075,Ishaan Mehta,+91-7348337117,53 Market Road,,Mumbai,Maharashtra,651071,India,South,Mehta,Ishaan,Medium
+10958,67,101.21,6,6781.07,12/26/2024 00:00,Shipped,4,202412,2024,Motorcycles,110.84,S00927,Aditya Kulkarni,+91-8045619604,78 Market Road,,Bengaluru,Karnataka,405465,India,East,Kulkarni,Aditya,Large
+10959,45,65.67,5,2955.15,02/03/2023 00:00,Shipped,1,202302,2023,Classic Cars,72.53,S02920,Rohan Sharma,+91-9954417651,222 Market Road,,Hyderabad,Telangana,418409,India,West,Sharma,Rohan,Medium
+10960,19,133.21,2,2530.99,10/04/2024 00:00,In Process,4,202410,2024,Trucks and Buses,179.53,S01145,Aarav Singh,+91-8637976461,150 Market Road,,Nashik,Maharashtra,420842,India,West,Singh,Aarav,Medium
+10961,26,76.28,7,1983.28,11/22/2025 00:00,Resolved,4,202511,2025,Vintage Cars,86.58,S00096,Diya Pawar,+91-8018063640,164 Market Road,,Nagpur,Maharashtra,560869,India,South,Pawar,Diya,Medium
+10962,17,52.79,7,897.43,12/06/2023 00:00,Shipped,4,202312,2023,Motorcycles,62.23,S02003,Vivaan Sharma,+91-7886224895,121 Market Road,,Bengaluru,Karnataka,608502,India,South,Sharma,Vivaan,Small
+10963,58,52.74,5,3058.92,12/02/2022 00:00,Shipped,4,202212,2022,Planes,59.87,S03871,Diya Joshi,+91-9389008641,250 Market Road,,Delhi,Delhi,607870,India,West,Joshi,Diya,Medium
+10964,28,49.08,6,1374.24,11/06/2025 00:00,Shipped,4,202511,2025,Classic Cars,54.06,S03345,Aanya Mehta,+91-9503486097,50 Market Road,,Delhi,Delhi,607095,India,West,Mehta,Aanya,Medium
+10965,52,95.96,3,4989.92,08/24/2025 00:00,Shipped,3,202508,2025,Ships,96.16,S00508,Aanya Mehta,+91-7166247431,133 Market Road,,Hyderabad,Telangana,417283,India,West,Mehta,Aanya,Medium
+10966,26,30.46,4,791.96,10/30/2023 00:00,Shipped,4,202310,2023,Planes,39.57,S00930,Aarav Patil,+91-8616293216,67 Market Road,,Jaipur,Rajasthan,503398,India,East,Patil,Aarav,Small
+10967,68,111.36,6,7572.48,09/14/2023 00:00,Shipped,3,202309,2023,Motorcycles,129.8,S02699,Aanya Sharma,+91-7260574925,207 Market Road,,Chennai,Tamil Nadu,590091,India,South,Sharma,Aanya,Large
+10968,56,74.75,3,4186.0,05/03/2025 00:00,Shipped,2,202505,2025,Motorcycles,93.58,S01604,Aditya Singh,+91-7606739313,86 Market Road,,Pune,Maharashtra,604685,India,South,Singh,Aditya,Medium
+10969,32,112.87,6,3611.84,01/01/2022 00:00,Shipped,1,202201,2022,Trucks and Buses,150.74,S01660,Sara Pawar,+91-9402322104,90 Market Road,,Nagpur,Maharashtra,500253,India,East,Pawar,Sara,Medium
+10970,38,170.31,7,6471.78,04/02/2023 00:00,Shipped,2,202304,2023,Trucks and Buses,170.48,S02180,Priya Mehta,+91-7563323621,52 Market Road,,Pune,Maharashtra,654106,India,South,Mehta,Priya,Large
+10971,13,160.36,7,2084.68,03/04/2024 00:00,Shipped,1,202403,2024,Classic Cars,198.25,S03796,Vivaan Khan,+91-7070877540,259 Market Road,,Kolkata,West Bengal,650147,India,East,Khan,Vivaan,Medium
+10972,18,116.46,3,2096.28,08/13/2024 00:00,In Process,3,202408,2024,Vintage Cars,121.3,S02879,Ishaan Khan,+91-9971338290,65 Market Road,,Hyderabad,Telangana,629762,India,East,Khan,Ishaan,Medium
+10973,69,92.71,4,6396.99,07/06/2024 00:00,Shipped,3,202407,2024,Motorcycles,107.57,S04266,Rohan Joshi,+91-7098294309,260 Market Road,,Nashik,Maharashtra,639377,India,South,Joshi,Rohan,Large
+10974,58,134.75,3,7815.5,06/26/2023 00:00,Shipped,2,202306,2023,Trucks and Buses,174.69,S00511,Vivaan Khan,+91-8219690545,275 Market Road,,Kolkata,West Bengal,692645,India,South,Khan,Vivaan,Large
+10975,60,168.47,4,10108.2,06/24/2025 00:00,In Process,2,202506,2025,Trains,172.69,S02321,Aditya Deshmukh,+91-8659591776,289 Market Road,,Bengaluru,Karnataka,638251,India,West,Deshmukh,Aditya,Large
+10976,48,103.43,6,4964.64,08/07/2024 00:00,Shipped,3,202408,2024,Vintage Cars,139.25,S02752,Diya Sharma,+91-7504050442,103 Market Road,,Pune,Maharashtra,575695,India,South,Sharma,Diya,Medium
+10977,23,44.9,3,1032.7,02/29/2024 00:00,Shipped,1,202402,2024,Trucks and Buses,54.03,S03789,Priya Deshmukh,+91-7259673478,196 Market Road,,Mumbai,Maharashtra,519639,India,South,Deshmukh,Priya,Medium
+10978,16,144.91,2,2318.56,10/03/2025 00:00,Shipped,4,202510,2025,Vintage Cars,164.94,S02577,Aditya Naik,+91-8223925198,248 Market Road,,Kolkata,West Bengal,508643,India,South,Naik,Aditya,Medium
+10979,53,31.57,2,1673.21,05/18/2022 00:00,Shipped,2,202205,2022,Vintage Cars,31.79,S04583,Ishaan Deshmukh,+91-9855519650,24 Market Road,,Nashik,Maharashtra,646846,India,South,Deshmukh,Ishaan,Medium
+10980,29,144.7,6,4196.3,11/03/2024 00:00,Cancelled,4,202411,2024,Planes,174.42,S04189,Aanya Joshi,+91-7443840009,20 Market Road,,Bengaluru,Karnataka,488799,India,East,Joshi,Aanya,Medium
+10981,10,42.74,7,427.4,09/16/2025 00:00,Shipped,3,202509,2025,Vintage Cars,50.14,S03446,Vivaan Patil,+91-8718384467,62 Market Road,,Kolkata,West Bengal,589057,India,West,Patil,Vivaan,Small
+10982,11,45.99,1,505.89,08/24/2024 00:00,Shipped,3,202408,2024,Planes,49.46,S01988,Ishaan Joshi,+91-7581476354,294 Market Road,,Nashik,Maharashtra,550868,India,South,Joshi,Ishaan,Small
+10983,43,147.26,7,6332.18,04/05/2024 00:00,Shipped,2,202404,2024,Vintage Cars,172.54,S01610,Ishaan Joshi,+91-9021129271,27 Market Road,,Pune,Maharashtra,513643,India,North,Joshi,Ishaan,Large
+10984,60,133.43,1,8005.8,06/17/2023 00:00,Cancelled,2,202306,2023,Trains,134.03,S02667,Anaya Patil,+91-7182941525,229 Market Road,,Pune,Maharashtra,535285,India,West,Patil,Anaya,Large
+10985,31,114.29,4,3542.99,02/01/2023 00:00,In Process,1,202302,2023,Trucks and Buses,154.27,S02317,Diya Joshi,+91-7609736142,251 Market Road,,Jaipur,Rajasthan,424209,India,North,Joshi,Diya,Medium
+10986,69,153.09,1,10563.21,03/08/2024 00:00,Shipped,1,202403,2024,Vintage Cars,170.89,S00147,Aditya Khan,+91-7024010635,272 Market Road,,Bengaluru,Karnataka,612908,India,West,Khan,Aditya,Large
+10987,32,157.71,7,5046.72,08/06/2025 00:00,Shipped,3,202508,2025,Motorcycles,184.22,S01150,Ishaan Joshi,+91-8945295123,159 Market Road,,Nagpur,Maharashtra,420053,India,North,Joshi,Ishaan,Large
+10988,53,98.63,6,5227.39,11/07/2023 00:00,Shipped,4,202311,2023,Ships,125.72,S04176,Priya Sharma,+91-7514619402,158 Market Road,,Pune,Maharashtra,422148,India,South,Sharma,Priya,Large
+10989,24,179.44,3,4306.56,06/26/2022 00:00,Shipped,2,202206,2022,Classic Cars,224.21,S02292,Rohan Mehta,+91-8360381597,222 Market Road,,Hyderabad,Telangana,475446,India,West,Mehta,Rohan,Medium
+10990,46,83.64,5,3847.44,12/08/2023 00:00,Shipped,4,202312,2023,Trains,109.65,S04748,Priya Kulkarni,+91-7111815766,190 Market Road,,Pune,Maharashtra,559453,India,North,Kulkarni,Priya,Medium
+10991,26,55.73,6,1448.98,05/23/2022 00:00,Shipped,2,202205,2022,Planes,74.09,S01230,Sara Joshi,+91-9816909455,236 Market Road,,Pune,Maharashtra,489906,India,North,Joshi,Sara,Medium
+10992,56,156.9,2,8786.4,09/29/2025 00:00,Shipped,3,202509,2025,Classic Cars,167.29,S04838,Diya Sharma,+91-7886040323,108 Market Road,,Bengaluru,Karnataka,664160,India,East,Sharma,Diya,Large
+10993,37,92.34,5,3416.58,02/21/2024 00:00,Resolved,1,202402,2024,Trucks and Buses,104.96,S04036,Aditya Sharma,+91-7792819395,280 Market Road,,Hyderabad,Telangana,678351,India,North,Sharma,Aditya,Medium
+10994,12,161.17,3,1934.04,11/09/2022 00:00,Shipped,4,202211,2022,Motorcycles,199.91,S01793,Vivaan Sharma,+91-9384197678,130 Market Road,,Bengaluru,Karnataka,518025,India,North,Sharma,Vivaan,Medium
+10995,24,39.17,6,940.08,07/01/2024 00:00,Shipped,3,202407,2024,Classic Cars,39.79,S03049,Diya Pawar,+91-8316085440,75 Market Road,,Jaipur,Rajasthan,700081,India,East,Pawar,Diya,Small
+10996,31,46.66,4,1446.46,02/25/2024 00:00,On Hold,1,202402,2024,Classic Cars,58.37,S04941,Anaya Deshmukh,+91-7306289349,225 Market Road,,Nashik,Maharashtra,426715,India,West,Deshmukh,Anaya,Medium
+10997,37,36.04,6,1333.48,01/17/2024 00:00,Shipped,1,202401,2024,Trains,36.1,S03166,Aanya Joshi,+91-8709783443,186 Market Road,,Bengaluru,Karnataka,443117,India,West,Joshi,Aanya,Medium
+10998,26,120.3,5,3127.8,05/14/2024 00:00,Shipped,2,202405,2024,Trucks and Buses,158.79,S04658,Aarav Khan,+91-9572350831,15 Market Road,,Nagpur,Maharashtra,504244,India,West,Khan,Aarav,Medium
+10999,44,154.78,5,6810.32,09/19/2025 00:00,Shipped,3,202509,2025,Vintage Cars,193.69,S00552,Rohan Khan,+91-7733012460,50 Market Road,,Nagpur,Maharashtra,682924,India,East,Khan,Rohan,Large
